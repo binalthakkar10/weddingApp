@@ -1,0 +1,182 @@
+label.error {
+  color: #bb4b4b;
+  left: 96%;
+  position: absolute;
+  width: 200px;
+  text-align: left;
+  margin-left: 0px;
+  background: rgb(237, 12, 12);
+  color: #fff;
+  padding: 5px 8px;
+  font-size: 12px;
+  border-radius: 4px;
+  -webkit-border-radius: 4px;
+  -o-border-radius: 4px;
+  -ms-border-radius: 4px;
+  -moz-border-radius: 4px;
+}
+
+label.error::before {
+  position: absolute;
+  content: '';
+  display: inline-block;
+  left: -4px;
+  top: 50%;
+  border-right: 4px solid rgb(237, 12, 12);
+  border-top: 5px solid transparent;
+  border-bottom: 5px solid transparent;
+  margin-top: -5px;
+}
+
+#side-bar-menu .side-prfl-img .cut-crnr
+{
+	display:none;
+}
+
+#side-bar-menu .icon-bar .noti-drop
+{
+	background-color:rgba(0, 0, 0, 0.2);
+}
+
+#side-bar-menu .icon-bar::after {
+    background: none repeat scroll 0 0 #e8817f;
+    border-radius: 54% 0 0;
+    content: "";
+    height: 21px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 21px;
+}
+
+#side-bar-menu .icon-bar::before {
+    background: none repeat scroll 0 0 #6eb5b8;
+    content: "";
+    height: 21px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 21px;
+    z-index: 0;
+}
+
+#side-bar-menu .side-prfl-img{
+	background: none repeat scroll 0 0 #e8817f;
+}
+
+#side-bar-menu .side-prfl-img .pro-img { border-radius:5% 0 0; }
+
+
+
+#side-bar-menu .icon-bar ul.noti-nav {
+    display: inline-block;
+    position: relative;
+    vertical-align: middle;
+    z-index: 9;
+}
+
+#frmEditWedooInfo label.error {
+ background: none repeat scroll 0 0 rgb(237, 12, 12);
+    border-radius: 4px;
+    color: #fff;
+    font-size: 12px;
+    margin-left: 0;
+    padding: 5px 8px;
+    position: absolute;
+    text-align: left;
+    width: 229px;
+	left:0;
+}
+
+#frmEditWedooInfo label.error::before {
+  border-bottom: 5px solid transparent;
+    border-right: 4px solid rgb(237, 12, 12);
+    border-top: 5px solid transparent;
+    content: "";
+    display: inline-block;
+    margin-top: -5px;
+    position: absolute;
+    right: -4px;
+    top: 50%;
+    transform: rotate(180deg);
+	left: auto;
+}
+
+
+.fields-wedding label.error{
+	 position: relative;
+	 left:auto;
+	 width:100%;
+	 margin: 5px 0 0;
+	 top:auto;
+	 float:left;
+}
+.fields-wedding label.error::before{
+	display:none;
+}
+#frmChooseWedding label{position: absolute; top: 48px; left: 0px; width: 46%;}
+a.wedding_choose_click {text-decoration: none;}
+.allFbFriends { float: left; width: 100%;}
+.allFbFriends ul {   display: inline-block; float: none;  margin-top: 10px;  text-align: center;  width: 80%; margin-top: 10px;}
+.allFbFriends ul li { float: left; width: 100%; margin-bottom: 10px; border-bottom: 1px solid #fff; padding-bottom: 10px;}
+
+.allFbFriends ul li > img.mCS_img_loaded { float:left; width:auto; height:50px; width: 50px;    }
+.allFbFriends ul li .frnd_list { float: left;  margin-left: 15px;}
+.allFbFriends ul li  a {  background: #fff;  padding: 5px 10px; font-size: 15px; text-transform:uppercase; float: right; border-radius: 5px; background:#d6d6d6; color:#989898;
+-moz-border-radius: 5px; -ms-border-radius: 5px; -webkit-border-radius: 5px; -o-border-radius: 5px;       }
+/* Drag and drop manage album wedding album test */
+.manage-albums .mange-cntntbox .mbox span{font-size: 15px !important;}
+
+/* slider in manage album css 
+.flexslider .slides > li { display: block !important;}
+ */
+/* map inside event */
+.gm-style-cc span { display: none !important; }
+
+/* signup form textarea */
+.fields-wedding li textarea.weding-tx-bx{min-height: 80px; resize: none;}
+#login form ul li .login-txbx {text-transform : none;}
+#register form ul li .login-txbx {text-transform : none;}
+
+/* Edit User Profile Page Css */
+.edit-info { text-align: center;}
+.edit-info .image-main { border-radius:50%; height:190px;  max-height:190px !important; max-width:190px; float:none !important;  }
+.edit-info .image-main img { border-radius:50%; width:auto !important; max-width:100%; height:186px;}
+.edit-info .edit-img { top:30px !important; right:10px !important;}
+
+/* Index About Us Css */
+.about-us{ background: url("../images/admin-main-bg.jpg") no-repeat fixed 50% 0px transparent; height: auto; padding: 0px; margin: 0px; width: 100%; position: relative; display: table; text-align: center; margin-top: 77px; color:#FFFFFF; }
+.about-us section{ float: left; width: 100%; text-align: center; margin-top: 77px; margin-bottom: 77px; }
+.about-content{ margin-top:50px; }
+.about-content p{ text-align:justify; }
+
+.thanx-signup .middle-thanx {
+    background-position: center top;
+    background-size: 100% auto;
+    min-height: 680px;
+    padding: 90px 20px;
+    width: 370px;
+}
+.thanx-signup .btnthanx a {
+    background: none repeat scroll 0 0 #e8817f;
+    border-radius: 5px;
+    color: #fff;
+    display: inline-block;
+    font-family: "open_sanslight";
+    font-size: 21px;
+    padding: 17px 67px;
+}
+#upload-pic .custom-pop-inner .uplodpic-box span { font-size: 13px !important;}
+
+.banner header .app-store {
+    display: inline-block;
+    margin: 20px 7px 0;
+}
+.logout.goback {
+    left: 0;
+    margin-left: 30px;
+    margin-right: 0;
+    right: auto;
+}
+
+.social-on { text-decoration:underline; }

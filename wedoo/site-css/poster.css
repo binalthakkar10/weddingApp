@@ -1,0 +1,71 @@
+.poster-main { width:100%; max-width:700px; background:#fff; margin:0 auto; }
+
+.card-main-pop { float:left; width:100%; padding:30px 0;}
+.card-main-pop .card-main { width:100%; max-width:350px; float:left; border:1px solid #fff; text-align:center; }
+.card-main-pop .card-main .pattern  { width:258%; height:258%; margin-left:-129%; position:absolute; left:50%; background:url(../images/pattern2.jpg) center top repeat; border-radius:50%; -moz-border-radius:50%; -ms-border-radius:50%; -o-border-radius:50%; -webkit-border-radius:50%;  }
+
+.card-main-pop .card-main .card-back { background:#6eb5b8; float:left; width:100%;  position:relative; height:210px; overflow:hidden; padding-top:; transform:rotate(180deg); -moz-transform:rotate(180deg); -ms-transform:rotate(180deg); -o-transform:rotate(180deg); -webkit-transform:rotate(180deg);}
+.card-main-pop .card-main .card-back .pattern { top:90px; z-index:0;}
+.card-main-pop .card-main .card-back .back-top { float:left; width:100%; position:relative; z-index:10; color:#000; font-size:14px; margin-top:25px; }
+.card-main-pop .card-main .card-back .back-top p { display:inline-block; vertical-align:middle; margin:0 35px;}
+.card-main-pop .card-main .card-back .back-top a {  display:inline-block; vertical-align:middle;}
+.card-main-pop .card-main .card-back .camera { margin-top:35px; position:relative; z-index:10; display:inline-block;}
+.card-main-pop .card-main .card-back > p { position:relative; z-index:10; font-size:12px;  color:#fff; font-family: 'open_sanssemibold'; margin-top:5px;}
+.card-main-pop .card-main .card-back > p strong { font-weight:bold; font-size:14px; font-family: 'open_sansregular';}
+.card-main-pop .card-main .card-back > p em {font-family: 'open_sanslight';}
+
+.card-main-pop .card-main .card-front { background:#6eb5b8; float:left; width:100%; position:relative; height:210px; overflow:hidden; border-top:1px solid #fff;  }
+.card-main-pop .card-main .card-front .pattern { top:13px; z-index:0;}
+.card-main-pop .card-main .card-front h1 { position:relative; z-index:10;  font-size:60px; color:#fff;  }
+.card-main-pop .card-main .card-front img { position:relative; z-index:10; margin-top:27px;}
+.card-main-pop .card-main .card-front p { position:relative; z-index:10; display:block; font-size:14px; color:#fff; margin-top:-5px; }
+.card-main-pop .card-main .card-front p.card-id { margin-top:0;}
+.card-main-pop .card-main .card-front p em { font-size:24px;}
+
+
+.design-poster-main { width:100%; max-width:1275px; background:#fff; margin:0 auto; box-shadow:0 0 2px 0 rgba(0,0,0,0.3); margin-top:30px; }
+
+.top-left-corner 		{ position:absolute; top:20px; left:20px; width:310px; height:310px; background:url(../images/poster-1.png) center no-repeat; } 
+.top-right-corner 		{ position:absolute; top:20px; right:20px; width:310px; height:310px; background:url(../images/poster-2.png) center no-repeat;} 
+.bottom-left-corner 	{ position:absolute; bottom:20px; left:20px; width:310px; height:310px; background:url(../images/poster-3.png) center no-repeat;} 
+.bottom-right-corner	{ position:absolute; bottom:20px; right:20px; width:310px; height:310px; background:url(../images/poster-4.png) center no-repeat;} 
+.top-center-corner 		{ position:absolute; top:20px; left:20px;  right:20px; height:30px; background:url(../images/poster-line-hori.png) center no-repeat;} 
+.left-center-corner 	{ position:absolute; top:20px; left:20px;  bottom:20px; width:30px; background:url(../images/poster-line-ver.png) center no-repeat;} 
+.right-center-corner	{ position:absolute; top:20px; right:20px;  bottom:20px; width:30px; background:url(../images/poster-line-ver.png) center no-repeat;} 
+.bottom-center-corner 	{ position:absolute; bottom:20px; left:20px;  right:20px; height:30px; background:url(../images/poster-line-hori.png) center no-repeat;}
+/*poster main 1*/
+.design-poster-main .poster-main-1 { float:left; width:100%; padding:20px; text-align:center; position:relative;  min-height:1650px;}
+.design-poster-main .poster-main-1 .weding-logo{margin-top:117px;}
+.design-poster-main .poster-main-1 .poster-head span{font-family:'amplify_personal_use_onlyRg';font-size:200px;color:#6eb5b8;}
+.poster-head > img {padding-left: 38px;padding-right: 30px;margin-top: -64px;}
+.design-poster-main .poster-main-1 .poster-head {margin-top: -10px;margin-bottom: -11px;}
+.design-poster-main .poster-main-1 .sep-1{border-top: 7px dotted #6eb5b8;display: inline-block; width: 71%; margin-left: 10px; margin-bottom: 2px;}
+.design-poster-main .poster-main-1 .sub-head{font-family:'amplify_personal_use_onlyRg';font-size:60px;color:#6eb5b8;}
+.design-poster-main .poster-main-1 .freehandtop{margin-top:88px;}
+.design-poster-main .poster-main-1 .poster-bottom{display:inline-block;}
+.design-poster-main .poster-main-1 ul li .list-number{font-family:'birchstd';font-size:74px;color:#fff;background:#7e7e7e;padding: 6px 42px;border-radius:5px;float:left;line-height: 100px;padding-top: 5px !important;line-height: 94px;}
+.design-poster-main .poster-main-1 ul.list-popup { display: inline-block; width: 100%;margin-top: 16px;}
+.design-poster-main .poster-main-1 ul.list-popup li { display: inline-block;width: 100%;margin-bottom:52px;}
+.design-poster-main .poster-main-1 ul.list-popup li:last-child{margin-bottom:41px;}
+.design-poster-main .poster-main-1 ul li .list-text {float: left;text-align: left;margin-left: 30px;}
+.design-poster-main .poster-main-1 ul li .list-number.number1{padding:0px 43px;}
+.design-poster-main .poster-main-1 ul li .list-number.number2,
+.design-poster-main .poster-main-1 ul li .list-number.number3{padding:0px 40px}
+.design-poster-main .poster-main-1 ul li .list-text span{font-family:'birchstd';font-size:74px;color:#7e7e7e;}
+.design-poster-main .poster-main-1 ul li .list-text-first{margin-top:7px;}
+.design-poster-main .poster-main-1 ul li .list-text-first span{line-height: 70px;margin-top: 2px;}
+.design-poster-main .poster-main-1 ul li .list-text p{font-family:'open_sansregular';font-size:24px;color:#7e7e7e; line-height: 10px;}
+.design-poster-main .poster-main-1 ul li .list-text .clr-sub{color:#6eb5b8;}
+/*poster main 1*/
+
+/*poster main 2*/
+.design-poster-main .poster-main-2{ float:left; width:100%; padding:20px; text-align:center; position:relative;  min-height:1650px;}
+.design-poster-main .poster-main-2 .weding-logo{margin-top:86px;}
+.design-poster-main .poster-main-2 .sep-1{border-top: 7px dotted #6eb5b8;display: inline-block; width: 71%; margin-left: 10px; margin-bottom: 2px;margin-top:50px;}
+.design-poster-main .poster-main-2 .sub-head{font-family:'oratorstd';font-size:64px;color:#6eb5b8;line-height: 38px;margin-top:46px;display:block;}
+.design-poster-main .poster-main-2 .postersubtext{display:inline-block;font-size:34px;font-family:'open_sanssemibold';color:#7e7e7e;margin-top:28px; line-height: 41px;}
+.design-poster-main .poster-main-2 .postersmalltext{display:inline-block;font-size:40px;font-family:'open_sanssemibold';color:#7e7e7e; line-height: 49px;margin-top: 7px;margin-bottom: 19px;}
+.design-poster-main .poster-main-2 .freehandtop{margin-top:57px;}
+/*poster main 2*/
+
+

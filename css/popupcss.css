@@ -1,0 +1,70 @@
+
+.poster2 .poster2inner{position:relative;background:#fff;width:698px;height:905px;margin-top: 20px;}
+.poster3 .poster2inner{position:relative;background:#fff;width:698px;height:905px;margin-top: 20px;}
+.poster1 .poster2inner{position:relative;background:#fff;width:694px;height:896px;margin-top: 20px;display:inline-block;}
+.poster2 .posterlogo{margin-top:31px}
+.poster3 .posterlogo1{margin-top:63px}
+.poster3 .poster3txt{font-family:oratorstd;color:#6eb5b8;font-size: 36px; margin-bottom: 11px;margin-top: 13px;display:inline-block;}
+.poster3 .poster4txt{font-family:open_sanssemibold;color:#7e7e7e;display:inline-block; font-size: 20px;margin-bottom: 31px;margin-top: 22px;}
+
+.poster2inner .topcorner{position:absolute;top:0;left:0;width:174px;height:174px;padding:5px} 
+.poster2inner .toprightcorner{position:absolute;top:0;right:0;width:174px;height:174px;padding:5px} 
+.poster2inner .bottomleftcorner{position:absolute;bottom:0;left:0;width:174px;height:174px;padding:5px} 
+.poster2inner .bottomrightcorner{position:absolute;bottom:0;right:0;width:174px;height:174px;padding:5px} 
+.poster2inner .topborder {height: 19px;left: 176px;position: absolute;top: 6px;width: 346px;}
+.poster2inner .bottomborder {height: 19px;left: 176px;position: absolute;bottom: 6px;width: 346px;}
+.poster2inner .leftborder {height: 544px;top: 179px;position: absolute;left: 6px;width: 19px;}
+.poster2inner .rightborder {height: 544px;top: 179px;position: absolute;right: 6px;width:19px;}
+
+.poster2 .poster2txt{border-bottom:4px dotted #6eb5b8;padding-bottom:13px;display:inline-block;}
+.poster3 .poster2txt{border-bottom:4px dotted #6eb5b8;display:inline-block;}
+.poster2 .poster2txt1{font-size:110px;font-family:'amplify_personal_use_onlyRg';color:#6eb5b8;margin-right:22px;}
+.poster2 .poster2txt2{font-size:110px;font-family:'amplify_personal_use_onlyRg';color:#6eb5b8;margin-left:22px;}
+.poster2 .poster2txt3{ color: #6eb5b8;display: inline-block;font-family: "amplify_personal_use_onlyRg";font-size: 30px;margin-left: 7px;margin-top: 7px;}
+.poster2 .freehand{width:208px;height:42px;display:inline-block;margin-bottom: 7px;margin-top: 50px;}
+.poster2 .freehand2{width:208px;height:42px;display:inline-block; margin-top: 10px;}
+.poster3 .freehand{width:207px;height:41px;display:inline-block;margin-top: 1px;margin-bottom:10px}
+.poster3 .freehand2{width:207px;height:41px;display:inline-block;margin-top:10px;}
+.poster3 .posterpoem{color:#7e7e7e;font-size:19px;font-family:open_sanssemibold;display:inline-block;}
+.poster2 .posternumber1{display:inline-block;width:50%; margin-bottom: 11px;}
+.poster2 .posternumber1 .psub1{float:left;padding: 6px; width: 23%;}
+.poster2 .posternumber1 .psub2{float:left;text-align:left;}
+.poster2 .posternumber1 .psub2 .psub2head{font-family:birchstd;color:#7e7e7e;font-size:36px}
+.poster2 .posternumber1 .psub2 .psub2head.onlyhead{ margin-top: 9px;}
+.poster2 .posternumber1 .psub2 .psubtext{color:#7e7e7e;font-size: 12px;margin-top: -11px;}
+.psub2head span{color:#6eb5b8}
+.poster2 .pnumber1{background: none repeat scroll 0 0 #7e7e7e;border-radius: 5px;color: #fff;float: left;font-family: birchstd;margin-right: 6px;font-size: 39px; padding: 0 24px;}
+.poster2 .pnumber1.add{}
+ 
+.ptrnbox{max-width:349px;display:inline-block;width:100%;  margin-left: -4px;margin-top: -5px;}
+.ptrnbox .patrnbox1{background: none repeat scroll 0 0 #6eb5b8;float: left;margin-right: 18px;max-width: 349px;overflow: hidden;position: relative;width: 100%;margin-top:-1px;border: 1px solid #fff;}
+.headerbox-pattern{max-width:740px;display:inline-block;width:100%;}
+.patternheading{float:left;margin-right:20px;font-family:amplify_personal_use_onlyRg;font-size:30px;color:#fff}
+.patternheading2{float:right;font-family:amplify_personal_use_onlyRg;font-size:30px;color:#fff}
+.patternheading3{float:left;font-family:amplify_personal_use_onlyRg;font-size:30px;color:#fff}
+span.headptrntxt1{float:left;font-family:amplify_personal_use_onlyRg;font-size:30px;}
+span.headptrntxt2{float:right;font-family:amplify_personal_use_onlyRg;font-size:30px;}
+.ptrnbox .patrnbox2{max-width:349px;width:100%;float:left;background:none repeat scroll 0 0 #6eb5b8;overflow:hidden;position:relative;transform: rotate(180deg);border:1px solid #fff;}
+.ptrnbox .ptrnbg1{background:url(../images/ptrnbig2.png);border-radius: 50%;height: 233.33%;left: 50%;margin-left: -116.66%;position: absolute;width: 233.33%;z-index: 1;}
+.wedoowhite {margin-top:14px;}
+.ptrnbox .ptrnbg2{ position: relative;z-index: 5;}
+.ptrnbg2 h2{font-size:60px;font-family:amplify_personal_use_onlyRg;color:#fff;margin-top: 2px;}
+.ptrnbg2 p{font-size:14px;color:#fff;}
+.ptrnbg2 p.lastptrntxt{margin-top: 8px;padding-bottom: 13px;}
+.ptrnbg2 p span{font-style:italic;font-size:24px;color:#fff}
+.ptrnbg3 {}
+.patrnbox2 .apple{float:left;padding:26px;}
+.patrnbox2 .android{float:right;padding:26px;}
+.patrnbox2 .ptrnbg3 {background: url(../images/ptrnbig2.png);border-radius: 50%;height: 345.833%;left: 50%;margin-left: -172.91%;position: absolute;width: 345.833%;z-index: 1;}
+.ptrnbox .ptrnbg4{ position: relative;z-index: 5;}
+.patrnbox2 .ptrn2txt{ color: #000;float: left;font-size: 14px;margin-top: 30px;width: 180px;margin-bottom: 30px;}
+.ptrn2txt span{font-family:open_sansregular;}
+.ptrnbg4 > p.firstline {font-size: 14px;font-weight: bold;}
+.ptrnbg4 > p.secondline {font-size: 12px;margin-bottom: 13px;}
+.ptrnbg4 > p.secondline span {font-style:italic;}
+.ptrnbg4 img{margin-bottom: 9px;margin-top: 7px;} 
+.posters .poster2 .posterlogo,
+.posters .poster3 .posterlogo1 { margin-top:80px;}
+
+/*print your own 3*/
+

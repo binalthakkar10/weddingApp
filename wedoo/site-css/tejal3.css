@@ -1,0 +1,158 @@
+@charset "utf-8";
+/* CSS Document */
+/* header feed */
+
+
+/*everythingwedpic*/
+	.everythingwedpicmain .unlimited-photo{margin-top: 43px;margin-bottom: 58px;}
+	.everythingwedpicmain .everythingwedpic-h1{font-size:60px !important;}
+	.everythingwedpicmain .ff-cntnt:nth-child(even){background:#f2f2f2;}
+	.everythingwedpicmain .ff-cntnt:nth-child(odd){background:#ffffff;}
+	.everythingwedpicmain .everythingspacing{display: inline-block;vertical-align: middle; width: auto;float:none !important;}
+	.everythingwedpicmain .everythingspacingright{display: inline-block;margin-left: 55px;vertical-align: middle;width: auto;float:none !important;}
+	.everythingwedpic{background: url(../images/everythingwedpic.png) no-repeat fixed 50% 0 rgba(0, 0, 0, 0);}
+	.everythingwedpicmain .wedoddevendiv{width:1030px !important;}
+	.everythingwedpicmain .wedfooter{background:url(../images/wedfooterbg.png) !important;width:100%;margin:0 auto;float:left;height:524px;text-align:center;}
+	.everythingwedpicmain .weddiv{width: auto !important;margin-top:159px !important;}
+	.everythingwedpicmain .wedapp{background:#e8817f;padding: 30px 46px;color:#fff;font-size:22px;font-family:'open_sanslight';margin-bottom:19px;border-radius:5px;}
+	.everythingwedpicmain .oddevendiv{margin:0;}
+	.everythingwedpicmain .btnswed a{float:left}
+	.everythingwedpicmain .wedapp:hover{background:#F76C6A;text-decoration: none;}
+	.everythingwedpicmain .demoalbum{background:#c6c6c6;padding: 15px 120px;font-size:22px;font-family:'open_sanslight';color:#fff;border-radius:5px;}
+	.everythingwedpicmain .demoalbum:hover{background:#969494;text-decoration: none;}
+	.everythingwedpicmain .guestlist .everythingspacingright{margin-top:44px;}
+	.everythingwedpicmain .premiumprints .wedoddevendiv{margin-bottom: 80px;margin-top: 76px;}
+	.everythingwedpicmain .weddingblog .wedoddevendiv{margin-top:136px;margin-bottom:151px;}
+	.everythingwedpicmain .appcards .wedoddevendiv{margin-top:68px;margin-bottom:69px;}
+	.everythingwedpicmain .slideshowwed .wedoddevendiv{margin-top:98px;margin-bottom:99px;}
+	.ff-right.bottomphone2.imgwed {margin-top: 101px;}
+		
+/*everythingwedpic*/	
+	
+	
+
+	
+@media screen and (min-width:1930px){
+
+	}
+@media screen and (max-width:1370px){
+	/*everythingwedpic*/
+	/*everythingwedpic*/
+	}
+@media screen and (max-width:1280px){}
+@media screen and (max-width:1200px){}
+@media screen and (max-width:1024px){
+	/*everythingwedpic*/
+	.ff-left.imgwed {width: 345px;}
+	.ff-right.bottomphone1.imgwed {width: auto !important;}
+	.everythingwedpicmain .wedoddevendiv{width:auto !important;}
+	.everythingwedpicmain .wedfooter{height:290px;}
+	.everythingwedpicmain .weddiv{margin-top:30px !important;width:100%;}
+	.everythingwedpicmain .wedapp {font-size: 13px;padding: 19px 41px;width: 100%;}
+	.everythingwedpicmain .demoalbum {font-size: 13px;padding: 12px 53px;width: 100%;}
+	.ff-rightside.btnswed.everythingspacingright { margin-top: 21px;}
+	/*everythingwedpic*/
+	}
+@media screen and (max-width:991px){}
+@media screen and (max-width:980px){
+	/*everythingwedpic*/
+	.everythingwedpicmain .wedoddevendiv{width:auto !important;}
+	.everythingwedpicmain .guestlist .everythingspacingright{margin-top:10px;}
+	.everythingwedpicmain .premiumprints .wedoddevendiv{margin-bottom: 10px;margin-top: 10px;}
+	.everythingwedpicmain .weddingblog .wedoddevendiv{margin-top:10px;margin-bottom:10px;}
+	.everythingwedpicmain .appcards .wedoddevendiv{margin-top:10px;margin-bottom:10px;}
+	.everythingwedpicmain .slideshowwed .wedoddevendiv{margin-top:10px;margin-bottom:10px;}
+	.everythingwedpicmain .wedfooter{height:290px;}
+	.everythingwedpicmain .weddiv{margin-top:30px !important;width:100%;}
+	.everythingwedpicmain .wedapp {font-size: 13px;padding: 19px 41px;width: 100%;}
+	.everythingwedpicmain .demoalbum {font-size: 13px;padding: 12px 53px;width: 100%;}
+	.ff-rightside.btnswed.everythingspacingright { margin-top: 21px;}
+	/*everythingwedpic*/
+	}
+@media screen and (max-width:900px){
+	/*everythingwedpic*/
+	.ff-left.imgwed {width:300px;height:auto;}
+	.ff-right.bottomphone2.imgwed {height: 255px;width:auto !important}
+	.ff-right.bottomphone1.imgwed {height: 255px;width:auto !important}
+	.everythingwedpicmain .weddiv{margin-top:0px !important;}
+	.oddevendiv .container{margin-top:15px;}
+	.everythingwedpicmain .wedfooter{height:320px;}	
+	.everythingwedpicmain .weddiv{margin-top:25px !important;}
+	.everythingwedpicmain .wedoddevendiv{width:auto !important;}
+	.everythingwedpicmain .guestlist .everythingspacingright{margin-top:10px;}
+	.everythingwedpicmain .premiumprints .wedoddevendiv{margin-bottom: 10px;margin-top: 10px;}
+	.everythingwedpicmain .weddingblog .wedoddevendiv{margin-top:10px;margin-bottom:10px;}
+	.everythingwedpicmain .appcards .wedoddevendiv{margin-top:10px;margin-bottom:10px;}
+	.everythingwedpicmain .slideshowwed .wedoddevendiv{margin-top:10px;margin-bottom:10px;}
+	.ff-right.bottomphone2.imgwed {margin-top: 10px;}	
+	/*everythingwedpic*/
+	}
+@media screen and (max-width:800px){
+
+	/*everythingwedpic*/
+	.ff-left.imgwed {height: 167px;}
+	.ff-right.bottomphone2.imgwed {height: 255px;width:auto !important}
+	.ff-right.bottomphone1.imgwed {height: 255px;width:auto !important}
+	.oddevendiv .container{margin-top:15px;}
+	.everythingwedpicmain .weddiv{margin-top:25px !important;}	
+	.everythingwedpicmain .wedoddevendiv{width:auto !important;}
+	/*everythingwedpic*/
+	}
+@media screen and (max-width:767px){
+	/*everythingwedpic*/
+	.ff-left.imgwed {height: 167px;}
+	.ff-right.bottomphone2.imgwed {height: 255px;width:auto !important}
+	.ff-right.bottomphone1.imgwed {height: 255px;width:auto !important}
+	.everythingwedpicmain .weddiv{margin-top:10px !important;}
+	.oddevendiv .container{margin-top:15px;}
+	.everythingwedpicmain .wedapp {font-size: 13px;padding: 19px 41px;width: 100%;}
+	.everythingwedpicmain .demoalbum {font-size: 13px;padding: 12px 53px;width: 100%;}
+	.ff-rightside.btnswed.everythingspacingright { margin-top: 21px;}
+	.everythingwedpicmain .wedfooter{height:270px;}	
+	.everythingwedpicmain .guestlist .everythingspacingright{margin-top:10px;}
+	.everythingwedpicmain .premiumprints .wedoddevendiv{margin-bottom: 10px;margin-top: 10px;}
+	.everythingwedpicmain .weddingblog .wedoddevendiv{margin-top:10px;margin-bottom:10px;}
+	.everythingwedpicmain .appcards .wedoddevendiv{margin-top:10px;margin-bottom:10px;}
+	.everythingwedpicmain .slideshowwed .wedoddevendiv{margin-top:10px;margin-bottom:10px;}
+	.ff-right.bottomphone2.imgwed {margin-top: 10px;}	
+	/*everythingwedpic*/
+	}
+@media screen and (max-width:640px){ 	
+
+	/*everythingwedpic*/
+		.ff-left.imgwed {height: auto; width: 250px;}
+		.everythingwedpicmain .wedoddevendiv{width:100% !important;}
+		.everythingwedpicmain .demoalbum {font-size: 13px; padding: 14px 36px;}
+		.everythingwedpicmain .wedapp {font-size: 13px;padding: 12px 33px !important;}
+		.graylogo{width: 178px;}
+		.ff-rightside.btnswed.everythingspacingright{width:100%;} 
+		.everythingwedpicmain .wedfooter{height:240px !important;}
+		.ff-leftside.everythingspacing > h1 {font-size: 40px;text-align:center;}
+		.ff-rightside.everythingspacingright > h1{font-size: 40px;text-align:center;}
+		.ff-leftside.everythingspacing > span {text-align:center;}
+		.ff-rightside.everythingspacingright > span{text-align:center;}
+		.ff-leftside.everythingspacing > p {text-align:center;}
+		.ff-rightside.everythingspacingright  > p{text-align:center;}
+		.everythingwedpicmain .unlimited-photo{margin-top:15px;}
+		.ff-rightside.everythingspacingright{margin-left:0 !important;}
+		.ff-rightside.btnswed.everythingspacingright {padding: 22px;}
+	/*everythingwedpic*/
+	}
+@media screen and (max-width:580px){
+	
+}
+@media screen and (max-width:480px){ 	
+	/*everythingwedpic*/
+	
+	/*everythingwedpic*/
+	}
+@media screen and (max-width:320px){ 	
+/*everythingwedpic*/	
+.everythingwedpicmain .wedfooter{height:240px;}
+/*everythingwedpic*/
+}
+@media only screen and (max-width: 1000px) and (orientation: landscape) {
+} 
+
+@media only screen and (max-width: 1000px) and (orientation: landscape) {
+}

@@ -1,0 +1,2693 @@
+@media screen and (min-width:1930px){
+	.banner header { left:50%; margin-left:-855px;}	
+	.banner header:after,
+	.banner header:before { bottom:-43px;}
+	.footer,
+	.video-main { background-attachment:scroll !important; -moz-background-attachment:scroll !important; -ms-background-attachment:scroll !important; -o-background-attachment:scroll !important; -webkit-background-attachment:scroll !important; background-position:center top !important; background-size:100% auto; }
+
+
+}
+@media screen and (max-width:1920px){
+	/*Photo Comment*/
+	.photo-comment{ margin-top:7px;}
+	.tag_icon {padding: 10px;width: 52px;}
+	.tag_icon img{ max-height:100%; max-width:100%;}
+	.photo-comment{ background:transparent; width:100%; margin-top:10px;  }
+	.view-album {margin-top: 15px;}
+	/*Photo Comment*/
+	
+}
+
+@media screen and (max-width:1370px){
+
+	.banner { max-height:610px; background-size:100% auto;}
+	.banner header { max-width:310px; padding-top:40px;}
+	.banner header .logo { width:78%;}
+	.banner header .logo img { width:auto; max-width:100%;}
+	.banner header .header-tag { font-size:36px; margin-top:10px;}
+	.banner header .sub-head { font-size:17px; margin:15px 0 5px;}
+	.banner header .sub-head span { font-size:34px;}
+	.banner header .dark-but { width:100%; min-width:10px; font-size: 14px; margin: 12px 0 0; padding: 5px 0; width: 100%;}
+	.banner header .member { margin-top:5px;}
+	.banner header .app-store { margin:20px 2% 0; width:46%; float:left;}
+	.banner header .app-store img { width:100%;}
+	.banner .menu button { width:30px;}
+	.banner .menu button img { width:100%;}	
+	.why-choose .why-head { margin-left:-190px; }
+	.why-choose .why-head img { width:380px;}
+	
+	.wee-flower img { width:100%;} 
+	#wee-flower-1 { width:300px;}
+	#wee-flower-2 { width:280px;}
+	#wee-flower-3 {}
+	#wee-flower-4 { width:280px;}	
+	
+	.why-inner .why-img { min-height:490px;}
+	.why-inner .why-img .why-lft {width:210px;}
+	.why-inner .why-img .why-mid { width:240px;}
+	.why-inner .why-img .why-rgt {width:210px;}
+
+	.why-inner { margin-top:40px;}	
+	.why-inner .why-ser ul li span a { width:65px; height:65px; background-size:57%;}
+	.why-inner .why-ser ul li strong { font-size:16px; margin-top:5px;}
+	.why-inner .why-ser ul li p { font-size:13px; line-height:20px;} 
+	.any-thing-main { padding-top:25px;}
+	.any-thing-main .slider-main .slider-frame { padding:50px 14px 52px; background-size:100% auto; background-color:#F3F3F3; }
+	.any-thing-main .slider-main .slider-frame img { width:134px;} 
+	.any-thing-main .mCSB_horizontal.mCSB_inside > .mCSB_container { margin-bottom:40px;}
+	.any-thing-main .any-thing-thumb { margin-top:20px;}
+	.any-thing-main .any-thing-thumb ul li { margin: 0 11px; width: 110px;}
+	.any-thing-main .any-thing-thumb ul li a { background-size:62% auto; width:75px; height:75px;}
+	.any-thing-main .any-thing-thumb ul li span { font-size:16px;}
+	
+	.wedoo-aap span.line { margin-bottom:30px;}
+	..testimonials-head { margin-top:100px;}
+	.testimonials-head h1 { margin-bottom:10px;}
+	.testimonials-box .user-text { font-size:18px; line-height:28px;}
+	.testimonials-box .user-detail { padding:10px 20px;}
+	.testimonials-box .user-detail strong { font-size:16px;}
+	.video-main { height:500px;} 
+	.video-main section { height:500px;}
+	.video-main section h1 { font-size:40px;}
+	.video-main section .play img { width:70px;}
+	
+	.footer { padding-top:10px; height:455px;}
+	.footer footer { margin-top:20px;}
+	.footer footer form .footer-textbx { margin-bottom:15px; font-size:14px; padding:5px;}
+	.footer footer form textarea.footer-textbx { min-height:95px;}
+	.footer footer form .footer-textbt { padding:7px 0; font-size:14px;}
+	.footer footer .footer-text-main .footer-icon { width:125px;}
+	.footer footer .footer-text-main .footer-icon img { width:150px;}
+	.footer footer .footer-text-main em { font-size:25px; line-height:30px; margin-top:0;}
+	.footer .copy { margin-top:40px;}
+
+
+	/*login popup */	
+	
+	#login .custom-pop-inner { padding:30px; height:440px; width:570px; }
+	#login .login-with-fb { padding:10px 15px; font-size:20px;}
+	#login .login-with-fb img { height:30px;}		
+	#login .login-head { margin-top:5px;}
+	#login form ul { margin-top:25px;}
+	#login form ul li { margin-bottom:10px;}
+	#login form ul li .login-txbx { font-size:16px; padding:10px;}
+	#login form ul li .forgot { font-size:20px;}
+	#login form ul li .login-txbt { font-size: 22px; margin-top: 20px; padding: 6px 100px;}
+	#login .social { margin-top:20px;}
+	#login .social li { margin:0 10px;}
+	#login .social li img { width:50px;}
+	
+	#register .social li { margin:0 10px;}
+	#register .social li img { width:50px;}
+
+	.custom-pop #pop-close { padding:10px; }
+	.custom-pop #pop-close img { width:20px;}	
+
+	#register .custom-pop-inner { padding:30px;   height:532px; width:570px; }
+	#register .login-with-fb { padding:10px 15px; font-size:20px;}
+	#register .login-with-fb img { height:30px;}		
+	#register .login-head { margin-top:5px;}
+	#register form ul { margin-top:25px;}
+	#register form ul li { margin-bottom:10px;}
+	#register form ul li .login-txbx { font-size:16px; padding:10px;}
+	#register form ul li .forgot { font-size:20px;}
+	#register form ul li .login-txbt { font-size: 22px; margin-top: 20px; padding: 6px 100px;}
+
+	#choos-wed #pop-close { top:-6px; right:-6px;}
+	#choos-wed .custom-pop-inner {height: 460px; width: 380px;}
+	#choos-wed .choos-pop-head { font-size: 24px; padding: 10px 0;}	
+	#choos-wed .choos-cont { margin-top:15px; padding:0 20px;}
+	#choos-wed .choos-cont form .choos-txbx { padding:10px 66px 9px 10px; font-size:20px;}
+	#choos-wed .choos-cont form .choos-txbt { width:48px; height:48px;}
+	#choos-wed .choos-cont .wed-lits { margin-top:15px; max-height:305px;}
+	#choos-wed .choos-cont .wed-lits li { padding:6px 18px;}
+	#choos-wed .choos-cont .wed-lits .list-head { font-size:36px; line-height:34px;}  
+	#choos-wed .choos-cont .wed-lits .list-id { font-size:14px;}
+	#choos-wed .choos-cont .wed-lits .list-delete { margin-top:-13px;}
+	#choos-wed .choos-cont .wed-lits .list-delete img { width:26px;}
+	/*	.why-gallary { margin-top:110px;}*/
+	/*************/
+	
+	.left-ico > img{width:100%;}
+	.right-ico > img{width:100%;}		
+	.faq-main .faq{max-height:500px;}	
+	.faq-main a.left-ico{width:150px;}
+	.faq-main a.right-ico{width:50px;}
+	.faq-main .faq .faq-div .txt{margin-top:150px;}
+	.faq-main .faq .faq-div .txt h1.faq-h{font-size:80px;}
+	.faq-main .faq .faq-div form{max-width:800px; width:100%; margin:0 auto; text-align:center; float:none;}	
+	.faq-main .faq .faq-div form ul li input.txt-bx{font-size:23px; padding: 10px 50px 10px 10px;}
+	.faq-main .faq .faq-div form ul li p{font-size:20px;}
+	.faq-main .faq .faq-div form ul li .btn1{    padding: 29px 25px; background-size: 30px auto;}
+	.faq-botm{   padding:50px 0;}
+	.faq-botm .last-btns{margin-top:80px;}
+	.faq-botm .last-btns a{width: 345px;  padding: 10px 0;   font-size: 20px;}
+	.gw-nav-list > li > a{  font-size: 25px;}
+	.gw-sidebar .gw-nav-list > li{background: url("../images/dot.png") no-repeat scroll 0 13px rgba(0, 0, 0, 0) !important; padding: 20px 0;}
+	.gw-sidebar .gw-nav-list > li::before{ top: 45px;}
+	.gw-sidebar .gw-nav-list li a{padding-left:70px;}
+	.gw-nav-list > li .gw-submenu > li{padding-left:70px; padding-bottom:10px;}
+	.gw-nav-list > li .gw-submenu > li p { font-size: 20px;  }
+	
+	/*features*/
+	.imgsec1{max-height: 600px;}
+	.imgsec2{max-height: 600px;}
+	.imgsec3{max-height: 600px;}
+	.ff-cntnt .main-ff-cntnt span{margin-top:15px;}
+	.ff-cntnt{margin:0;}
+	/*features*/
+	/*thanx-signup*/
+	.thanx-signup{background-size:cover; padding:20px 0;}
+	.thanx-signup .middle-thanx{ background-size:100%; width:370px; padding:90px 20px; background-position:center top; }
+	.thanx-signup .logo-tx img{ width:150px;}
+	.thanx-signup .thanxtxt p{font-size:18px;}
+	.thanx-signup .thanxvector { background-size: auto 100%; margin: 15px 0; font-size: 25px; padding: 8px 0;}
+	.thanx-signup p.help-weedoo {font-size:18px;}
+	.thanx-signup .socialtx {margin:25px 0 0;}
+	.thanx-signup .socialtx ul li { margin:0 10px;}
+	.thanx-signup .socialtx ul li img{width:50px;height:50px;}
+	.thanx-signup .btnthanx span{padding:11px 35px;font-size:21.04px;}
+	.thanx-signup .btnthanx a { font-size: 18px; padding: 11px 47px;}
+	/*thanx-signup*/	
+	/*manage-albums*/
+	.manage-albums { max-width:970px;}
+	.manage-albums h3.mng-head{ font-size: 25px;  margin-top: 20px;}
+	.manage-albums span.mng-line{  margin:5px 0;}
+	.manage-albums .mange-cntntbox{margin-top:40px;}
+	.manage-albums .mange-cntntbox .mbox span{font-size:18px;  margin-top: 10px;}
+	.manage-albums .mange-cntntbox .mbox{height:170px;}
+	.manage-albums .create-ur-album form .txt-bx{font-size:20px;   padding: 10px 55px 10px 10px;}
+	.manage-albums .create-ur-album form .brows{   height: 49px; background-size:30px;     padding: 20px;}
+	.manage-albums .create-ur-album{  margin: 30px 0 40px;}
+	.manage-albums .slider{width:67%;}
+	/*popup*/
+	#upload-pic .custom-pop-inner .admin-white-head { padding: 10px 0;}
+	#upload-pic .custom-pop-inner{height: 500px; width:700px; }
+	#upload-pic .custom-pop-inner .admin-white-head h1 { font-size: 30px;}
+	#upload-pic .custom-pop-inner .admin-white-head h1 i{font-size: 31px; height: 31px; line-height: 31px; margin-right: 5px;}
+	#upload-pic .custom-pop-inner .inner-part h3{  font-size: 17px;  margin: 15px 0;}
+	#upload-pic .custom-pop-inner .uplodpic-box .mbox{  height: 145px;}
+	#upload-pic .custom-pop-inner .uplodpic-box span{font-size:14px;}
+	
+	#upload-pic .custom-pop-inner .note p{ font-size: 13px;   padding: 15px 10px 15px 15px;}
+	#upload-pic .custom-pop-inner .choose-file{   font-size: 20px;}
+	#upload-pic .custom-pop-inner .inner-part{height:235px;}
+	
+	#slideshow .custom-pop-inner .admin-white-head { padding: 10px 0;}
+	#slideshow .custom-pop-inner{height: 500px; width:700px; }
+	#slideshow .custom-pop-inner .admin-white-head h1 { font-size: 30px;}
+	#slideshow .custom-pop-inner .admin-white-head h1 i{font-size: 31px; height: 31px; line-height: 31px; margin-right: 5px;}
+	#slideshow .custom-pop-inner .inner-part h3{  font-size: 17px;  margin: 15px 0;}
+	#slideshow .custom-pop-inner .uplodpic-box .mbox{  height: 145px;}
+	#slideshow .custom-pop-inner .uplodpic-box span{font-size:14px;}
+	
+	#slideshow .custom-pop-inner .note p{ font-size: 13px;   padding: 15px 10px 15px 15px;}
+	a.slideshow{font-size: 20px;}
+	#slideshow .custom-pop-inner .inner-part{height:396px;}
+	
+	
+	
+	#push-to-fb .custom-pop-inner .admin-white-head { padding: 10px 0;}
+	#push-to-fb .custom-pop-inner{height: 495px; width:700px; }
+	#push-to-fb .custom-pop-inner .admin-white-head h1 { font-size: 30px;}
+	#push-to-fb .custom-pop-inner .admin-white-head h1 i{font-size: 31px; height: 31px; line-height: 31px; margin-right: 5px;}
+	#push-to-fb .custom-pop-inner .inner-part h3{  font-size: 17px;  margin: 15px 0;}
+	#push-to-fb .custom-pop-inner .uplodpic-box .mbox{  height: 145px;}
+	#push-to-fb .custom-pop-inner .uplodpic-box span{font-size:14px;}
+	
+	#push-to-fb .custom-pop-inner .note p{ font-size: 13px;   padding: 15px 10px 15px 15px;}
+	#push-to-fb .custom-pop-inner a.slideshow{font-size:20px;}
+	/*popup*/
+	/*manage-albums*/	
+	/*accommodations */
+	.accommodations .acc-form-div form .acc-btns{font-size: 20px; padding: 3px 20px;}
+	.accommodations .acc-form-div form ul li .acc-txt-bx, 
+	.accommodations .acc-form-div form ul li textarea{  font-size: 16px; margin-bottom:15px;  padding: 10px 15px;}
+	.accommodations .acc-form-div form ul li.acc-xs{margin-bottom:15px;}
+	.accommodations .acc-form-div form ul li .acc-side{ height: 145px;}
+	
+	.acc-head{font-size:20px;  margin-top: 25px;}
+	.accommodations span.mng-line{margin-bottom:25px;}
+	.accommodation-list span.mng-line{margin-bottom:25px;}
+	.accommodation-list a.addnew{padding: 10px 20px; font-size:18px;}
+	.accommodation-list .acc-list-div{margin-top:20px;}
+	.accommodation-list .acc-list-div .location .acc-ldiv h3.acc-locationhead{  font-size: 20px;}
+	.accommodation-list .acc-list-div .location .acc-ldiv a.acc-address{font-size: 15px; margin-top: 10px;}
+	.accommodation-list .acc-list-div .location .acc-ldiv ul li{font-size:15px;}
+	.accommodation-list .acc-list-div .location .acc-ldiv ul{margin-top:10px; }
+	.accommodation-list .acc-list-div .location .acc-listimg img.ac-list-img { float: left; width: 90%;}
+	/*accommodations */
+	/* wedding setup*/
+	.logout { margin-right: 5px;margin-top: 5px;  font-size: 15px; padding: 9px 15px; z-index:999; }
+	.wedding-part-right .wedding-white .wedding-vector{font-size:30px; background-size:350px;}
+	.fields-wedding li span.name{font-size: 30px;line-height: 30px;}
+	.fields-wedding li .btn-group .btn{ font-size: 15px;  padding: 10px 10px 10px 53px;}
+	.fields-wedding li{margin-bottom:10px;}
+	.fields-wedding li .drop-name{font-size:15px;}
+	.fields-wedding li .finish-but{font-size:20px; padding: 8px 0;}
+	.wedding-part-right .wedding-white{padding-bottom:0;}
+	.wedding-part-left .setup-left .setuptext{  font-size: 40px; margin:20px 0;}
+	.wedding-part-left .setup-left .setup-mid img.weddinglogo {width: 250px;}
+	/* wedding setup*/
+
+	/*payment-option-main */
+	.payment-option-main{margin-top:50px; padding:0 20px 0 0;}
+	.payment-option-main form ul.pay-ul li .btn-group.ed1{width:30%;}
+	.payment-option-main form ul.pay-ul li .pay-txbx{font-size:16px;}
+	.payment-option-main ul.payment-imgs li.midl{margin: 0 18px;}
+	.payment-option-main form ul.pay-ul li .apply-btn{font-size:16px;}
+	/*payment-option-main */
+	/*---pickquantity ----*/
+	.pickquantity a.pick-prise{font-size:30px;   margin: 25px 0;}
+	.pickquantity a.pick-prise.pick-prisetop { padding-left: 25px;}
+	ul#slide-listprint.slidelist1{margin-top:35px;}
+	.pickquantity p{font-size:25px; margin-top:30px; }
+	.print-your-own1 .mainclr-txt { margin-top:40px !important;}
+	/*---pickquantity ----*/
+
+
+	/*************/
+
+	/* Admin main */
+	
+	#side-bar-menu .logo { padding:15px 0;}
+	#side-bar-menu .logo img { height:50px;}	
+	#side-bar-menu .icon-bar ul.noti-nav li a { padding:13px 10px;}
+	#side-bar-menu .icon-bar ul.noti-nav li a i { font-size:25px;}	
+	#side-bar-menu .icon-bar ul.noti-nav li span {font-size: 10px; height: 16px; line-height: 16px; right: 13px; top: 8px; width: 16px; }
+	#side-bar-menu .side-prfl-img .edit { height:40px; width:40px; background-size:20px;}
+	#side-bar-menu .side-prfl-img .edit i { font-size: 23px; height: 40px; line-height: 40px; width: 40px;}
+	#side-bar-menu .icon-bar .noti-drop li a { font-size:13px; padding:7px 10px;}
+	#side-bar-menu .wedng-id span { font-size:21px; }
+	#side-bar-menu .wedng-id { font-size:28px; padding:10px 0; }
+	#side-bar-menu .wding-day-counter { padding:10px 0; }
+	#side-bar-menu .wding-day-counter .counnter { padding:7px 0; margin-left:5px;}
+	#side-bar-menu .wding-day-counter .counnter li { padding:0 7px; font-size:17px;}
+	#side-bar-menu .wding-day-counter .counnter li span { font-size:12px;}
+	#side-bar-menu #sidebar-nav ul li a { padding:8px 10px; font-size:13px; }
+	#side-bar-menu #sidebar-nav ul li a span.nav-icon { background-size:100% auto; width:22px; height:19px;}
+	#side-bar-menu #sidebar-nav ul li span.side-submenu { height:36px; width:36px; }
+	#side-bar-menu #sidebar-nav ul li a i { font-size: 19px; height: 22px; line-height: 22px; width: 30px;}
+	#side-bar-menu #sidebar-nav ul li .side-submenu i { font-size: 16px; height: 36px; line-height: 36px;  width: 36px;}
+	#side-bar-menu #sidebar-nav ul li span.notifi { font-size: 10px; height: 16px; line-height: 16px; margin-top: -8px; width: 16px;}
+	#side-bar-menu .side-ft { font-size:10px;}
+	
+	.admin-logo img { height:45px;}
+	.admin-header .admin-logo span { font-size:39px;}
+	.admin-header .admin-logo { height:45px; width:245px;}
+	.admin-header .admin-top-nav li a { padding:5px 10px;}
+	.admin-header .admin-top-nav li a img { width:28px;}
+	.admin-header .admin-top-nav li a span { font-size:12px;}  
+
+	#admin-content { margin-top:80px;}
+	.admin-white-head { padding:12px 0;}
+	.admin-white-head h1 { font-size:45px; line-height:40px;}
+	.admin-white-head h1 i { font-size:35px;}	
+	.admin-tag { margin-top:15px; font-size:25px; line-height:32px;}
+	.admin-upload-image { margin-top:15px; background-size:100% auto; width:120px; height:123px;}
+	.admin-or-line { margin-top:15px;}
+	.admin-or-line span { border: 3px solid #fff; height: 56px; line-height: 50px;  width: 56px;}
+	.admin-bot-nav { margin-top:55px;}
+	.admin-bot-nav li { margin:0 20px;}
+	.admin-bot-nav li a img { width:130px;}
+	.admin-bot-nav li a span { font-size:20px;}
+	
+	.invite-guest-main { padding:0 10px;  }
+	
+	/* invite guest */
+	.invite-guest-main .admin-white-head { margin-bottom:20px;}
+	.invite-guest-main .invite-head { font-size:20px;}
+	.invite-guest-main .invite-guest .invite-social { margin-top:35px;}
+	.invite-guest-main .invite-guest .invite-social li a { width:62px; height:62px;}
+	.invite-guest-main .invite-guest .invite-social li a i { font-size: 24px; line-height: 62px;}
+	.invite-guest-main .invite-guest .invite-add-main .invite-email-txbx { font-size:16px; padding:10px 20px;}
+	.invite-guest-main .invite-guest .invite-add-main .add-button { font-size: 18px; height: 35px; line-height: 35px;  right: 5px; top: 5px; width: 35px;}
+	.invite-guest-main .invite-guest p { margin-bottom:25px;}
+	.invite-guest-main .invite-guest .email-but { font-size:16px; padding:10px 0;}
+	.invite-guest-main .list-main table .circle {font-size: 16px; height: 30px; line-height: 30px; width: 30px;}	
+	
+	/* create event */
+	.create-event-main .create-event-form ul li .btn-group .btn { font-size:16px;}
+	.create-event-main .create-event-form ul li .creat-txbx { font-size:16px;}
+	.create-event-main .create-event-form ul li .date-but { height:49px; width:49px;}
+	.create-event-main .create-event-form ul li .create-but { font-size:20px;}
+	.create-event-main .create-event-form ul li .map-div span { height:180px;}
+
+	#select-event .custom-pop-inner .admin-white-head { padding:10px 0; }
+	#select-event .custom-pop-inner .uplodpic-box { padding:20px 29px;}
+	#select-event .custom-pop-inner .uplodpic-box .mbox { padding:15px 5px; height:140px;}
+	#select-event .custom-pop-inner .inner-part { height:330px;}
+	#select-event .custom-pop-inner .create-album-main { padding:30px 0;}
+	#select-event .custom-pop-inner .create-album-main a { font-size:18px; padding:10px 40px;}
+	#select-event .custom-pop-inner .select-album { font-size:22px; padding:6px 0;}
+	#select-event .custom-pop-inner { height:536px;}
+	#select-event .custom-pop-inner .create-album-main .or { font-size: 15px; height: 50px; margin-left: -25px; padding: 24px 0 0;  top: -25px; width: 50px;}
+	#select-event .custom-pop-inner .create-album .new-albm-txbx { padding:7px 20px;}
+	.create-event-list { max-width:980px;}
+	.create-event-list .creat-sub-head { margin-top:20px; font-size:18px;}
+	.create-event-list .creat-sub-text { font-size:14px;}
+	.create-event-list a.addnew { font-size: 18px; margin-top: 20px; padding: 6px 25px; }
+	.create-event-list .event-list-div .location { margin-bottom:20px;}
+	.create-event-list .event-list-div .location .acc-listimg { width:25%;}
+	.create-event-list .event-list-div .location .acc-ldiv { padding:13px 60px 13px 20px;}
+	.create-event-list .event-list-div .location .acc-ldiv h3.acc-locationhead { font-size:24px;}
+	.create-event-list .event-list-div .location .acc-ldiv a.acc-address { font-size:16px; margin-top:10px;}
+	.create-event-list .event-list-div .location .acc-ldiv p { font-size:14px;}
+	.create-event-list .event-list-div .location .acc-listimg .view-album { font-size:16px;}
+	.create-event-list .event-list-div .location .acc-listimg .view-album { font-size:21px;}
+	/* create event */
+	
+	/* edit wedoo */
+	.edit-wedoo-info .edit-wedoo-form { padding:0 160px;}
+	.edit-wedoo-info .edit-wedoo-form ul li .edit-txbx { font-size:16px; padding:8px 20px;}
+	.edit-wedoo-info .edit-wedoo-form ul li .create-but { font-size:20px; padding:6px 0;}
+	.edit-wedoo-info .edit-wedoo-form .side-edite-img .edit-head { font-size:15px; margin-top:3px;}
+	.edit-wedoo-info .edit-wedoo-form .side-edite-img p { font-size: 12px; margin-top: 7px;}
+	.edit-wedoo-info .edit-wedoo-form ul li .label_check span { font-size:16px;}
+	
+	
+	/*oreder prints  */
+	.order-prints-main .select-product { margin-top:30px;}
+	.order-prints-main .mainclr-txt .txt { font-size:30px;}
+	.order-prints-main .mainclr-txt .left-por::before,
+	.order-prints-main .mainclr-txt .left-por::after { left:-25px;}
+	.order-prints-main .mainclr-txt .left-por::before { border-left: 35px solid transparent; border-top: 40px solid #d3716f;}
+	.order-prints-main .mainclr-txt .left-por::after { border-bottom: 40px solid #d3716f;  border-left: 35px solid transparent;}
+	.order-prints-main .mainclr-txt .right-por::before,
+	.order-prints-main .mainclr-txt .right-por::after { right:-25px;}
+	.order-prints-main .mainclr-txt .right-por::before { border-right: 35px solid transparent; border-top: 40px solid #d3716f;}
+	.order-prints-main .mainclr-txt .right-por::after { border-bottom: 40px solid #d3716f;  border-right: 35px solid transparent;}
+	.order-prints-main .print-produt-detail { margin-top:35px; margin-bottom:0;}
+	.order-prints-main .print-produt-detail .detail-head {  font-size: 35px; margin-bottom: 25px; padding-bottom:5px;}
+	.order-prints-main .print-produt-detail .detail-section { margin-bottom:30px;}
+	.order-prints-main .print-produt-detail .detail-section i { font-size: 35px; height: 35px; line-height: 35px; width: 35px;}
+	.order-prints-main .print-produt-detail .detail-section .detail-right span { font-size:34px; line-height:normal;}
+	.order-prints-main .print-produt-detail .detail-section .detail-right .price { font-size:24px; margin-top:0; line-height:normal;}
+
+	
+	.select-your-photo { margin-top:25px;}
+	.select-your-photo .select-mid-icon { height:35px; font-size:35px;}
+	.select-your-photo .total-print-cont { margin-top:5px;}
+	.select-your-photo .total-print-cont span { font-size:18px; margin-bottom:15px;}
+	.select-your-photo .sub-total { margin-top:35px;  font-size:18px; }
+	.select-your-photo .select-photo-but { font-size:20px; margin-top:35px;}
+	
+	
+	
+	/*blog*/
+	.blog-banner {max-height:600px;}
+	.blog-middle-slider-section {height: 450px;width: 450px;}
+	.blog-upper-text p.blog-head-text{ font-size: 37px;}
+	.blog-upper-text p.blog-sub-text{font-size:26px;}
+	.invitation-heading{font-size: 30px;}
+	.invitation-text{  font-size: 21px;}
+	.overlaytextblog{ font-size: 16.22px;}
+	.get_started_btn{font-size: 30px;height: 59px;}
+	.read_more_blog{font-size: 17.7px;}
+	.goodness-heading{  font-size: 27px;}
+	.goodness-text{ font-size: 18px;}
+	.read_more_goodness{font-size: 16px;}
+	.blog-upper-text{margin:35px 0;}
+	.blog-upper-text .blog-head-text{font-size: 35px; margin-bottom: 15px;}
+	.blog-upper-text p.blog-sub-text {font-size: 20px; padding:0 10px;}
+	.trending .overlay-box{  font-size: 17px;  min-height: 80px;}
+	.trending .get-started-btn{ font-size: 25px; margin-top: 40px;}
+	.trending{margin-bottom:40px;}
+	.blog-bottom-main{margin-top:40px;}
+	.blog-bottom-main .invitation-heading{font-size:30px; margin-bottom:10px;}
+	.goodness-heading { font-size: 25px; margin-top:0; margin-bottom:18px;}
+	.goodness-block{margin-top:0; margin-bottom:20px;}
+	.blog-bottom-main .invitation-text{font-size: 22px; margin-top: 10px;}
+	.blog-bottom-main .read_more_blog{ font-size: 16px; margin-top: 5px; padding: 6px 14px;}
+	.blog-bottom-main .invitation-block{margin-bottom:20px;}
+	.goodness-block .goodness-text{font-size:17px;}
+	.goodness-block .read_more_goodness{font-size: 16px; padding: 4px 0;}
+	.video-blog .video { height:400px;}
+	/*blog*/
+	/*Add Wedpics To Your Website*/
+	.add-Wedpics .add-web-right .optionsdiv h3.option{font-size:21px;}
+	.add-Wedpics .add-web-right p.add-ptag{margin:10px 0;}	
+	.add-Wedpics .add-web-right .optionsdiv{padding-bottom:25px;}
+	.add-Wedpics .add-web-right .optionsdiv h4.upload{font-size:16px;}
+	.add-Wedpics .add-web-right .optionsdiv h3.option .number{font-size: 18px; height: 30px; width: 30px; line-height: 30px;}
+	/*Add Wedpics To Your Website*/
+	
+	/*edit-color-scheme*/
+	.edit-clr-scroll .mCSB_scrollTools { width:26px;  right:20px !important;}
+	.edit-color-scheme p.add-webpic-p{font-size:21px; margin:35px 0;}
+	.edit-color-scheme a.reset{font-size:22px; padding:5px 20px;}
+	.edit-color-scheme a.edit-clr-btns{font-size:20px; width: 225px;margin: 100px 8px 0; padding: 7px 0;}
+	/*edit-color-scheme*/
+	
+	/**/
+	/*select-your-photo */
+	.select-your-photo .dorp-main .btn-group {width: 235px;}
+	.select-your-photo .dorp-main .btn-group .btn { padding:5px 53px 5px 0; font-size:21px;}
+	.select-your-photo .dorp-main .btn-group .btn .caret { font-size: 17px; height: 40px; line-height: 40px; width: 40px;}
+	.select-your-photo .dorp-main .btn-group .dropdown-menu ul li a { font-size:20px;}
+	.order-prints-main .print-image-thumb { margin-top:30px;}
+	.order-prints-main .print-image-thumb ul li { margin:0 10px;}
+	.order-prints-main .print-image-thumb ul { padding-bottom:0;}
+	.select-your-photo .select-print-but { font-size: 20px;  margin: 30px 11px 0; padding: 5px 0; width: 225px;}
+
+	/*print your own main */
+	.toparrow {border-bottom: 14px solid rgb(255, 255, 255);border-left: 8px solid transparent;border-right: 8px solid transparent;height: 0;width: 0;display:inline-block;}
+	.colorslide{background: none repeat scroll 0 0 rgb(255, 255, 255);border-radius: 57px;color: #7e7e7e;content: "";font-family: amplify_personal_use_onlyRg;font-size: 34px;padding: 4px 21px;display:inline-block}
+	.print-your-own1 .main-clrs label.lbl-edit { height: 94px; width: 94px;}
+	ul#slide-listprint { margin-top:30px;}
+	/*print your own main */	
+	
+	.order-print { margin-top: 50px;}
+	.order-prints-main .mainclr-txt .txt { font-size: 22px;} 
+	.order-prints-main .select-product-but { font-size: 20px; margin-bottom: 15px; padding: 13px 25px;}
+	.order-prints-main .select-cntry { margin-top:60px;}
+	.order-prints-main .select-cntry label > span { font-size:20px;}
+	.order-prints-main .select-cntry .btn-group .btn { padding:7px 10px;}
+	.order-prints-main .select-cntry .btn-group .filter-option { font-size:23px;}
+	.order-prints-main .unlimited-print { font-size: 20px; margin-top: 30px;}
+
+	/*beacone manage  */
+	.beacon-manage-main .select-user-box form { padding:10px 15px;}
+	.beacon-manage-main .select-user-box form .slect-but { font-size: 20px; margin-top: 13px; padding: 9px 0;}
+	.beacon-manage-main .select-user-box .comment-slct-box { margin-top:20px;}
+	.beacon-manage-main .beacon-prw-msg .prw-msg { font-size:25px;}
+	.beacon-manage-main .beacon-prw-msg .beacon-msg-list li { padding:20px 0;}
+	.beacon-manage-main .beacon-prw-msg .beacon-msg-list .becon-conmmnet .user-name { font-size:14px;}
+	.beacon-manage-main .beacon-prw-msg .beacon-msg-list .becon-conmmnet p { font-size:13px;} 
+	.beacon-manage-main .beacon-prw-msg .show-mr span { font-size: 26px; height: 29px;}
+	.beacon-manage-main .beacon-prw-msg .show-mr { padding:3px 0 8px;}
+	
+	/*beacone manage  */
+	/*Photo Comment*/
+	.comment_section { background:  #ffffff;height: 100%; width: 100%;}
+	.comment_section .title{ margin-top:6px;}
+	.comment_section .title h2{ font-size:30px;}
+	.comment_section {background:  #ffffff;height: 100%;width:285px;}
+	.comment_tab{ width:57px; height:325px;}
+	.edit_part{ margin-top:5px;}
+	.comment_tab ul li a{ padding:10px 0;}
+	.comment_tab ul li a div {font-size: 20px;}
+	.comment_tab ul li a div.Count{ font-size:15px;}
+	.comment_section .title h2 {font-size: 27px;}
+	.comment_section .title .line_title {border-bottom: 2px solid #e8817f;display: inline-block;margin-top: 0;width: 76px;}
+	.Photo-edit .caption .title_cap {font-family: open_sanslight;font-size: 15px;padding: 2px;text-align: center;width: 100%;}
+	.Photo-edit .caption .caption_input input {border: medium none;padding: 4px;width: 100%;}
+	.Photo-edit .caption .caption_input {font-size: 11px;text-align: center;width: 100%;}
+	.comment_part{ padding:1% 0;}
+	.leave_comment .Add_comment input[type="submit"] {background: #008085;border: medium none;border-radius: 30px; font-size: 13px;margin-top: 5px;padding: 5px 20px;}
+	.edit_button {margin: 0 auto;width: 95%;}
+	.Edit_control { background: #ffffff;bottom: 0;box-shadow: 4px 0 3px #cccccc; display: inline-block; left: 0;margin: 0;padding-bottom: 3px;padding-top: 0; position: sticky;width: 100%;}
+	.Photo-edit .Album-slider {height: 108px;margin: 10px auto;width: 187px;}
+	.Photo-edit .Album-slider .carousel-control.left {background-image: none !important;  background-repeat: repeat-x;left: -39px; top: 8px;z-index: 0;}
+	.Photo-edit .Album-slider .carousel-control.right {background-image: none !important;background-repeat: repeat-x; left: auto;right: -37px;top: 8px;z-index: 0;}
+	.Album_list .Album_box {border: 2px solid #8a8a8a;height: 84px;margin: 9px;width: 84px;}
+	.Photo_edit_part {height: 285px;overflow-y: scroll;}
+	.commentPerson_name h3{ font-size:27px;}
+	.leave_comment .comment_input textarea { border: 1px solid #e8817f;color: #e8817f; height: 75px;padding: 5px;resize: none; width: 240px;}
+	.comment_time {color: #008085;font-family: open_sansregular;font-size: 11px;font-style: italic;padding: 5% 0;}
+	.comment_desc {color: #008085;font-family: open_sanslight;font-size: 13px;}	
+	.Social-media-icons a {background:  #a4a4a4;border: medium none !important; border-radius: 50%;color: #ffffff; display: inline-block;font-size: 27px;height: 60px;margin: 0 10px; padding: 3.2%;width: 60px; margin-bottom:10px;}
+	.download_button_media button { background:  #a4a4a4;border: medium none;border-radius: 18px;color: #ffffff;font-family: open_sanslight;font-size: 15px;
+	 margin-bottom: 10px;margin-top: 15px;padding: 9px 20px;text-transform: uppercase;}
+	.Link-of-website .Site_url {color: #087a7e; font-family: open_sanslight;font-size: 17px; font-style: italic;}
+	.Link-of-website h2 {color: #e8817f;font-family: open_sanslight;font-size: 25px;}
+	.second_photobox .comment_tab{ width:16%;}
+	.comment_part_photobox .comment_part { background:  #ffffff;border: medium none;left: 0; padding: 0;position: inherit;top: 246px;width: 100%;z-index: 999;}
+	.second_photobox .comment_part .Comment_detail { width: 71%;}
+	.comment_time {color: #008085;font-family: open_sansregular;font-size: 11px;font-style: italic;padding: 5% 3%;}
+	.second_photobox .comment_part .person_image {width: 80px;}
+	.caption h2 {color: #ffffff;font-family: amplify_personal_use_onlyRg;font-size: 35px;left: 18px;position: absolute; text-align: left;top: 8px;width: 58%;z-index: 99;}
+	.Link-of-website {margin-bottom: 10px;margin-top: 10px;}
+	.photo-comment .mCSB_horizontal > .mCSB_container { margin-bottom: 40px;}
+	.admin_content{ width:97%;}
+	.photo-comment-section{ width:100%;}
+	.photo-comment .content_6 > .mCustomScrollBox > .mCSB_scrollTools {margin: 0 10%; width: 82%;}
+	.second_photobox .comment_part{ z-index:0;}
+	.Album_list .Album_box{}
+	.photo-comment-main .Photobox_inner_part {height: 257px;}
+	#photo-comment .mCSB_inside > .mCSB_container{ margin-right:10px;}
+	.Guest_person{ margin-right:78px; margin-left:24px;}
+	.Guest_person .guest_person_image{ height:270px; width:270px; margin:0 auto;  border:solid 8px #ffffff; border-radius:50%; overflow:hidden; }
+	.Guest_person .guest_person_image img{  max-width:100%; min-width:100%;  }
+	.Guest_person h2{ font-family:amplify_personal_use_onlyRg; color:#ffffff; margin-top:20px; font-size:42px;}
+	.tag_icon {padding: 7px;width: 30px;}
+	.tag_icon img{ max-height:100%; max-width:100%;}
+	.Guest_person {margin-left: 24px;margin-right: 38px;}
+	.photo-comment{ background:transparent; width:100%; margin-top:6px; }
+	.photo_box {background: #ffffff; height: 306px;margin-right: 20px; margin-left:20px; position: relative;width: 340px;}
+	.view-album{ margin-bottom:10px;}
+	.view-album a{ padding:0 5px;}
+	.image-comment-photo { left: 0;position: absolute; top: 0;width: 285px;z-index: 9980;}
+	.comment_part .person_image {width: 57px;}
+	.Comment_detail_desc {left: 0;position: absolute;top: 0;width: 76% !important;}
+	.comment_part_photobox .comment_part {top: 250px;width:285px;z-index: 9999;}
+	.grid-view-content .image-box { height: 149px;margin:  16px ;overflow: hidden;width: 149px;}
+	.view-album { margin-bottom: 2px;}
+	.view-album a {border: 1px solid #ffffff;color: #ffffff;font-size: 18px; padding: 0px 5px;}
+	.view-album {margin-top: 6px;}
+	.photo-comment-head h1{ font-size:36px; line-height:33px;}
+	.Comment_detail .video-camera {font-size: 21px;right: 65px;top: 210px;}
+	.comment_part {padding: 2% 0;}
+	.socil_media_part {margin-top: 3px;}
+	.comment_tab ul li .back-button a{ font-size:30px;}
+	.comment_tab ul li .back-button a:hover{ font-size:30px;}
+	.leave_comment{ margin-top:0px;}
+	.Social-media-icons a{ margin:0 5px 10px;}
+	.comment_tab ul li .back-button a{ top:36%;}
+	.leave_comment .Add_comment input[type="submit"]{ margin-bottom:12px; margin-top:12px;}
+	/*Photo Comment*/
+}
+@media screen and (max-width:1280px){
+	h1 { font-size:40px;}
+	.why-gallary { margin-top:80px;}
+	.wedoo-aap { margin-top:50px;}
+	h2 { font-size:30px; }
+	.wedoo-aap .weapp-text section br { display:none;}
+	.wedoo-aap .weapp-text section p { font-size:16px;}
+	.wedoo-aap .cople-guest { margin-top:50px;}
+	.testimonials-head { margin-top:60px;}
+	.any-thing-main .any-cross-white { bottom:-110px;}
+	.wee-flower,
+	.any-flower { display:none;}
+	.app-info .app-info img { width:200px;}
+	.app-info .app-icon { margin-top:30px;}
+
+	.why-gallary .why-galry-sctn-4 { right:0; left:auto; }
+	.anythng span.elst-text	{ font-size:15px;}
+	.wedoo-aap .weapp-text section p { font-size:15px; line-height:26px;}
+	
+	.lets-connect .social-main .hand-img { position:relative; top:auto; left:auto; width:auto; max-width:100%;}
+	.lets-connect .social-main { min-height:10px;}
+	.footer { background-position:center top !important; background-attachment:scroll !important; -moz-background-attachment:scroll !important; -ms-background-attachment:scroll !important; -webkit-background-attachment:scroll !important; -o-background-attachment:scroll !important;}
+
+	/*manage-albums*/	
+	.manage-albums .flex-direction-nav .flex-next{ right: -30px;}
+	.manage-albums .slider{min-height: 120px; padding: 13px 30px;}
+	.manage-albums .suggest-wed-album .suggest-txt h1{ font-size: 32px; padding: 38px 17px;}
+	.manage-albums .suggest-wed-album .suggest-txt{max-width:190px;}
+	.manage-albums .slider{width:70%;}
+	/*manage-albums*/
+
+	/*.accommodations*/	
+	.accommodations .acc-form-div form ul li .acc-side { height: 128px;}
+	.accommodation-list .acc-list-div{padding-right:20px;}
+	.accommodation-list .acc-list-div .location .acc-ldiv { padding: 10px 50px 10px 0;}
+	/*.accommodations*/	
+	/*.accommodations*/
+	.accommodation-list .acc-list-div .location .acc-ldiv{padding: 00px 20px 20px 15px;}
+	.accommodation-list .acc-list-div .location .acc-listimg img.ac-list-img{ border-radius: 5px; float:none;}
+	.accommodation-list .acc-list-div .location .acc-listimg{float:none; display:inline-block; text-align:center; margin:20px 0;}
+	.accommodation-list .acc-list-div .location .acc-ldiv{width:100%; margin-top:00px;}
+	/*.accommodations*/
+
+	/*blog*/
+	.blog-main .container { width: 1280px; max-width: 1200px; width:100%; padding:0 25px;}
+	/*blog*/
+	/*Add Wedpics To Your Website*/	
+	.add-Wedpics .add-web-left > img{width:100%;}
+	/*Add Wedpics To Your Website*/	
+	/*select-your-photo */
+	.select-your-photo .select-print-but { margin-top:20px;}
+	
+	.order-prints-main .contry-but { font-size: 22px; padding: 11px 80px;}
+	.erytng-wedpic-main .colorschemewed .wedoddevendiv { padding-top:80px;}
+	/*Photo Comment*/
+	.Photo-edit .Album-slider .carousel-control.left {background:  transparent;border-radius: 50%;color: #e8817f;display: block;height: 90px;left: -36px;
+	padding-left: 17px;padding-top: 36px;text-align: left;text-shadow: 0 0 0;  top: 0;width: 90px;z-index: 98;}
+	.Photo-edit .Album-slider .carousel-control.left:hover{ color:#ffffff!important; color:#E8817F!important; }
+	.Photo-edit .Album-slider .carousel-control.right {background:transparent; color:#E8817F;  border-radius: 50%;display: block;height: 90px; left: auto;right: -38px;padding-right: 17px;padding-top: 36px;text-align: right;top: 0px;width: 90px;z-index: 0; text-shadow:0 0 0;}
+	.Photo-edit .Album-slider .carousel-control.right:hover{ color:#ffffff!important; color:#E8817F!important; }
+	.Photobox_inner_part  .mCSB_scrollTools .mCSB_draggerRail{ background:rgba(0,0,0,0.3);}
+	.photo-comment-main .Photobox_inner_part {height: 290px;}
+	.Guest_person{ margin-right:78px; margin-left:24px;}
+	.Guest_person .guest_person_image{ height:270px; width:270px; margin:0 auto; border:solid 8px #ffffff;  border-radius:50%; overflow:hidden; }
+	.Guest_person .guest_person_image img{ min-height:100%; min-width:100%; }
+	.Guest_person h2{ font-family:amplify_personal_use_onlyRg; color:#ffffff; margin-top:20px; font-size:42px;}
+	.tag_icon {padding: 7px;width: 30px;}
+	.tag_icon img{ max-height:100%; max-width:100%;}
+	.photo-comment{ background:transparent; width:100%; margin-top:6px; }
+	.Guest_person{ width:24%;}
+	.grid-view-content .image-box {height: 137px;margin: 16px;overflow: hidden;width: 137px;}
+	.main-admin-content{ height:484px!important;}
+	.photo-comment-main .Photobox_inner_part{ height:255px;}
+	.leave_comment .Add_comment input[type="submit"] { margin-bottom: 9px; margin-top: 9px;}
+	/*Photo Comment*/
+	
+	.admin-white-head .count { font-size:18px; right:10px;}
+	.fields-wedding li label.drowp-name { max-width: 255px;}
+
+
+}
+@media screen and (max-width:1200px){
+	.why-gallary .why-galry-sctn-4 { padding-left:295px;}
+	.why-gallary .why-galry-sctn-4 span { font-size:23px;}
+	.why-gallary .why-galry-sctn-2 { left:75px;}
+	.any-thing-main .any-thing-thumb ul li { width:100px;}
+	.any-thing-main .any-thing-thumb ul li span { font-size:15px; }
+	
+	.wedoo-aap .weapp-slider-frame { padding:56px 56px 57px 51px; background-size:100% auto;}
+	.wedoo-aap .weapp-text section { height:428px;}
+	.testimonials-head { margin-top:50px;}
+	
+	.testimonial-main .testimonials .testimonials-box { padding:0;}
+	.video-main,
+	.video-main section { height:450px;}
+	
+	.lets-connect .social-main .social {left: 360px; padding: 10px 10px 0; position: absolute; top: 48px; width: 249px;}
+	.lets-connect .social-main .social li span { font-size:11px;}
+
+	/*thanx-signup*/
+	.thanx-signup .middle-thanx { padding: 70px 20px; width: 350px;}			
+	/*thanx-signup*/
+
+}
+
+@media screen and (max-width:1024px){
+	.wedoo-aap { margin-top:30px;}
+	.app-info .app-iphone img { width:200px;}
+	.app-info { margin-top:50px;}
+	.app-info .app-icon span img { width:110px;}
+	.app-info .app-icon span { height: 90px; margin-bottom: 20px; width: 93px;} 
+	.banner header:after { bottom:-33px; border-top:33px solid #efefef;}
+	.banner header:before { bottom:-33px; border-top:33px solid #efefef;}
+	
+	.video-main { background-position: center top !important; background-attachment:scroll !important; -webkit-background-attachment:scroll !important; -o-background-attachment:scroll !important; -ms-background-attachment:scroll !important; -moz-background-attachment:scroll !important; background-size:100% auto; }
+
+	/********/
+	.faq-main .faq{background-attachment:scroll !important;  background-position:center center !important; background-size:auto 100%;}
+	.gw-nav-list > li > a{  font-size: 20px;}
+	.gw-sidebar .gw-nav-list > li{    background: url("../images/dot.png") no-repeat scroll 0 10px rgba(0, 0, 0, 0) !important;}
+	.gw-sidebar .gw-nav-list li.active{  background: url("../images/heart-icon.png") no-repeat scroll 0 10px rgba(0, 0, 0, 0) !important;}	
+	
+	/*everythingwedpic*/
+	.ff-left.imgwed {width: 345px;}
+	.ff-right.bottomphone1.imgwed {width: auto !important;}
+	.erytng-wedpic-main .wedoddevendiv{width:auto !important;}
+	.erytng-wedpic-main .wedfooter{height:290px;}
+	.erytng-wedpic-main .weddiv{margin-top:30px !important;width:100%;}
+	.erytng-wedpic-main .wedapp {font-size: 13px;padding: 19px 41px;width: 100%;}
+	.erytng-wedpic-main .demoalbum {font-size: 13px;padding: 12px 53px;width: 100%;}
+	.ff-rightside.btnswed.evry-spcng-right { margin-top: 21px;}
+	.erytng-wedpic-main .colorschemewed .wedoddevendiv { padding-top:60px;}
+	/*everythingwedpic*/
+
+	/*features*/
+	.imgsec1{background-attachment:scroll !important;  background-position:center center !important;  background-size: cover;max-height: 550px;}
+	.imgsec2{ background-attachment:scroll !important;background-position:center center !important;   background-size: cover;max-height: 550px;}
+	.imgsec3{background-attachment:scroll !important;  background-position:center center !important;  background-size: cover;max-height: 550px;}
+	
+	.features .unlimited-photo ul.list{width:100%;}
+	.features .unlimited-photo ul.list li{width:33.33%; margin:0 0 10px 0; }
+	.features .unlimited-photo ul.list li a{font-size:16px;}
+	.features a.ff-lastbtn{ font-size: 14px;  padding: 29px 10px;}
+	
+	.ff-cntnt .main-ff-cntnt .ff-leftside{width:48%;}
+	.ff-cntnt .main-ff-cntnt .ff-rightside{width:48%; float:right;}
+	.ff-cntnt .main-ff-cntnt .ff-rightside > img{width:100%;	}
+	.ff-cntnt .main-ff-cntnt span{font-size:25px;}
+	.ff-cntnt .main-ff-cntnt p{font-size:20px;}
+	.ff-cntnt .main-ff-cntnt p br{display:none;}
+	.ff-cntnt{padding:0 10px;}
+	.ff-cntnt .main-ff-cntnt{width:100%;}
+	.ff-cntnt .main-ff-cntnt .ff-rightside .ff-btns{ font-size: 14px;  }
+	.ff-cntnt .main-ff-cntnt .ff-rightside{  margin-left: 25px;}
+	.imgbotm {  background: url("../images/imgbotm.png") no-repeat scroll center top; min-height: 186px;}
+	.imgtop {background: url("../images/imgtop.png") no-repeat scroll center bottom; min-height: 233px;}
+	/*features*/
+
+	/*thanx-signup*/
+	.thanx-signup .middle-thanx { margin-top:8%;}	
+	/*thanx-signup*/
+
+
+	/*manage-albums*/
+	.manage-albums .suggest-wed-album .suggest-txt{width:100%; max-width:100%;}
+	.manage-albums .slider{width:100%;}
+	.manage-albums .suggest-wed-album .suggest-txt h1 br{display:none;}
+	.manage-albums .suggest-wed-album .suggest-txt h1{  padding: 15px 10px;  font-size: 35px;}
+	#upload-pic .custom-pop-inner .choose-file{font-size: 18px;}
+	
+	#slideshow .custom-pop-inner .choose-file{font-size: 18px;}
+	#push-to-fb .custom-pop-inner a.slideshow{font-size:18px; }
+	/*manage-albums*/
+
+	/*.accommodations*/
+	.accommodations .acc-form-div form .acc-btns {   font-size: 18px; padding: 3px 15px;}
+	.acc-head{font-size:18px;}
+	.accommodation-list a.addnew{padding: 10px 20px; font-size:16px;}
+	/*.accommodations*/
+
+	/*payment-option-main */	
+	.payment-option-main form ul.pay-ul li .btn-group.ed1 { width: 25%;}
+	.payment-imgs > li img { width: 90px;}
+	.payment-option-main form ul.pay-ul .pymnt-dtl { width:68%;}
+	.payment-option-main form ul.pay-ul .pymnt-dtl ul.pay-txt li  { font-size:16px; }
+	/*payment-option-main */
+
+	/*******/
+	
+	#admin-content { padding:0 20px;}
+	.admin-header .admin-logo { left:10px; right:auto;}
+	
+	/**invite guest */
+	.invite-guest-main > section { width:100%; margin-bottom:30px;}
+	.invite-guest-main .list-main { height:auto !important;}
+	.invite-guest-main .list-main table tr th  { font-size:12px;}
+	.invite-guest-main .list-main table tr th, .invite-guest-main .list-main table tr td { font-size:14px; padding:12px 0;}
+	
+	/* create event */
+	.create-event-main .create-event-form ul li .time { margin-left:20px;}
+	.create-event-list .event-list-div .location .acc-ldiv p br { display:none; }
+	.create-event-list .event-list-div .location .acc-listimg { width:30%;}
+	.create-event-list .event-list-div .location .acc-listimg .view-album { font-size: 18px; padding:9px 0;}
+	.create-event-list .event-list-div .location .acc-listimg .view-album i { font-size: 18px;}
+	.create-event-list .event-list-div .location .acc-ldiv { padding:10px 30px 10px 10px;}
+	
+	/* edit wedoo */
+	.edit-wedoo-info .edit-wedoo-form {  padding: 0 60px;}
+	.select-your-photo .select-photo-but { width:210px; margin:35px 5px 0; font-size:18px;   }
+	/*blog*/
+	.invitation-block > img {width: 100%;}
+	.blog-bottom-main {padding: 20px;}
+	.blog-bottom-main .invitation-text{font-size: 20px; }
+	.blog-bottom-main .invitation-heading{font-size:25px; }
+	.blog-banner {  max-height: 500px;}
+	.blog-middle-slider-section { height: 370px; width: 370px;}
+	/*blog*/
+	/*Add Wedpics To Your Website*/	
+	.add-Wedpics p.add-webpic-p{font-size:16px;}
+	/*Add Wedpics To Your Website*/
+	
+	/*edit-color-scheme*/
+	.edit-clr-scroll .mCSB_scrollTools{right:0 !important;}
+	.edit-color-scheme a.edit-clr-btns{margin-top:100px; width:240px; border:3px solid #fff;}
+	/*edit-color-scheme*/
+	/*select-your-photo*/
+	.select-your-photo .dorp-main .btn-group {  width: 200px;} 
+	.select-your-photo .select-print-but { width: 160px; font-size:16px;}
+	.select-your-photo .unlimited-print { font-size:20px; margin-top:30px;}
+	/*select-your-photo*/
+	/*print your own main */
+	.print-your-own1 .colorslct{width:46%;}
+	.patternheading3{display:block;width: 100%;clear:both;}
+	.patternheading2{display:none}
+	.ptrnbox{width:auto;}
+	.downloadbuttons a.second{ margin-left: 57px;}
+	.patternheading{float:none;}
+	.posters{ display: inline-block;float: none;margin-top: 30px;width: 100%;}
+	.posters .poster1{display: inline-block;float: none;margin-right: 0;max-width: 282px;width: 100%;margin-bottom:10px;}
+	.posters .poster2{display: inline-block;float: none;margin-right: 0;max-width: 282px;width: 100%;margin-bottom:10px;}
+	.posters .poster3{display: inline-block;float: none;margin-right: 0;max-width: 282px;width: 100%;margin-bottom:10px;}
+	.print-your-own1 .colorslct3 {margin-top: -7px;width: 155%;}
+	.order-app-cards.print-your-own1 .colorslct{ margin-top: -15px;width: 18%;}
+	.colorslct4.colorslct2 {width: 74%;}
+	/*print your own main */
+
+	.feed .live-feed-text { font-size: 16px; padding: 15px 0;}
+	.slct-usr {font-size: 22px;margin-bottom: 15px; padding: 10px 0;} 
+	.Guest_person{ margin-right:50px; margin-left:24px; width:24%;}
+.Guest_person .guest_person_image{ height:197px; width:197px; margin:0 auto; border:solid 8px #ffffff;  border-radius:50%; overflow:hidden; }
+	.Guest_person .guest_person_image img{ min-height:100%; min-width:100%; }
+	.Guest_person h2{ font-family:amplify_personal_use_onlyRg; color:#ffffff; margin-top:20px; font-size:42px;}
+	/* photo-comment */
+	.leave_comment {margin-top: 0px;}
+
+}
+@media screen and (max-width:991px){
+	h1 { font-size:38px;}
+	h2 { font-size:28px;}
+	.banner { background-size:cover;}
+	.why-inner .why-img .why-mid { width: 180px; margin-left:-90px;}
+	.why-inner .why-img .why-lft { width: 140px; left:0;}
+	.why-inner .why-img .why-rgt {  width: 140px; right:0;}
+	.why-inner .why-img { min-height:380px;}
+	.why-inner .why-ser ul li { margin-bottom:20px;}
+	.banner header { padding-top:15px; padding-bottom:15px;}
+	.container { padding:0 10px;}
+	.containerdiv{padding:0 10px;}
+
+	.why-gallary .why-galry-sctn-1, 
+	.why-gallary .why-galry-sctn-2,
+	.why-gallary .why-galry-sctn-3, 
+	.why-gallary .why-galry-sctn-4 { display:inline-block; clear:both; top:auto; right:auto; left:auto; position:relative; margin:10px 20px;}
+	.why-gallary { margin-top:40px; text-align:center;}
+	.why-gallary .why-galry-sctn-4 { padding:20px; height:auto; width:100%; max-width:705px; margin:10px 0;}
+	.why-gallary .why-galry-sctn-4 .more-but { float:none; display:inline-block;}
+	.why-gallary img { max-width:100%; width:auto;}
+	.wedoo-aap .weapp-slider-frame{ padding:42px 42px 36px 38px;}
+	.flex-control-nav { bottom:-22px;}
+	.wedoo-aap .weapp-text section { height:320px;}
+	.flex-direction-nav { bottom:-72px;}
+	
+	.testimonials-box .user-text { padding:20px 10px; font-size:16px;}
+	.testimonials-box .user-text br { display:none; line-height:25px;}
+	.testimonials-box .user-detail { padding:10px;}
+	.testimonials-box .user-detail strong { font-size:14px;}
+	.testimonials-box .user-detail p { font-size:12px;}
+	.testimonials-box .user-img { margin-top:20px;}
+	.testimonials-box .user-img img { width:70px;}
+	.app-info { padding-bottom:70px;}
+	.video-main,
+	.video-main section { height:400px;}
+	.video-main section h1 { font-size:30px; margin-bottom:15px; padding-bottom:20px;}
+	.video-main section .play img { width:50px;}
+	.lets-connect .social-main .social { left: 270px; padding: 5px 5px 0; position: absolute; top: 37px; width: 188px;}
+	.lets-connect .social-main .social li span { display:none;}
+	.lets-connect .social-main .social li { width:33.33%; margin-bottom:0;}
+	
+	.footer footer .footer-text-main .footer-icon { width:100px;}
+	.footer footer .footer-text-main .footer-icon img { width:120px;}
+	.footer footer .footer-text-main em { font-size:20px; line-height:24px;} 
+	.footer { height:385px;}
+	.footer .copy ul li a,
+	.footer .copy { font-size:14px;}  
+	
+	.admin-header .admin-top-nav { margin-right:5px;}
+	.admin-header .admin-top-nav li a { padding:5px;}
+	.admin-header .admin-top-nav li a i { width:25px; font-size:25px;}
+	
+	#select-event .custom-pop-inner .uplodpic-box .mbox { margin:0 5px 10px; }
+	.create-event-list .event-list-div .location .acc-ldiv { width:100%; padding:10px;}
+	.create-event-list .event-list-div .location .acc-listimg { float:none; margin:10px auto 0; width:250px;}
+	
+	
+	/* edit wedoo*/
+	
+	.edit-wedoo-info .edit-wedoo-form { padding: 0 10px;}
+	.edit-wedoo-info .edit-wedoo-form .side-edite-img .edit-img { top:-10px; right:-10px;}
+
+	/*order-prints-main */
+	.order-prints-main .print-produt-detail .product-detail { float: left; padding: 0 10%;  width: 100%;}
+	.select-your-photo .select-photo-but { font-size: 16px; width: 170px;}
+	
+	/*blog*/
+	.invitation-block > img {width: 100%;}
+	/*blog*/
+
+	/*print your own main */
+	ul.slidelist {margin: 10px;width: 295px !important;}
+	ul.slidelist li.slide-link-0 {width: 90px !important;}
+	ul.slidelist li.slide-link-1 {width: 90px !important;}
+	ul.slidelist li.slide-link-2 {width: 81px !important;}
+	/*print your own main */
+	
+	.send-comment-feed { width: 59%;}
+	.feed-char { margin-left: 65%;}
+
+
+
+
+}
+@media screen and (max-width:980px){
+	h1 { font-size:36px;}
+	h2 { font-size:26px;}
+
+	.live-feed-main .sub-inner-feed{width:100%;}
+	.feed-list{width:100%;}
+	.admin-main-page { background-size:cover;}
+	/*features*/	
+	
+	.ff-cntnt .main-ff-cntnt .ff-rightside .ff-btns{ padding: 5px 15px;  margin: 25px 5px 0;}
+	.ff-cntnt .main-ff-cntnt span{font-size:20px;}
+	.ff-cntnt{margin:0;}
+	
+	.imgbotm {  background: url("../images/imgbotm.png") no-repeat scroll center top; min-height: 186px;}
+	.imgtop {background: url("../images/imgtop.png") no-repeat scroll center bottom; min-height: 233px;}
+	/*features*/
+	/*manage-albums*/
+	.manage-albums .mange-cntntbox .mbox{  margin-right:11px; margin-left:11px; padding: 35px 20px 25px;    width: 165px;}
+	.manage-albums .mange-cntntbox .mbox span {  font-size: 15px;	}
+	.manage-albums h3.mng-head { font-size: 20px; margin-top: 15px;}
+	.manage-albums .create-ur-album form .txt-bx { font-size: 16px;}
+	.manage-albums .create-ur-album { margin: 20px 0 30px;}
+	.manage-albums .create-ur-album form .brows{height:43px;}
+	.manage-albums .flex-direction-nav .flex-prev{ height: 28px; left: -20px; background-size:100%; width: 12px;}
+	.manage-albums .flex-direction-nav .flex-next{ height: 28px; right: -20px; background-size:100%;  width: 12px;}
+	/*manage-albums*/
+	/*.accommodations*/
+	.accommodation-list .acc-list-div .location .acc-ldiv h3.acc-locationhead {  font-size: 18px;}
+	/*.accommodations*/
+	/* wedding setup*/
+	.wedding-part-left .setup-left .setup-mid img.weddinglogo { float: none; margin: 0 auto; width: 250px;}
+	.wedding-part-left .setup-left .setup-mid{height:auto !important; margin-bottom:20px;}
+	.wedding-part-left .setup-left{margin-bottom:40px;}
+	.wedding-part-left .setup-left .setuptext{font-size: 35px;}
+	.fields-wedding li .finish-but{font-size:18px; padding: 8px 0;}
+	/* wedding setup*/
+	/*blog*/
+	.goodness-block { margin: 10px 20px 10px auto !important; width: 31% !important;}
+	.blog-upper-text{ margin: 20px 0 0; }
+	.invitation-block > img {width: 100%;}
+	.blog-middle-slider-section{height: 400px !important;width: 400px !important;}
+	.blog-upper-text p.blog-head-text {font-size: 30px; margin-bottom: 14px; margin-top: 18px;}
+	.blog-upper-text p.blog-sub-text { font-size: 17px; margin-bottom: 27px;}
+	.trending{margin-top:40px; padding:0 20px;}
+	.trending .res-margin{margin-bottom:20px;}
+	.overlaytextblog{ font-size: 12.22px;padding: 11px;}
+	.trendingimg{width:auto;}
+	.get-started-block { margin-bottom: 26px;margin-top: 0;}
+	.get_started_btn {font-size: 25px;height: auto;width: 100%;}
+	.invitation-heading {font-size: 22px;margin-bottom: 10px;}
+	.invitation-text {float: left;font-size: 13px; margin-top: 10px; }
+	.goodness-heading { float: left;font-size: 21px;}
+	.goodness-block .goodness-text{ font-size: 15px;}
+	.goodness-block {float: left;margin: 10px auto;text-align: center;width: 100%;}
+	.blog-upper-text .blog-head-text{font-size:30px;}
+	.blog-bottom-main .invitation-text{font-size: 18px; }
+	.trending .get-started-btn{font-size:20px; margin-top:25px; }
+	.trending{margin-bottom:30px;}
+	.video-blog img.dot-line { margin-top:45px;}
+	.blog-bottom-main .invitation-text { font-size: 18px;}
+	.goodness-block .goodness-text{font-size:15px;}
+	.goodness-block { width:32% !important; margin-right:2% !important;}
+	.goodness-block + .goodness-block + .goodness-block { margin-right:0 !important;}
+	.footer-blog { padding:10px 0; margin:0;}
+	.footer-blog img { width:30px;}	
+	/*blog*/
+	/*everythingwedpic*/
+	.erytng-wedpic-main .wedoddevendiv{width:auto !important;}
+	.erytng-wedpic-main .guestlist .evry-spcng-right{margin-top:10px;}
+	.erytng-wedpic-main .premiumprints .wedoddevendiv{margin-bottom: 10px;margin-top: 10px;}
+	.erytng-wedpic-main .weddingblog .wedoddevendiv{margin-top:10px;margin-bottom:10px;}
+	.erytng-wedpic-main .appcards .wedoddevendiv{margin-top:10px;margin-bottom:10px;}
+	.erytng-wedpic-main .slideshowwed .wedoddevendiv{margin-top:10px;margin-bottom:10px;}
+	.erytng-wedpic-main .wedfooter{height:290px;}
+	.erytng-wedpic-main .weddiv{margin-top:30px !important;width:100%;}
+	.erytng-wedpic-main .wedapp {font-size: 13px;padding: 19px 41px;width: 100%;}
+	.erytng-wedpic-main .demoalbum {font-size: 13px;padding: 12px 53px;width: 100%;}
+	.ff-rightside.btnswed.evry-spcng-right { margin-top: 21px;}
+	/*everythingwedpic*/
+	/*Add Wedpics To Your Website*/
+	.add-Wedpics .add-web-left{ display: inline-block; float: none; text-align: center; width:48%; margin-bottom:20px;}
+	.add-Wedpics .add-web-left > img{width:auto; max-width:100%;}
+	.add-Wedpics .add-web-right{width:100%; float:left;}
+	.add-Wedpics p.add-webpic-p{margin-bottom:20px;}
+	.add-Wedpics .add-web-left a.dwnld{font-size:16px;}
+	.add-Wedpics .add-web-right .optionsdiv h3.option{font-size:18px;}
+	/*Add Wedpics To Your Website*/
+	
+	/*edit-color-scheme*/
+	.edit-color-scheme a.edit-clr-btns{font-size:20px; width:200px;}
+	.edit-color-scheme p.add-webpic-p{font-size:18px; margin:30px 0;}
+	.edit-color-scheme a.reset{font-size:20px;}
+	.edit-color-scheme .main-clrs label.lbl-edit{height:80px; width:80px;}
+	/*edit-color-scheme*/
+
+	/*payment-option-main */
+	.payment-option-main .shippingaddress { width:100%; margin-bottom:20px;}
+	.payment-option-main .paymenttype{width:100%;}	
+	.payment-option-main .paymenttypemain{width:100%;}
+	.payment-option-main{padding:0 10px;}
+	/*payment-option-main */
+
+	/*pickquantity */
+	.pickquantity p { font-size: 20px;}
+	.pickquantity a.pick-prise{font-size:25px; width:260px;}
+	/*pickquantity */
+	/*print your own main */
+	.print-your-own1 .colorslct{width:35%;}
+	.downloadbuttons{text-align:center;}
+	.downloadbuttons a.second{ margin-left: 0;float:none;display:inline-block; margin:10px 10px 10px 10px;}
+	.downloadbuttons a.first{margin-left: 0;float:none;display:inline-block; margin:10px 10px 10px 10px;}
+	.print-your-own1 .colorslct3 { margin-top: -7px; width: 165%;}
+	.order-app-cards.print-your-own1 .colorslct{ margin-top: -15px;width:58%;}
+	.ptrnbox .patrnbox1{display: inline-block;float: none;}
+	.ptrnbox .patrnbox2{display: inline-block;float: none;}
+	.colorslct4.colorslct2 {width: 87%;}
+	/*print your own main */
+	/*Photo Comment*/
+	.images_container {width: 100%;}
+	.photo_box {height: 477px;  margin: 10px auto;width: 550px;float:none!important; display:inline-block;}
+	.comment_section {background: none repeat scroll 0 0 #ffffff;height: 100%;width: 434px;}
+	.comment_tab ul li a div.Count {font-size: 28px;}
+	.comment_tab ul li a div {font-size: 29px;}
+	.leave_comment .comment_input textarea {border: 1px solid #e8817f;color: #e8817f; height: 120px; padding: 5px;resize: none;  width: 366px;}
+	.leave_comment .Add_comment input[type="submit"] {background: #008085;border: medium none;border-radius: 30px;font-size: 18px;margin-top: 15px;padding: 11px 32px;}
+	.edit_button {margin: 0 auto;width: 95%;}
+	.comment_section .title {margin-top: 5px;text-align: center;text-transform: capitalize;}
+	.edit_part {margin-top: 0px;}
+	.caption_title a { float: left;padding: 7px !important;}
+	.Social-media-icons a{ height:90px; width:90px;}
+	.download_button_media button {padding: 11px 22px;}
+	.image-comment-photo{ width:79.2%;}
+	.comment_part_photobox .comment_part {background: #ffffff;border: medium none;left: 22px;padding: 0;position: inherit;top: 415px;width: 75%;z-index: 999;}
+	.Edit_control{ z-index:9999; padding-bottom:15px;}
+	.comment_tab ul li a {padding: 18px 0;}
+	.comment_tab { width: 90px; height:auto;}
+	.Photobox_inner_part .mCSB_scrollTools .mCSB_dragger .mCSB_dragger_bar {background: none repeat scroll 0 0 rgba(255, 255, 255, 0.4)!important;box-shadow:0 0 0!important;}
+	.second_photobox .comment_tab{ width:67px;}
+	.image-comment-photo {width:460px;}
+	.second_photobox .comment_part .Comment_detail {width: 72%;}
+	.commentPerson_name h3{ font-size:36px;}
+	.second_photobox .comment_part .person_image {width: 106px;}
+	.comment_part_photobox .comment_part {background:  #ffffff;border: medium none;left: 0;padding: 0;position: inherit;top: 388px;width: 86%; z-index: 9999;}
+	.vertical-scroll-menu .mCSB_scrollTools .mCSB_dragger .mCSB_dragger_bar{ background:rgba(222,222,222,0.5)!important;}
+	.mCSB_scrollTools .mCSB_draggerRail {border-radius: 10px;height: 100%;margin: 0 auto; width: 4px;}
+	.photo-comment .mCSB_scrollTools .mCSB_draggerRail{ background:rgba(0,0,0,0.4);}
+	.photo-comment-section{ width:auto;}
+	.comment_section .title h2{ font-size:42px;}
+	.Photo-edit .caption .title_cap{ font-size:22px;}
+	.Photo-edit .caption .caption_input input {border: medium none;padding: 7px;width: 100%;}
+	.Photo-edit .caption .caption_input input {border: medium none;padding: 7px;width: 100%;}
+	.Social-media-icons a{ font-size:48px;}
+	.Photo-edit .Album-slider .carousel-control.left{ left:-44px;}
+	.Photo-edit .Album-slider .carousel-control.right{ right:-42px;}
+	.Photo-edit .caption .caption_input{ font-size:16px;}
+	.Photobox_inner_part{ height:400px;}
+	.Photobox_inner_part  .mCSB_scrollTools .mCSB_draggerRail{ background:rgba(0,0,0,0.3);}
+	#admin-content .mCSB_container{ height:95%; width:100%!important; overflow:auto!important;}
+	#photo-comment .mCSB_container{  overflow:hidden!important;}
+	#photo-comment .Photobox_inner_part .mCSB_container{  overflow:scroll!important;} 
+	.vertical-scroll-menu{ width:100%;}
+	.photo-comment-main .Photobox_inner_part {height: 402px;}
+	.Guest_person {float: none !important; margin-left: 24px;margin-right: 78px;}
+	.tag_icon {padding: 10px;width: 50px;}
+	.tag_icon img{ max-height:100%; max-width:100%;}
+	.comment_part .person_image {width: 91px;}
+	.vertical-scroll-menu {left: 0;padding: 0; top:10px; position:relative;}
+	.Guest_person { width: 100%;}
+	.grid-view-content .image-box { height: 130px;margin: 16px ;overflow: hidden; width: 130px;}
+	.comment_part_photobox .comment_part{ width:460px;}
+	.grid-view-content .image-box {height: 85px;margin:16px;overflow: hidden;width: 85px;}
+	.grid-view-content .image-box img{ max-height:100%; max-width:100%;}
+	.main-admin-content{ height:inherit!important;}
+	#admin-content .mCSB_container {height: 95%;overflow: auto;width: 100% !important;}
+	.Comment_detail .video-camera {font-size: 35px;right: 108px;top: 320px;}
+	.Comment_detail_desc {left: 0;position: absolute;top: 0;width: 78% !important;}
+	.comment_tab ul li a div.Count {font-family: open_sanslight;font-size: 26px;padding-top: 6px;}
+	.Social-media-icons {margin: 0 auto;text-align: center; width: 90%;}
+	.download_button_media button{ margin-top:28px; margin-bottom:30px;}
+	.Link-of-website .Site_url {font-size: 17px;font-style: italic;margin-top: 25px;}
+	.leave_comment{ margin-top:0px;}
+	.comment_tab ul li a.active{ border-top-width:0;}
+	.comment_section {background:  #ffffff;height: 100%;width: 460px;}
+	.view-album {margin-top: 12px;}
+	.view-album a{ font-size:28px;}
+	.comment_tab ul li a div.Count { font-family: open_sanslight;font-size: 26px;padding-top: 6px;}
+	.comment_time{ padding:4% 3%;}
+	/*Photo Comment*/
+	.payment-option-main form ul.pay-ul .pymnt-dtl ul.pay-txt li { text-align:left;}
+	
+}
+@media screen and (max-width:900px){
+	.live-feed-main .sub-inner-feed{width:100%;}
+	.feed-list{width:100%;}
+	/*features*/
+	.features .unlimited-photo p{font-size:18px; margin:20px 0;}
+	.features .unlimited-photo p br{display:none;}
+	/*features*/
+	/*manage-albums*/
+	.manage-albums .mange-cntntbox .mbox{width:135px;}
+	.manage-albums .suggest-wed-album .suggest-txt h1{  padding: 13px 10px;  font-size:25px;}
+	#upload-pic .custom-pop-inner .choose-file{font-size: 16px;}
+	#slideshow .custom-pop-inner .choose-file{font-size: 16px;}
+	#push-to-fb .custom-pop-inner a.slideshow{font-size:18px; }
+	/*manage-albums*/
+	/*.accommodations*/	
+	.accommodations .acc-form-div form ul li.acc-xs{width:27%;}
+	/*.accommodations*/
+	/*blog*/
+	.blog-middle-slider-section{height: 400px !important;width: 400px !important;}
+	.blog-upper-text p.blog-head-text {font-size: 30px; margin-bottom: 14px; margin-top: 18px;}
+	.blog-upper-text p.blog-sub-text { font-size: 17px; margin-bottom: 27px;}
+	.trending{margin-top:40px;}
+	.trending .res-margin{margin-bottom:20px;}
+	.overlaytextblog{ font-size: 12.22px;padding: 11px;}
+	.trendingimg{width:auto;}
+	.get-started-block { margin-bottom: 26px;margin-top: 0;}
+	.get_started_btn {font-size: 25px;height: auto;width: 100%;}
+	.invitation-heading {font-size: 22px;margin-bottom: 10px;}
+	.invitation-text {float: left;font-size: 13px; margin-top: 10px; }
+	.goodness-heading { float: left;font-size: 21px;}
+	.goodness-text{ font-size: 17px;}
+	.goodness-block {float: left;margin: 10px auto;text-align: center;width: 100%;}
+	.video-blog .video { height: 300px;}
+	.blog-upper-text .blog-head-text{font-size:25px;}
+	.blog-bottom-main .invitation-heading{font-size:20px; }
+	.trending .overlay-box { font-size: 14px; min-height: 80px; padding: 10px 5px;}
+	/*blog*/
+	/*everythingwedpic*/
+	.ff-left.imgwed {width:300px;height:auto;}
+	.ff-right.bottomphone2.imgwed {height: 255px;width:auto !important}
+	.ff-right.bottomphone1.imgwed {height: 255px;width:auto !important}
+	.erytng-wedpic-main .weddiv{margin-top:0px !important;}
+	.oddevendiv .container{margin-top:15px;}
+	.erytng-wedpic-main .wedfooter{height:320px;}	
+	.erytng-wedpic-main .weddiv{margin-top:25px !important;}
+	.erytng-wedpic-main .wedoddevendiv{width:auto !important;}
+	.erytng-wedpic-main .guestlist .evry-spcng-right{margin-top:10px;}
+	.erytng-wedpic-main .premiumprints .wedoddevendiv{margin-bottom: 10px;margin-top: 10px;}
+	.erytng-wedpic-main .weddingblog .wedoddevendiv{margin-top:10px;margin-bottom:10px;}
+	.erytng-wedpic-main .appcards .wedoddevendiv{margin-top:10px;margin-bottom:10px;}
+	.erytng-wedpic-main .slideshowwed .wedoddevendiv{margin-top:10px;margin-bottom:10px;}
+	.ff-right.bottomphone2.imgwed {margin-top: 10px;}	
+	/*everythingwedpic*/
+	/*Add Wedpics To Your Website*/
+	.add-Wedpics .add-web-left{width:65%;}
+	/*Add Wedpics To Your Website*/
+	/*print your own 1*/	
+	.print-your-own1 .colorslct{width:29%;}
+	.print-your-own1 .colorslct3 { margin-top: -7px; width: 172%;}
+	.order-app-cards.print-your-own1 .colorslct{ margin-top: -15px;width:54%;}
+	/*print your own main */
+
+
+
+}
+@media screen and (max-width:800px){
+	h1 { font-size:34px;}
+	h2 { font-size:24px;}
+
+	.live-feed-main .sub-inner-feed{width:100%;}
+	.feed-list{width:100%;}
+	.live-feed-main .middle-feed-header h1 {border-left: 2px solid #e8817f;border-right: 2px solid #e8817f;color: #e8817f; font-size: 30px; height: 37px;text-align: center;}
+
+	.admin-header .admin-logo{ width:189px; height:35px;}
+	.admin-header .admin-logo img { height:35px; margin:0 7px; }
+	.admin-header .admin-logo span { font-size: 31px; line-height:35px;}
+	.admin-white-head { padding:7px 0;}
+	
+
+	.admin-white-head h1 { font-size: 30px; line-height: 30px; border-width:1px;}
+	.admin-white-head h1 i { font-size: 30px; }
+	.admin-tag { font-size: 20px; line-height: 24px; }
+	
+	/* invite guest */
+	.invite-guest-main .invite-guest .invite-social li a  { height: 52px; width: 52px;}
+	.invite-guest-main .invite-guest .invite-social li a i { font-size: 19px; line-height: 52px;}
+	.invite-guest-main .invite-guest .invite-form { margin-top:30px;}
+	.invite-guest-main .invite-head { font-size: 16px; font-family:inherit;} 
+	.invite-guest-main .list-main table .circle { font-size: 14px;  height: 25px; line-height: 25px; width: 25px; margin-left:5px;}
+	.invite-guest-main .list-main table tr th,
+	.invite-guest-main .list-main table tr td { font-size: 13px; padding: 10px 0;}
+	
+	.create-event-main .create-event-form ul li .date { width:100%; margin-bottom:20px;}
+	.create-event-main .create-event-form ul li .time { float:right; margin:0 0 0 0; width:30.6%;} 
+	.create-event-main .create-event-form ul li .time + .time { margin-right:4%;}
+	.create-event-main .create-event-form ul li .location { width:100%;}
+	.create-event-main .create-event-form ul li .map-div { width:100%; margin-top:20px; padding:20px 0 0;}
+	.create-event-main .create-event-form ul li .map-div span { width:100%; }
+	.create-event-main .creat-sub-head { font-size:18px; margin-top:20px;}
+	.create-event-main .creat-sub-text { margin-top:0; font-size:14px; padding-bottom:10px;}
+	#select-event .custom-pop-inner .admin-white-head h1 {  font-size: 28px;}
+	#select-event .custom-pop-inner .create-album { padding:5px 0;}
+	
+	/*select-your-photo*/
+	.select-your-photo .sub-total { margin-bottom:20px; }
+	.select-your-photo .select-photo-but { margin: 15px 55px 0;}
+	.select-your-photo .unlimited-print { font-size:16px; margin-top:20px;}
+	/*blog*/
+	.invitation-block > img {width: 100%;}
+	.blog-bottom-main {padding: 20px;}
+	.goodness-block { margin: 10px 20px 10px auto !important; width: 30% !important;}
+	.blog-middle-slider-section{height: 400px !important;width: 400px !important;}
+	.blog-upper-text p.blog-head-text {font-size: 30px; margin-bottom: 14px; margin-top: 18px;}
+	.blog-upper-text p.blog-sub-text { font-size: 17px; margin-bottom: 27px;}
+	.trending{margin-top:20px;}
+	.trending .res-margin{margin-bottom:20px;}
+	.overlaytextblog{ font-size: 12.22px;padding: 11px;}
+	.trendingimg{width:auto;}
+	.get-started-block { margin-bottom: 26px;margin-top: 0;}
+	.get_started_btn {font-size: 25px;height: auto;width: 100%;}
+	.invitation-heading {font-size: 22px;margin-bottom: 10px;}
+	.invitation-text {float: left;font-size: 13px; margin-top: 10px; }
+	.goodness-heading { float: left;font-size: 21px;}
+	.goodness-text{ font-size: 17px;}
+	.goodness-block {float: left;margin: 10px auto;text-align: center;width: 100%;}
+	.blog-bottom-main{margin-top: 20px;padding:20px;}
+	/*blog*/	
+	/*everythingwedpic*/
+	.ff-left.imgwed {height: 167px;}
+	.ff-right.bottomphone2.imgwed {height: 255px;width:auto !important}
+	.ff-right.bottomphone1.imgwed {height: 255px;width:auto !important}
+	.oddevendiv .container{margin-top:15px;}
+	.erytng-wedpic-main .weddiv{margin-top:25px !important;}	
+	.erytng-wedpic-main .wedoddevendiv{width:auto !important;}
+	.erytng-wedpic-main .colorschemewed .wedoddevendiv { padding-top:40px;} 
+	/*everythingwedpic*/
+	/*print your own 1*/
+	.print-your-own1 .colorslct{width:17%;}
+	.print-your-own1 .colorslct3 { margin-top: -7px;width: 100%;}
+	.colorslide {font-size: 25px; padding: 4px 13px;}
+	ul.slidelist {margin: 10px;width: 295px !important;}
+	ul.slidelist li.slide-link-0 {width: 90px !important;}
+	ul.slidelist li.slide-link-1 {width: 90px !important;}
+	ul.slidelist li.slide-link-2 {width: 81px !important;}
+	.order-app-cards.print-your-own1 .colorslct{ margin-top: -15px;width: 45%;}
+	.colorslct4.colorslct2 {width: 82%;}
+	/*print your own main */
+	/*Photo Comment*/
+	.images_container {width: 100%;}
+	.photo_box {height: 399px;position: relative;width: 450px; margin-right: 0px;}
+	.comment_section {background: none repeat scroll 0 0 #ffffff;height: 100%;width: 377px;}
+	.comment_tab ul li a div.Count {font-size: 21px;}
+	.comment_tab ul li a div {font-size: 27px;}
+	.leave_comment .comment_input textarea {border: 1px solid #e8817f;color: #e8817f; height: 100px; padding: 5px;resize: none;  width: 100%;}
+	.leave_comment .Add_comment input[type="submit"] {background: #008085;border: medium none;  border-radius: 30px;font-size: 18px;  margin-top: 20px;   padding: 11px 23px;}
+	.comment_part {padding: 1% 0 2%;}
+	.view-album {margin-top: 13px;}
+	.view-album a { font-size:25px;}
+	.edit_button {margin: 0 auto;width: 95%;}
+	.comment_section .title {margin-top: 5px;text-align: center;text-transform: capitalize;}
+	.edit_part {margin-top: 0px;}
+	.caption_title a { float: left;padding: 7px !important;}
+	.Social-media-icons a {font-size: 42px;height: 75px;width: 75px;}
+	.download_button_media button {padding: 12px 20px;}
+	.edit_button {margin: 0 auto;width: 74%;}
+	.image-comment-photo{ width:79.2%;}
+	.comment_part_photobox .comment_part {background: #ffffff;border: medium none;left: 22px;padding: 0;position: inherit;top: 415px;width: 75%;z-index: 999;}
+	.Edit_control{ z-index:9999;}
+	.comment_tab ul li a {padding: 13px 0;}
+	.Photobox_inner_part .mCSB_scrollTools .mCSB_dragger .mCSB_dragger_bar {background: none repeat scroll 0 0 rgba(255, 255, 255, 0.4)!important;box-shadow:0 0 0!important;}
+	.Album_list .Album_box{ margin:15px;}
+	.second_photobox .comment_tab{ width:67px;}
+	.image-comment-photo {width: 100%;}
+	.second_photobox .comment_part .Comment_detail {width: 74%;}
+	.second_photobox .comment_part .person_image {width: 25%;}
+	.comment_part_photobox .comment_part {background:#ffffff;border: medium none;left: 0px;padding: 0;position: inherit;top: 338px;width: 100%;z-index: 999;}
+	.Photo-edit .Album-slider .carousel-control.left{ left:-44px;}
+	.Photo-edit .Album-slider .carousel-control.right{ right:-42px;}
+	.Social-media-icons a {font-size: 40px;height: 75px;width: 75px;}
+	.photo-comment-main .Photobox_inner_part { height: 314px;margin-bottom: 13px;}
+	#admin-content .mCSB_container{ height:100%;}
+	#admin-content .mCSB_container{ height:95%; width:100%!important; overflow:auto;}
+	#photo-comment .mCSB_container{  overflow:hidden;}
+	.Photobox_inner_part .mCSB_container{  overflow:scroll!important;} 
+	.tag_icon {padding: 10px;width: 50px;}
+	.tag_icon img{ max-height:100%; max-width:100%;}
+	.image-comment-photo {width: 377px; }
+	.comment_part_photobox .comment_part{ width:377px; top:325px; z-index:9999;}
+	.grid-view-content .image-box { margin:8px;}
+	.Comment_detail .video-camera {font-size: 35px;right: 85px;top: 265px;}
+	.comment_tab {width: 74px;}
+	.comment_part .person_image {width: 75px;}
+	.Comment_detail_desc{ width:77%!important;}
+	.socil_media_part {width: 78%;}
+	.photo-comment-main .Photobox_inner_part { height: 322px; margin-bottom: 13px;}
+	.Edit_control {padding-bottom: 14px;z-index: 9999;}
+	.leave_comment .Add_comment input[type="submit"] {margin-top: 15px;padding: 7px 17px; font-size:14px;}
+	.edit_button {margin: 0 auto;width: 74%;}
+	.comment_tab ul li .back-button a{ left:1%;}
+	.comment_tab ul li .back-button a:hover{ left:1%;}
+	.leave_comment {margin-top: 0px;}
+	/*Photo Comment*/
+	
+	.goodness-block .goodness-text { font-size: 13px;} 
+}
+@media screen and (max-width:767px){
+	.banner header { left:3%;}
+	.banner .menu { right:3%;}
+	.why-inner .why-img { max-width:300px; clear: both; float: none !important; margin: 0 auto; }
+	.why-gallary { padding:0 10px;}
+	 .anythng { margin-top:30px;}
+	.any-thing-main .any-thing-thumb ul li { width:100px;}
+	.any-thing-main .any-thing-thumb ul li span { font-size:15px;}
+	.anythng span.elst-text	{ font-size:13px; line-height:normal;}
+	.wedoo-aap .weapp-text section p { font-size:14px; line-height:normal;}
+	.wedoo-aap .weapp-text section { height:auto;}
+	
+	.wedoo-aap .weapp-slider-frame { max-width:600px; margin:0 auto; float:none; padding:61px 60px 51px 55px;}
+	.flex-direction-nav {  bottom: -88px;}
+	
+	.wedoo-aap .cople-guest span img { width:40px;}
+	.testimonials-head { margin-top:40px;}
+	.testimonials-box .user-img { margin-bottom:30px;}
+	.app-info .app-iphone img { width:150px; }
+	.app-info { margin-top:30px;}
+	.app-info .app-icon span {height: 75px; margin-bottom: 10px; width: 75px;}
+	.app-available ul li .app-but { height:50px;}
+	.app-available ul li .andi-hover { margin-left:-87px; left:50%;}
+	.video-main,
+	.video-main section { height:350px;}
+	.lets-connect .social-main .hand-img {  display:none; }
+	.lets-connect .social-main .social { background:url(../images/social-mobile.png) center no-repeat;   height: 229px; left: 50%; margin-left: -229px; padding: 15px 79px 0;  position: absolute; top: 0; width: 458px;}
+	.lets-connect .social-main .social li { width:25%; margin:10px 0 0;}
+	.lets-connect .social-main { min-height:250px; margin-top:20px;}
+	.footer { height:auto; padding:10px 0;}
+	.footer footer .footer-text-main { margin-bottom:20px;}
+	.lets-connect .loved  { display:block;}
+	.wedoo-aap .weapp-slider { width:100%;}
+	.wedoo-aap .weapp-text { width:100%;}
+	
+
+	#menu-triger { display:block;}
+	#side-bar-menu { width:300px; z-index:999999; background:#fff; left:-300px; transition:all ease-in-out 0.3s;}
+	#side-bar-menu.active {  left:0;}
+	#menu-triger.active {left:300px;} 
+
+
+	.feed{width:100%;}
+	.live-feed-main{width:96%;float:left}
+/*	.feed-info {float: left;width: 100%;}*/
+	.live-feed-main .sub-inner-feed{width:100%;}
+	.feed-list{width:100%;}
+	.live-feed-main .middle-feed-header h1 {font-size: 30px;height: 37px;text-align: center;}
+	.live5feed{width:100%;}
+	.send-comment-feed{width: 72%;height:43px;}
+	.feed-char { margin-left: 72.5%;}
+	.addvideophoto { margin-left:10px;}
+	.comment-feed-box{width:100%;}
+	.feed-user-name{font-size:13px;}
+	.feed-desc {font-size: 11px;width: 100%;word-wrap: break-word;}
+	.feed-btns{float:left;width:100%;}
+	.inner-image-feed{margin-left:0px;}
+	.inner-image-feed .first-inner-div {margin-right: 0;}
+	.large-feed-img >img ,.small-feed-img > img{float: left; width: 91%;}
+	.comment-user-pic > img {height: auto;width: 25px;}
+
+	.btn.btn-default.dropdown-toggle.planebtn > img {width: 18px;}
+	.btn.send-feed {font-size: 10px;}
+	.addvideophoto img {width: 29px;}
+	.addvideophoto{float:left;}
+	
+	.edit-wedoo-info .edit-wedoo-form { margin-top:20px;}
+	.edit-wedoo-info .edit-wedoo-form .side-edite-img .edit-img { right:5px; top:5px; width:30px; height:30px;}
+	.edit-wedoo-info .edit-wedoo-form .side-edite-img .edit-img i { font-size: 16px; line-height: 30px;}
+	.edit-wedoo-info .edit-wedoo-form ul li .edit-txbx { font-size: 14px;  padding: 6px 15px;} 
+	.edit-wedoo-info .edit-wedoo-form ul li .create-but { font-size: 15px;  padding: 5px 0;}
+	.edit-wedoo-info .edit-wedoo-form ul li .label_check { margin-top:10px;}
+	.edit-wedoo-info .edit-wedoo-form ul li { margin-bottom:25px;}
+	
+	/*order-prints-main*/
+	.order-prints-main .print-produt-detail .product-detail { padding: 0;  width: 50%;}
+	.order-prints-main .mainclr-txt .txt { font-size: 23px; padding:1px 36px;}
+	.order-prints-main .mainclr-txt .left-por::before,
+	.order-prints-main .mainclr-txt .left-por::after { left:-15px; top:10px;}
+	.order-prints-main .mainclr-txt .left-por::before { border-left: 25px solid transparent; border-top: 30px solid #d3716f;}
+	.order-prints-main .mainclr-txt .left-por::after { border-bottom: 30px solid #d3716f;  border-left: 25px solid transparent;}
+	.order-prints-main .mainclr-txt .right-por::before,
+	.order-prints-main .mainclr-txt .right-por::after { right:-15px;top:10px;}
+	.order-prints-main .mainclr-txt .right-por::before { border-right: 25px solid transparent; border-top: 30px solid #d3716f;}
+	.order-prints-main .mainclr-txt .right-por::after { border-bottom: 30px solid #d3716f;  border-right: 25px solid transparent;}
+	.order-prints-main .print-produt-detail { margin-top:20px;}
+	.order-prints-main .print-produt-detail .detail-head { margin-bottom:10px; font-size:25px;}
+	.order-prints-main .print-produt-detail .detail-section { }
+	.order-prints-main .print-produt-detail .detail-section i { font-size: 25px; height: 25px; line-height: 25px; width: 25px;}
+	.order-prints-main .print-produt-detail .detail-section .detail-right span { font-size:24px;}
+	.order-prints-main .print-produt-detail .detail-section .detail-right .price {font-size:14px;}
+	.order-prints-main .contry-but { font-size: 19px;  padding: 7px 60px;}
+	.order-prints-main .contry-btm { font-size:16px;}
+
+	/*select-your-photo*/
+	.select-your-photo .select-photo-but { margin: 15px 5px 0;}	
+	.select-your-photo .sub-total { margin:0;}
+	.select-your-photo {  margin-top: 10px;}
+	.select-your-photo .total-print-cont span { margin-bottom:5px; width:50%; float:left;}
+	
+	/*blog*/
+	.invitation-block > img {width: 100%;}
+	.blog-bottom-main {padding:10 20px;}
+	.blog-middle-slider-section{height: 400px !important;width: 400px !important;}
+	.blog-upper-text p.blog-head-text {font-size: 30px; margin-bottom: 14px; margin-top: 18px;}
+	.blog-upper-text p.blog-sub-text { font-size: 17px; margin-bottom:0px;}
+	.trending{margin-top:15px;}
+	.trending .res-margin{margin-bottom:20px;}
+	.overlaytextblog{ font-size: 12.22px;padding: 11px;}
+	.trendingimg{width:auto;}
+	.get-started-block { margin-bottom: 26px;margin-top: 0;}
+	.get_started_btn {font-size: 25px;height: auto;width: 100%;}
+	.invitation-heading {font-size: 22px;margin-bottom: 10px;}
+	.invitation-text {float: left;font-size: 13px; margin-top: 10px; }
+	.read_more_blog {font-size: 13px;height: auto;margin-top: 5px;width: 45%;}
+	.goodness-heading { float: left;font-size: 21px;}
+	.goodness-text{ font-size: 17px;}
+	.goodness-block {float: left;margin: 10px auto;text-align: center;width: 100%;}
+	.goodness-block .goodness-text{min-height:80px;}
+	/*blog*/
+	/*everythingwedpic*/
+	.ff-left.imgwed {height: 167px;}
+	.ff-right.bottomphone2.imgwed {height: 255px;width:auto !important}
+	.ff-right.bottomphone1.imgwed {height: 255px;width:auto !important}
+	.erytng-wedpic-main .weddiv{margin-top:10px !important;}
+	.oddevendiv .container{margin-top:15px;}
+	.erytng-wedpic-main .wedapp {font-size: 13px;padding: 19px 41px;width: 100%;}
+	.erytng-wedpic-main .demoalbum {font-size: 13px;padding: 12px 53px;width: 100%;}
+	.ff-rightside.btnswed.evry-spcng-right { margin-top: 21px;}
+	.erytng-wedpic-main .wedfooter{height:270px;}	
+	.erytng-wedpic-main .guestlist .evry-spcng-right{margin-top:10px;}
+	.erytng-wedpic-main .premiumprints .wedoddevendiv{margin-bottom: 10px;margin-top: 10px;}
+	.erytng-wedpic-main .weddingblog .wedoddevendiv{margin-top:10px;margin-bottom:10px;}
+	.erytng-wedpic-main .appcards .wedoddevendiv{margin-top:10px;margin-bottom:10px;}
+	.erytng-wedpic-main .slideshowwed .wedoddevendiv{margin-top:10px;margin-bottom:10px;}
+	.ff-right.bottomphone2.imgwed {margin-top: 10px;}	
+	/*everythingwedpic*/
+	/*print your own main */
+	.print-your-own1 .colorslct{width:44%;}
+	.print-your-own1 .colorslct3 {margin-top: -7px;width: 157%;}
+	.order-app-cards.print-your-own1 .colorslct{ margin-top: -15px;width: 64%;}
+	.ptrnbox{width:100% !important;}
+	.colorslct4.colorslct2 {width: 88%;}
+	.ptrnbox .patrnbox1{display: inline-block;float: none;}
+	.ptrnbox .patrnbox2{display: inline-block;float: none;}
+	/*print your own main */
+	.feed .live-feed-text { font-size: 14px; padding: 10px 0;}
+	.slct-usr { font-size: 17px; margin-bottom: 10px;}		
+
+	/*Photo Comment*/
+	
+	.images_container {width: 100%;}
+	.photo_box {height: 399px;position: relative;width: 450px; margin-right: 28px;}
+	.comment_section {background: none repeat scroll 0 0 #ffffff;height: 100%;width: 377px;}
+	.comment_tab ul li a div.Count {font-size: 20px;}
+	.comment_tab ul li a div {font-size: 27px;}
+	.leave_comment .comment_input textarea {border: 1px solid #e8817f;color: #e8817f; height: 100px; padding: 5px;resize: none;  width: 100%;}
+	.leave_comment .Add_comment input[type="submit"] {background: #008085;border: medium none;  border-radius: 30px;font-size: 18px;  margin-top: 20px;   padding: 11px 23px;}
+	.comment_part {padding: 1% 0 2%;}
+	.view-album {margin-top: 13px;}
+	.view-album a { font-size:25px;}
+	.edit_button {margin: 0 auto;width: 95%;}
+	.comment_section .title {margin-top: 5px;text-align: center;text-transform: capitalize;}
+	.edit_part {margin-top: 0px;}
+	.caption_title a { float: left;padding: 7px !important;}
+	.Social-media-icons a {font-size: 42px;height: 75px;width: 75px;}
+	.download_button_media button {padding: 12px 20px;}
+	.edit_button {margin: 0 auto;width: 74%;}
+	.image-comment-photo{ width:79.2%;}
+	.comment_part_photobox .comment_part {background: #ffffff;border: medium none;left: 22px;padding: 0;position: inherit;top: 415px;width: 75%;z-index: 999;}
+	.Edit_control{ z-index:9999;}
+	.comment_tab ul li a {padding: 13px 0;}
+	.Photobox_inner_part .mCSB_scrollTools .mCSB_dragger .mCSB_dragger_bar {background: none repeat scroll 0 0 rgba(255, 255, 255, 0.4)!important;box-shadow:0 0 0!important;}
+	.Album_list .Album_box{ margin:15px;}
+	.second_photobox .comment_tab{ width:67px;}
+	.image-comment-photo {width: 100%;}
+	.second_photobox .comment_part .Comment_detail {width: 74%;}
+	.second_photobox .comment_part .person_image {width: 25%;}
+	.comment_part_photobox .comment_part {background:#ffffff;border: medium none;left: 0px;padding: 0;position: inherit;top: 338px;width: 100%;z-index: 999;}
+	.Photo-edit .Album-slider .carousel-control.left{ left:-44px;}
+	.Photo-edit .Album-slider .carousel-control.right{ right:-42px;}
+	.Social-media-icons a {font-size: 40px;height: 75px;width: 75px;}
+	.photo-comment-main .Photobox_inner_part { height: 314px;margin-bottom: 13px;}
+	#admin-content .mCSB_container{ height:100%;}
+	#admin-content .mCSB_container{ height:95%; width:100%!important; overflow:auto;}
+	.tag_icon {padding: 10px;width: 50px;}
+	.tag_icon img{ max-height:100%; max-width:100%;}
+	.image-comment-photo {width: 377px; }
+	.comment_part_photobox .comment_part{ width:377px; top:325px; z-index:9999;}
+	.grid-view-content .image-box { margin:8px;}
+	.Comment_detail .video-camera {font-size: 35px;right: 85px;top: 265px;}
+	.comment_tab {width: 74px;}
+	.comment_part .person_image {width: 75px;}
+	.Comment_detail_desc{ width:77%!important;}
+	.socil_media_part {width: 78%;}
+	.photo-comment-main .Photobox_inner_part { height: 322px; margin-bottom: 13px;}
+	.Edit_control {padding-bottom: 14px;z-index: 9999; position: absolute;bottom: 0;}
+	.leave_comment .Add_comment input[type="submit"] {margin-top: 15px;padding: 7px 17px; font-size:14px;}
+	.edit_button {margin: 0 auto;width: 74%;}
+	.comment_tab ul li a div.Count{ padding-top:7px;}
+	.leave_comment {margin-top: 0px;}
+	.comment_tab ul li .back-button a{ left:1%;}
+	.comment_tab ul li .back-button a:hover{ left:1%;}
+	.grid-view-content {margin-left: auto;margin-right: auto;margin-top: 20px;width: 90%;}
+	/*Photo Comment*/
+
+}
+@media screen and (max-width:640px){
+	h1 { font-size:32px;}
+	h2 { font-size:22px;}
+	.why-gallary .why-galry-sctn-1, .why-gallary .why-galry-sctn-2, .why-gallary .why-galry-sctn-3 { margin:10px 0;}
+	.why-gallary .why-galry-sctn-4 span { font-size:20px; line-height:30px;}
+	.any-thing-main .any-thing-thumb ul li { width:97px;}
+	.wedoo-aap .weapp-slider-frame { max-width:460px; margin:0 auto; float:none; padding:47px 46px 40px 42px;}
+	.flex-direction-nav {  bottom: -76px;}
+	.app-info { padding-bottom:50px;}
+	.video-main,
+	.video-main section { height:300px;}
+	.menu-logo { margin-top:10px;}
+	.st-menu ul {margin-top:10px;}
+	.menu-logo img { height:58px;}
+	.st-menu ul li a { font-size:12px; padding:10px 0;}
+	
+	.custom-pop #pop-close { padding:8px;}
+	.custom-pop #pop-close img { width:15px;}
+	#login .custom-pop-inner { padding:20px;}
+	#login .login-with-fb { font-size: 15px;  padding: 8px 10px;}
+	#login .login-with-fb img { margin-right:10px; height:23px;}
+	#login .login-head { margin:0; font-size:25px; height:28px;}
+	#login form ul { margin-top:20px;}
+	#login form ul li { margin-bottom:5px;}
+	#login form ul li .login-txbx {  font-size: 13px;  padding: 5px 10px;}
+	#login form ul li .forgot { font-size: 16px;}
+	#login form ul li .login-txbt {  font-size: 17px; margin-top: 10px;  padding: 6px 60px;}
+	#login .custom-pop-inner { height: 306px;  width: 460px;}
+	#login .social { margin-top:15px;}
+	#login .social li { margin:0 5px;}
+	#login .social li img { width:30px;}
+	
+	#register .custom-pop-inner { padding:20px;}
+	#register .login-with-fb { font-size: 15px;  padding: 8px 10px;}
+	#register .login-with-fb img { margin-right:10px; height:23px;}
+	#register .login-head { margin:0; font-size:25px; height:28px;}
+	#register form ul { margin-top:20px;}
+	#register form ul li { margin-bottom:5px; width:49%;}
+	#register form ul li:nth-child(2n+2) { float:right;}
+	#register form ul li:last-child { width:100%;}
+	#register form ul li .login-txbx {  font-size: 13px;  padding: 5px 10px;}
+	#register form ul li .forgot { font-size: 16px;}
+	#register form ul li .login-txbt {  font-size: 17px; margin-top: 0;  padding: 6px 60px;}
+	#register .custom-pop-inner { height: 275px;  width: 460px;}
+	#register .social { margin-top:15px;}
+	#register .social li { margin:0 5px;}
+	#register .social li img { width:30px;}
+
+	#choos-wed .custom-pop-inner { height:300px;}
+	#choos-wed .choos-pop-head { font-size: 16px;  padding: 6px 0;}
+	#choos-wed .choos-cont {  margin-top:10px;}
+	#choos-wed .choos-cont form { border-width:1px;}
+	#choos-wed .choos-cont form .choos-txbx { font-size: 16px;  padding: 6px 64px 6px 10px;}
+	#choos-wed .choos-cont form .choos-txbt { background-size: 8px auto;  height: 35px;  width: 35px;}
+	#choos-wed .choos-cont .wed-lits { margin-top:10px; max-height:187px;}
+	#choos-wed .choos-cont .wed-lits ul li { padding:7px 10px;}
+	#choos-wed .choos-cont .wed-lits .list-head { font-size:28px; height:28px;}
+	#choos-wed .choos-cont .wed-lits .list-id { font-size:12px;}
+	#choos-wed .choos-cont .wed-lits .list-delete { margin-top:-11px;}
+	#choos-wed .choos-cont .wed-lits .list-delete img { width:22px;}
+	
+	/**************************************/
+	.faq-main .faq .faq-div .txt h1.faq-h { font-size: 40px;}
+	.faq-main .faq .faq-div .txt { margin-top: 130px;}
+	.faq-main .faq .faq-div form ul li input.txt-bx { font-size: 16px;}
+	.faq-main .faq { max-height: 320px;}
+	.faq-main .faq .faq-div .txt { margin-top: 110px;}
+	.faq-botm .last-btns a { font-size: 14px; width: 220px;}
+	.faq-botm .last-btns{margin-top:30px;}
+
+
+	.feed{width:100%;}
+	.live-feed-main{width:96%;float:left}
+	/*.feed-info {float: left;width: 100%;}*/
+	.live-feed-main .sub-inner-feed{width:100%;}
+	.feed-list{width:100%;}
+	.live-feed-main .middle-feed-header h1 {font-size: 30px;height: 37px;text-align: center;}
+	.live5feed{width:100%;}
+	.comment-feed-box{width:100%;}
+	.feed-user-name{font-size:13px;}
+	.feed-desc {font-size: 11px;width: 100%;word-wrap: break-word;}
+	.feed-btns{float:left;width:100%;}
+	.inner-image-feed{margin-left:0px;}
+	.inner-image-feed .first-inner-div {margin-right: 0;}
+	.large-feed-img >img ,.small-feed-img > img{float: left; width: 91%;}
+	.comment-user-pic > img {height: auto;width: 25px;}
+	.btn.btn-default.dropdown-toggle.planebtn > img {width: 18px;}
+	.btn.send-feed {font-size: 10px;}
+	.addvideophoto img {width: 29px;}
+	.addvideophoto{float:left;}
+
+	/*features*/
+	.features a.ff-lastbtn{margin:20px 0;}
+	.imgsec1{max-height: 370px;}
+	.imgsec2{max-height: 370px;}
+	.imgsec3{max-height: 370px;}
+	
+	/*features*/
+	/*thanx-signup*/
+	.thanx-signup .middle-thanx { margin-top:0;}	
+	/*thanx-signup*/
+	/*manage-albums*/	
+	.manage-albums h3.mng-head { font-size: 18px; margin-top: 13px;}
+	.manage-albums .flex-direction-nav .flex-prev{ height: 28px; left: -20px; background-size:100%; width: 12px;}
+	.manage-albums .flex-direction-nav .flex-next{ height: 28px; right: -20px; background-size:100%;  width: 12px;}
+	.manage-albums .create-ur-album form .brows {height: 43px;}
+	.manage-albums .suggest-wed-album .suggest-txt h1{padding: 10px 10px;  font-size:20px;}
+	#upload-pic .custom-pop-inner .uplodpic-box .mbox { height: 135px;}
+	#upload-pic .custom-pop-inner .uplodpic-box span{  margin-top: 8px;}
+	#upload-pic .custom-pop-inner a.choose-file { font-size: 15px;}
+	#upload-pic .custom-pop-inner .inner-part h3 { font-size: 14px;  margin: 10px 0;}
+	#upload-pic .custom-pop-inner .uplodpic-box span { font-size: 12px;}
+	#upload-pic .custom-pop-inner .choose-file{font-size: 15px;}
+	
+	#slideshow .custom-pop-inner .uplodpic-box .mbox { height: 135px;}
+	#slideshow .custom-pop-inner .uplodpic-box span{  margin-top: 8px;}
+	#slideshow .custom-pop-inner a.choose-file { font-size: 15px;}
+	#slideshow .custom-pop-inner .inner-part h3 { font-size: 14px;  margin: 10px 0;}
+	#slideshow .custom-pop-inner .uplodpic-box span { font-size: 12px;}
+	#slideshow .custom-pop-inner .choose-file{font-size: 15px;}
+	#slideshow .custom-pop-inner .inner-part{height:400px;}
+	
+	
+	#push-to-fb .custom-pop-inner .uplodpic-box .mbox { height: 135px;}
+	#push-to-fb .custom-pop-inner .uplodpic-box span{  margin-top: 8px;}
+	#push-to-fb .custom-pop-inner a.choose-file { font-size: 15px;}
+	#push-to-fb .custom-pop-inner .inner-part h3 { font-size: 14px;  margin: 10px 0;}
+	#push-to-fb .custom-pop-inner .uplodpic-box span { font-size: 12px;}
+	#push-to-fb .custom-pop-inner .choose-file{font-size: 15px;}
+	#push-to-fb .custom-pop-inner .inner-part{height:385px;}
+	#push-to-fb .custom-pop-inner a.slideshow{padding:5px 10px;}
+	.manage-albums .mange-cntntbox .mbox span {  font-size: 14px;}
+	
+	/*manage-albums*/	
+	/*payment-option-main */
+	.payment-option-main .shippingaddress { width:100%; margin-bottom:20px;}
+	.payment-option-main .paymenttype{width:100%;}	
+	.payment-option-main .paymenttypemain{width:100%;}
+	
+	.payment-option-main form ul.pay-ul li .pay-txbx{font-size:15px;}
+	.payment-option-main form ul.pay-ul li .btn-group .btn{font-size:15px;}
+	.payment-option-main form ul.pay-ul li .apply-btn{font-size:15px;}
+	.payment-option-main form ul.pay-ul li .btn-group .dropdown-menu ul li a { font-size: 15px;}
+	/*payment-option-main */
+
+	/***********************************/	
+	
+	#menu-triger { margin-top:-18px;}
+	#menu-triger > img { height: 36px;}
+	.admin-white-head h1 { font-size:25px; padding:0 10px;}
+	.admin-white-head h1 i { font-size:25px; height: 25px; line-height: 25px; margin-right: 15px; width: 35px;}
+	.admin-tag br { display:none;} 
+	.admin-upload-image { height:83px; width:80px; margin-top:10px;}
+	.admin-or-line { border-width:1px; height:22px; font-size:10px;}
+	.admin-or-line span { border: 2px solid hsl(0, 0%, 100%); height: 40px; line-height: 36px; width: 40px;}
+	.admin-bot-nav { margin-top:30px;}
+	.admin-bot-nav li a img { width:80px;} 
+	.admin-bot-nav li { margin:0 10px;}
+	.admin-bot-nav li a span { font-size:14px;}
+	
+	#side-bar-menu .logo { padding:10px 0;}	
+	#side-bar-menu .logo img { height: 37px;}
+	#side-bar-menu .icon-bar ul.noti-nav li a i { font-size:21px;}
+	#side-bar-menu .side-prfl-img { max-height:143px;}
+	#side-bar-menu .wedng-id { font-size: 20px; padding: 5px 0;}
+	#side-bar-menu .wedng-id span { font-size: 15px;}
+	
+	/* invite guest */
+	.invite-guest-main .admin-white-head { margin-bottom:10px;}
+	.invite-guest-main .invite-guest .invite-head:before { border-bottom: 1px solid hsl(0, 0%, 100%);  bottom: -7px;}
+	.invite-guest-main .invite-guest .invite-social {  margin-top: 25px;}
+	.invite-guest-main .invite-guest .invite-form {  margin-top: 20px;} 
+	.invite-guest-main .invite-guest .invite-add-main .invite-email-txbx {  font-size: 14px; padding: 11px 20px 12px;}
+	.invite-guest-main .invite-guest p { margin-bottom: 15px;}
+	.invite-guest-main .invite-guest .email-but {  font-size: 15px;  padding: 9px 0;}
+
+	/*.accommodations*/
+	.accommodations .acc-form-div form .acc-btns {   font-size: 16px;}
+	.acc-head{font-size:16px;}
+	.accommodations span.mng-line{margin-bottom:20px;}
+	.accommodation-list span.mng-line{margin-bottom:20px;}
+	.accommodation-list .acc-list-div .location .acc-ldiv h3.acc-locationhead {  font-size: 16px;}
+	.accommodation-list a.addnew{padding:8px 15px; font-size:14px;}
+	.accommodation-list .acc-list-div .location .acc-listimg{ width: 35%;}
+	.accommodation-list .acc-list-div { padding-right: 0;}
+	/*.accommodations*/
+	/*create-event*/
+	.create-event-main .create-event-form { margin-top:20px;}
+	.create-event-main .create-event-form ul li .btn-group .btn { padding:8px 10px; font-size:14px;}
+	.create-event-main .create-event-form ul li .btn-group .caret { border-width:7px 6px medium; right:10px; margin-top:-3px;}
+	.create-event-main .create-event-form ul li .date,
+	.create-event-main .create-event-form ul li { margin-bottom:10px;}
+	.create-event-main .create-event-form ul li .location input { margin-bottom:10px; }
+	.create-event-main .create-event-form ul li .creat-txbx { padding:8px 10px; font-size:14px;}
+	.create-event-main .create-event-form ul li .date-but { height:38px; width:38px; font-size:18px;}
+	.create-event-main .create-event-form ul li .time { width:32.3%;}
+	.create-event-main .create-event-form ul li .time + .time { margin-right: 1.5%;}
+	.create-event-main .create-event-form ul li textarea.creat-txbx { min-height:70px;}
+	.create-event-main .create-event-form ul li .map-div { margin-top:0; padding-top:10px;}
+	.create-event-main .create-event-form ul li .map-div span { height:130px;}
+	.create-event-main .create-event-form ul li .label_check span { font-size:16px;}
+	.create-event-main .create-event-form ul li .label_check em { font-size:12px;}
+	.create-event-main .create-event-form ul li .create-but { font-size: 16px;}
+	
+	#select-event .custom-pop-inner .uplodpic-box { padding-top:10px;}	
+	#select-event .custom-pop-inner .inner-part { height:160px;}
+	#select-event .custom-pop-inner .create-album-main a { font-size: 16px;  padding: 7px 20px;}
+	#select-event .custom-pop-inner .create-album-main { padding: 30px 0 10px; }
+	#select-event .custom-pop-inner .select-album {  font-size: 18px; padding: 6px 0;}
+	#select-event .custom-pop-inner {  height: 330px;}
+	#select-event .custom-pop-inner .admin-white-head h1 {  font-size: 22px;}
+	#select-event .custom-pop-inner .create-album .new-albm-txbx { padding:3px 10px;}
+	#select-event .custom-pop-inner .create-album .label_radio { font-size:16px;} 
+	#select-event .custom-pop-inner .create-album { padding:0;}
+	/*create-event*/
+
+	/* wedding setup*/
+	.setup-left .weddinglogo{width:100%;}
+	.wedding-part-right .wedding-white .wedding-vector { background-size:300px auto;}
+	.fields-wedding li .weding-tx-bx{font-size:17px;}
+	.wedding-part-left .setup-left .setup-mid img.weddinglogo { width:150px;}
+	/* wedding setup*/
+	/*blog*/
+	.invitation-block > img {width: 100%;}
+	.goodness-block:last-child{margin-right:0;}
+	.blog-upper-text .blog-head-text{font-size:28px;}
+	.blog-bottom-main .invitation-heading{font-size:25px;}
+	.blog-middle-slider-section{height: 222px !important;width: 222px !important;}
+	.blog-upper-text p.blog-head-text {font-size: 22px; margin-bottom: 14px; margin-top: 18px;}
+	.trending{margin-top:40px;}
+	.trending .res-margin{margin-bottom:20px;}
+	.overlaytextblog{ font-size: 12.22px;padding: 11px;}
+	.get-started-block { margin-bottom: 26px;margin-top: 0;}
+	.get_started_btn {font-size: 25px;height: auto;width: 100%;}
+	.invitation-heading {font-size: 22px;margin-bottom: 10px;}
+	.invitation-text {float: left;font-size: 13px; margin-top: 10px; }
+	.goodness-heading { float: left;font-size: 21px;}
+	.goodness-text{ font-size: 17px;}
+	.trending .get-started-btn{font-size:20px;}
+	.blog-bottom-main .invitation-text{font-size:18px;}
+	.blog-bottom-main .read_more_blog{font-size:18px;}
+	.trending{margin-bottom:20px;}
+	.blog-upper-text .blog-head-text{font-size:20px;}
+	.trending { margin-top: 0;}
+	.blog-bottom-main .invitation-heading { font-size: 18px;}
+	.blog-bottom-main .read_more_blog{width:auto; font-size:15px; }
+	.goodness-heading{margin-bottom:10px;}
+	.goodness-block{ float: left; margin: 0 1% !important;   width: 48% !important; margin-bottom:20px !important;}
+	.blog-bottom-main .invitation-text { font-size: 15px;}
+	.trending .trendimg{margin-top:32px;}
+	.trendingimg{width:110px;}
+	.trending .overlay-box {font-size:16px; min-height:60px;}
+	.blog-bottom-main .invitation-text{font-size: 16px; }
+	.blog-bottom-main .invitation-heading{font-size:18px;}
+	.trending{margin-top:10px;}
+	.video-blog img.dot-line { margin-top:35px;}
+	.blog-bottom-main{margin-top:0;}
+	.video-blog .video { height: auto;}
+	.blog-bottom-main {  padding: 20px 0;}
+	.blog-banner {  max-height: 350px;}
+	.goodness-block .goodness-text{min-height:10px;}
+	.goodness-block .goodness-text {  font-size: 15px;}
+	/*blog*/
+	/*everythingwedpic*/
+	.ff-left.imgwed {height: auto; width: 250px;}
+	.erytng-wedpic-main .wedoddevendiv{width:100% !important;}
+	.erytng-wedpic-main .demoalbum {font-size: 13px; padding: 14px 36px;}
+	.erytng-wedpic-main .wedapp {font-size: 13px;padding: 12px 33px !important;}
+	.graylogo{width: 178px;}
+	.ff-rightside.btnswed.evry-spcng-right{width:100%;} 
+	.erytng-wedpic-main .wedfooter{height:240px !important;}
+	.ff-leftside.evry-spcng > h1 {font-size: 40px;text-align:center;}
+	.ff-rightside.evry-spcng-right > h1{font-size: 40px;text-align:center;}
+	.ff-leftside.evry-spcng > span {text-align:center;}
+	.ff-rightside.evry-spcng-right > span{text-align:center;}
+	.ff-leftside.evry-spcng > p {text-align:center;}
+	.ff-rightside.evry-spcng-right  > p{text-align:center;}
+	.erytng-wedpic-main .unlimited-photo{margin-top:15px;}
+	.ff-rightside.evry-spcng-right{margin-left:0 !important;}
+	.ff-rightside.btnswed.evry-spcng-right {padding: 22px;  margin:0;}
+	.ff-cntnt .main-ff-cntnt p { font-size:16px; line-height:normal;}
+
+	/*everythingwedpic*/	
+	/*Add Wedpics To Your Website*/
+	.add-Wedpics p.add-webpic-p{font-size:15px;}
+	.add-Wedpics .add-web-right .optionsdiv h3.option{font-size:16px;}	
+	.add-Wedpics .add-web-right .optionsdiv h3.option .number {font-size: 18px; height: 25px; line-height: 25px; width: 25px;}
+	.add-Wedpics .add-web-right p.add-ptag{font-size:15px;}
+	.add-Wedpics .add-web-right a.click{font-size:15px;}
+	/*Add Wedpics To Your Website*/
+	
+	/*edit-color-scheme*/
+	.edit-color-scheme a.edit-clr-btns{margin-top:80px;font-size:18px; width:150px; border:2px solid #fff; padding:5px 0;}
+	.edit-color-scheme p.add-webpic-p{font-size:16px; margin:15px 0;}
+	.edit-color-scheme .txt{font-size:25px;}
+	.left-por::before, .left-por::after{top:5px;}
+	.right-por::before, .right-por::after{top:5px;}
+	.edit-color-scheme a.reset{font-size:18px;}
+	.edit-color-scheme .main-clrs label.lbl-edit {height:50px; width:50px;}
+	/*edit-color-scheme*/
+	/*payment-option-main*/
+	.payment-option-main form ul.pay-ul li .pay-txbx { font-size: 13px;}	
+	.payment-option-main form ul.pay-ul li { margin:5px 0;}
+	.payment-option-main form ul.pay-ul li .complete { font-size:15px; padding:8px 15px;}
+	.payment-option-main form p,
+	.payment-option-main form ul.pay-ul ul.pay-txt li { font-size:14px;}
+	/*payment-option-main*/
+	/*print your own main */
+	.print-your-own1 .colorslct {width: 34%;}
+	.colorslct4.colorslct2 {width: 86%;}
+	.ptrnbox{padding:10px;}
+	.patrnbox2 .apple{padding:10px;}
+	.patrnbox2 .android{padding:10px;}
+	.patrnbox2 .ptrn2txt{ margin-top: 12px;}
+	.print-your-own1 .colorslct3 { margin-top: -7px;width: 167%;}
+	ul.slidelist {margin: 10px;width: 295px !important;}
+	ul.slidelist li.slide-link-0 {width: 90px !important;}
+	ul.slidelist li.slide-link-1 {width: 90px !important;}
+	ul.slidelist li.slide-link-2 {width: 81px !important;}
+	.order-app-cards.print-your-own1 .colorslct{ margin-top: -15px;width: 56%;}
+	.print-your-own1 .colorslct {width: 30%;}
+	.wedoowhite {width: 100px;}
+	.ptrnbg2 h2{ font-size: 44px;}
+	.ptrnbg2 p{ font-size: 11px;}
+	.ptrnbg2 p span{font-size: 20px;}
+	.print-your-own1 .main-clrs.ptrns label.lbl-edit{width:60px;height:60px;}
+	/*print your own main */
+
+	.erytng-wedpic-main .colorschemewed .wedoddevendiv { padding-top:20px;} 
+	.order-prints-main .mainclr-txt .txt { font-size: 20px; padding: 3px 36px;}
+	.order-prints-main .select-cntry { margin-top: 30px;}
+	.order-prints-main .select-product-but { font-size: 15px; margin-bottom: 10px;  padding: 10px 20px;}
+	.order-prints-main .select-cntry label > span { font-size: 15px;}
+	.order-prints-main .select-cntry .btn-group { margin-top:5px;}
+	.order-prints-main .select-cntry .btn-group .filter-option { font-size: 19px;}
+	.order-prints-main .select-cntry .btn-group .caret { border-width:9px 7px medium;}
+	.order-prints-main .select-cntry .btn-group .dropdown-menu ul li a { font-size: 14px;  padding: 5px 10px;}
+	.order-print { padding-bottom:80px;}
+	
+	/* .beacon-manage-main */
+	.beacon-manage-main .select-user-box form .tag-line { font-size:18px;}
+	.beacon-manage-main .select-user-box form .slect-but { font-size: 18px; margin-top: 13px; padding: 7px 0;}
+	
+	/* .beacon-manage-main */
+	/*Photo Comment*/
+	
+	.comment_section{ width:404px;}
+	.admin_content_photos{ margin:80px 0 0; }
+	#custom-scrl{ height:62%!important;}
+	.photo-comment-main .Photobox_inner_part{ height:374px;}
+	.comment_part_photobox .comment_part {background:#ffffff;border: medium none;left: 0px;padding: 0;position: inherit;top: 320px;width: 100%;z-index: 999;}
+	.comment_tab ul li a { padding: 15px 0;}
+	.Guest_person {float: none !important;margin-left: auto;margin-right: auto;}
+	.Guest_person .guest_person_image {height: 200px;margin: 0 auto;width: 200px;}
+	.tag_icon {padding: 10px;width: 50px;}
+	.tag_icon img{ max-height:100%; max-width:100%;}
+	.comment_part_photobox .comment_part {background: none repeat scroll 0 0 #ffffff;border: medium none;left: 0;padding: 0;position: inherit;top: 328px;width: 86%;z-index: 9999;}
+	.comment_part .person_image {width: 28%;}
+	.Comment_detail_desc {left: 0; position: absolute;top: 0;width: 70% !important;}
+	.comment_part .person_image {width: 83px;}
+	
+	.Comment_detail_desc{ width:81%;}
+	
+	.Comment_detail .video-camera {font-size: 35px;right: 85px;top: 265px;}
+	.photo_box {float: none !important;height: 426px;margin: 10px auto;width: 470px;display:inline-block;}
+	.comment_tab {width: 77px;}
+	.image-comment-photo {width: 393px;}
+	.comment_part_photobox .comment_part{ width:393px; top:344px;}
+	.comment_section {width: 393px;}
+	.Comment_detail_desc {left: 0;position: absolute;top: 0;width: 76% !important;}
+	.comment_tab ul li a {padding: 16px 0;}
+	.comment_tab ul li a div.Count {padding-top: 6px;}
+	.Comment_detail .video-camera {font-size: 35px;right: 100px;top: 280px;}
+	.grid-view-content{ width:90%; margin-left:auto; margin-right:auto;}
+	/*Photo Comment*/	
+	
+	.admin-white-head .count { font-size: 14px; height: 30px; line-height: 30px; margin-top: -15px; right: 10px; width: 30px;} 
+
+	.send-comment-feed { width: 68%;}	
+	.feed-char { margin-left: 69%;}
+
+}
+@media screen and (max-width:580px){
+	h1 { font-size:30px;}
+	h2 { font-size:20px;}
+	.banner header { width:300px; left:50%; margin-left:-150px; }
+	.banner header .logo { width:60%; float:left;}
+	.banner header .header-tag { float:left; width:100%; font-size:30px; line-height:normal;}
+	.banner header .sub-head { float:left; width:100%;}
+	.banner .menu { left:50%; margin-left:105px; z-index:99999; right:auto; top:37px; z-index:999999;}
+	.banner .menu button { background: #645858;border: none; border-radius: 3px; -moz-border-radius: 3px; -ms-border-radius: 3px; -o-border-radius: 3px; -webkit-border-radius: 3px;  padding: 2px 4px 4px;}
+	.why-choose .why-head img { width:300px;}
+	.why-choose .why-head { margin-left:-150px; top:-85px;}
+	.why-inner .why-ser { width:100%;}
+	.why-inner { margin-top:0;}
+
+	.why-inner .why-img .why-lft { left:10px;}
+	.why-inner .why-img .why-rgt { right:10px;}
+
+	.wedoo-aap .cople-guest span img { width:30px;}
+	.testimonials-head { margin-top:30px;}
+	.app-info { padding-bottom:30px;}
+	.video-main section h1 { font-size:25px; padding-bottom:10px; background:none; border-bottom:1px solid #000; display:inline-block; clear:both;}
+	.video-main section .play img { width:40px;}
+
+	/***************************************/
+	.gw-nav-list > li > a { font-size: 16px;}
+	.gw-sidebar .gw-nav-list > li{padding:10px 0;}
+	.gw-sidebar .gw-nav-list > li::before { top: 36px;}
+	
+	/*manage-albums*/
+	.manage-albums .mange-cntntbox .mbox { width: 45%;}
+
+	/*manage-albums*/
+	/*features*/
+	.features .unlimited-photo img.f1{width:90%;}
+	.ff-cntnt .main-ff-cntnt .ff-leftside{width:100%; margin:0; margin-bottom:20px;}
+	.ff-cntnt .main-ff-cntnt .ff-rightside{width:100%;}
+	.ff-cntnt .main-ff-cntnt .ff-rightside > img{width:auto; display:inline-block; float:none;}
+	.ff-cntnt .main-ff-cntnt span{font-size:16px;}
+	.ff-cntnt .main-ff-cntnt p{font-size:15px;}
+	
+	.imgtop {background: url("../images/imgtop.png") no-repeat scroll center bottom; min-height: 225px;}
+	.imgbotm{background: url("../images/imgbotm.png") no-repeat scroll center top; min-height: 170px;}
+	
+	.imgsec1{max-height: 500px;}
+	.imgsec2{max-height: 500px;}
+	.imgsec3{max-height: 500px;}
+	/*features*/
+
+	/***************************************/
+
+	.feed{width:100%;}
+	.live-feed-main{width:96%;float:left}
+	/*.feed-info {float: left;width: 100%;}*/
+	.live-feed-main .sub-inner-feed{width:100%;}
+	.feed-list{width:100%;}
+	.live-feed-main .middle-feed-header h1 {font-size: 30px;height: 37px;text-align: center;}
+	.live5feed{width:100%;}
+	.comment-feed-box{width:100%;}
+	.feed-user-name{font-size:13px;}
+	.feed-desc {font-size: 11px;width: 100%;word-wrap: break-word;}
+	.feed-btns{float:left;width:100%;}
+	.inner-image-feed{margin-left:0px;}
+	.inner-image-feed .first-inner-div {margin-right: 0;}
+	.large-feed-img >img ,.small-feed-img > img{float: left; width: 91%;}
+	.comment-user-pic > img {height: auto;width: 25px;}
+	.btn.btn-default.dropdown-toggle.planebtn > img {width: 18px;}
+	.btn.send-feed {font-size: 10px;}
+	.addvideophoto img {width: 29px;}
+	.addvideophoto{float:left;}
+	
+	.admin-header #admin-topmenu-triger { display:block;}
+	.admin-header .admin-top-nav { display:none; position:absolute; margin:0; top:50px; left:0; width:100%; z-index:9999; background:rgba(0,0,0,0.9); background:#fff\0; border-top:1px solid #000;}
+	.admin-header .admin-top-nav li { width:20%;}
+	.admin-header .admin-top-nav li a span {font-family: inherit; font-size: 10px;}
+	
+	.invite-guest-main .invite-guest .invite-social li a { height: 35px;  width: 35px;}
+	.invite-guest-main .invite-guest .invite-social li a i { line-height:35px;}
+	/*.accommodations*/
+	.accommodations .acc-form-div form ul li.acc-xs{width:100%;}
+	.accommodations .acc-form-div form ul li.acc-small{width:100%;}
+	.accommodations .acc-form-div form ul li .acc-side{width:50%; float:none;  margin:0 auto;}
+	.accommodations .acc-form-div form ul li .acc-txt-bx, 
+	.accommodations .acc-form-div form ul li textarea{font-size:14px;   padding: 10px 5px;}
+	.accommodations span.mng-line{margin-bottom:15px;}
+	.accommodation-list span.mng-line{margin-bottom:15px;}
+	.accommodation-list .acc-list-div .location .acc-ldiv{ padding: 20px 30px 20px 15px;}
+	/*.accommodations*/
+	
+	#select-event .custom-pop-inner .uplodpic-box .mbox { height: 120px; padding: 5px;}
+	#select-event .custom-pop-inner .inner-part {  height: 140px;}
+	#select-event .custom-pop-inner .create-album-main { padding: 24px 0 10px;}
+	#select-event .custom-pop-inner .create-album-main .or { top:-28px;}
+
+	/* edit wedoo */
+	.edit-wedoo-info .edit-wedoo-form .side-edite-img { width:100%; max-width:250px; float:none; margin:0 auto;}
+	.edit-wedoo-info .edit-wedoo-form ul.side-form { margin-top:20px; max-width:100%;}
+	.edit-wedoo-info .edit-wedoo-form ul li { margin-bottom:10px;}
+
+	/* wedding setup*/
+	.fields-wedding li .drop-name { right:0; top:0;display:inline-block; position:relative; margin-bottom:10px;}
+	.fields-wedding li label.drowp-name{ max-width: 355px; width:100%;}
+	.fields-wedding li label{margin-top:10px;}
+	.fields-wedding li .weding-tx-bx{font-size:15px;}
+	.wedding-part-left .setup-left .setuptext{font-size:25px;}
+	.wedding-part-left .setup-left .setuptext br{display:none;}
+	.fields-wedding li .btn-group .btn { padding:10px 0;}
+	.fields-wedding li .btn-group .btn .filter-option { width:85%; text-align:left;}
+	/* wedding setup*/
+	/*blog*/
+	.invitation-block > img {width: 100%;}
+	.goodness-block:last-child{margin-right:0;}
+	.blog-bottom-main .invitation-heading{font-size:25px;}
+	.trending .get-started-btn{font-size:20px;}
+	.blog-bottom-main .read_more_blog{font-size:18px;}
+	/*blog*/
+	/*everythingwedpic*/
+	.ff-rightside.btnswed.evry-spcng-right {padding-top: 0;}	
+	/*everythingwedpic*/
+	/*Add Wedpics To Your Website*/	
+	.add-Wedpics .add-web-left{width:80%;}
+	/*Add Wedpics To Your Website*/
+	/*pickquantity */	
+	.pickquantity a.pick-prise {font-size: 22px; width: 240px;}
+	.pickquantity p {font-size: 16px;}
+	.print-your-own1 .mainclr-txt { margin-top:20px !important;}
+	.pickquantity a.pick-prise { margin:15px 0;}
+	/*pickquantity */
+	/*print your own main */
+	.print-your-own1 .colorslct {width: 27%;}
+	/*print your own main */
+	.erytng-wedpic-main .colorschemewed .wedoddevendiv { padding-top:0;} 	
+	.feed-list ul.inner-image-feed li { width:100%; margin:0;}
+	.feed-list ul.inner-image-feed li img { margin:0; float:left; width:100%; margin-bottom:5px;}
+	.see-more { font-size:23px;}
+	.order-prints-main .unlimited-print { font-size: 16px;}
+	
+	.beacon-manage-main .select-user-box form .tag-line { font-size: 16px;}
+}
+@media screen and (max-width:480px){
+	h1 { font-size:28px;}
+	h2 { font-size:18px;}
+	.why-gallary img { width:100%;}
+	.why-gallary .why-galry-sctn-4 .more-but { font-size:13px;} 
+	.any-thing-main .any-thing-thumb ul li { width:80px;}
+	.wedoo-aap .weapp-text section p { font-size:13px;}
+	.wedoo-aap .weapp-slider-frame { max-width:300px; margin:0 auto; float:none; padding:31px 30px 27px 28px;}
+	.flex-direction-nav {  bottom: -64px;}
+	.flex-control-nav { bottom: -17px;}
+	.app-available ul li { width:100%; margin-bottom:20px;}
+	.app-available ul li .app-icon-img { margin-bottom:10px;}
+	.video-main,
+	.video-main section { height:250px;}
+	.lets-connect .social-main .social {  height: 145px; margin-left: -144px; padding: 10px 49px 0;  width: 288px; background-position:center top; background-size:100% auto;}
+	.lets-connect .social-main .social li {  margin: 5px 0 0; width: 33.33%;}
+	.lets-connect .social-main { min-height:160px;}
+	.st-menu ul li a { font-size:11px; padding:8px 0;}
+
+	/*******************************/
+	.faq-main a.left-ico { width: 80px; left: 15px;}
+	.faq-main a.right-ico { width: 30px;  right: 15px;}	
+	.faq-main .faq .faq-div .txt h1.faq-h {font-size: 30px;}
+	.faq-main .faq .faq-div form ul{margin-top:10px;}
+	.faq-main .faq .faq-div form ul li input.txt-bx { font-size: 14px;}
+	.faq-main .faq .faq-div form ul li .btn1 {background-size: 20px auto; padding: 18px 20px;}
+	.faq-main .faq .faq-div form ul li p { font-size: 14px;}
+	.faq-main .faq { max-height: 270px;}
+	.faq-botm .last-btns a { font-size: 12px; width: 190px;	 margin-right: 00px; margin-bottom:10px;}
+	.gw-sidebar .gw-nav-list li a { padding-left: 60px;}
+	.gw-nav-list > li .gw-submenu > li{padding-left:60px;}
+	.gw-nav-list > li > a { font-size: 14px;}
+	.gw-nav-list > li .gw-submenu > li p { font-size: 13px; line-height: 20px;}
+	
+
+	/*features*/
+	.features .unlimited-photo ul.list li{width:48%;}
+	.features .unlimited-photo ul.list li a{font-size:14px;}
+	.features .unlimited-photo p{font-size:15px;}
+	.ff-cntnt .main-ff-cntnt .ff-rightside > img{width:100%;}
+	
+	.imgsec1 { max-height: 350px;}
+	.imgsec2 { max-height: 350px;}
+	.imgsec3 { max-height: 350px;}
+	/*features*/
+
+	/*manage-albums*/
+	.manage-albums h3.mng-head { font-size: 15px; margin-top: 13px;}
+	.manage-albums .suggest-wed-album .suggest-txt h1{  padding: 10px 10px;  font-size:18px;}
+	.manage-albums .create-ur-album form .txt-bx {font-size: 14px;}
+	.manage-albums .create-ur-album form .brows { height: 34px; background-size: 20px auto;}
+	.manage-albums .mange-cntntbox .mbox img.mngimg {width:50px;}
+	.manage-albums .mange-cntntbox .mbox img.mng-h {width:50px;}
+	.manage-albums .mange-cntntbox .mbox{height: auto; padding: 25px 5px 15px;}
+	.manage-albums .mange-cntntbox .mbox:hover { height: auto; padding: 25px 5px 15px;}
+	#upload-pic .custom-pop-inner .inner-part { height: 200px;}
+	#upload-pic .custom-pop-inner { height: 381px;}
+	#slideshow .custom-pop-inner .inner-part { height: 281px;}
+	#slideshow .custom-pop-inner { height: 381px;}
+	#push-to-fb .custom-pop-inner .inner-part { height: 281px;}
+	#push-to-fb .custom-pop-inner { height: 381px;}
+	.manage-albums .mange-cntntbox .mbox { width: 42%;}
+	.manage-albums .mange-cntntbox .mbox span {  font-size: 13px;}
+	#push-to-fb .custom-pop-inner a.slideshow{font-size:15px; }
+	
+	/*manage-albums*/
+
+	/*payment-option-main */
+	.payment-option-main ul.payment-imgs li img{width:90px;}
+	.payment-option-main form ul.pay-ul li .pay-txbx{font-size:14px;  padding: 8px 10px;}
+	.payment-option-main form ul.pay-ul li .btn-group .btn{font-size:14px; padding:8px 10px;}
+	.payment-option-main form ul.pay-ul li .apply-btn{font-size:14px; padding: 8px 10px;}
+	
+	.payment-option-main form ul.pay-ul li label.lbl{width:100%; padding:0;}
+	.payment-option-main form ul.pay-ul li .btn-group.ed1 { float: right; margin: 0 1%; width: 48%;}
+	.payment-option-main { margin-top: 0;}
+	.payment-option-main { padding: 0 20px;}
+	.payment-option-main form ul.pay-ul ul.pay-txt li{font-size:12px; }
+	.payment-option-main form ul.pay-ul li .complete{font-size: 14px; padding: 7px 0;}
+	.payment-option-main form p{font-size:13px;}
+	.payment-option-main form ul.pay-ul li .btn-group .dropdown-menu ul li a { font-size: 14px;}
+	
+	.payment-option-main .paytyp-round .round > img{width:80px;}
+	.payment-option-main .paytyp-round h1.paytop-txt { font-size: 25px;}
+	.payment-option-main form ul.pay-ul .pymnt-dtl { width:100%; }
+	.payment-option-main form ul.pay-ul .pymnt-dtl ul.pay-txt { width:100%; float:left; margin-bottom:5px;}
+	.payment-option-main form ul.pay-ul .pymnt-dtl ul.pay-txt li { margin:0; width:33.33%; float:left;}
+	/*payment-option-main */
+
+	/*******************************/
+
+	.feed{width:100%;}
+	.live-feed-main{width:96%;float:left}
+	/*.feed-info {float: left;width: 100%;}*/	
+	.live-feed-main .sub-inner-feed{width:100%;}
+	.feed-list{width:100%;}
+	.live-feed-main .middle-feed-header h1 {font-size: 30px;height: 37px;text-align: center;}
+	.live5feed{width:100%;}
+	.comment-feed-box{width:100%;}
+	.feed-user-name{font-size:13px;}
+	.feed-desc {font-size: 11px;width: 100%;word-wrap: break-word;}
+	.feed-btns{float:left;width:100%;}
+	.inner-image-feed{margin-left:0px;}
+	.inner-image-feed .first-inner-div {margin-right: 0;}
+	.large-feed-img >img ,.small-feed-img > img{float: left; width: 91%;}
+	.comment-user-pic > img {height: auto;width: 25px;}
+	.btn.btn-default.dropdown-toggle.planebtn > img {width: 18px;}
+	.btn.send-feed {font-size: 10px;}
+	.addvideophoto img {width: 29px;}
+	.addvideophoto{float:left;}
+	.send-comment-feed { width: 86%;}
+	.addvideophoto { float: right;}
+	.feed-char { margin-left: 15%;}
+	.feed-char { margin-left: 62px; margin-top: -46px;}
+	
+	/* invite guest */
+	.invite-guest-main .list-main table tr th, .invite-guest-main .list-main table tr td { font-size: 12px; font-weight: normal; }
+	/*.accommodations*/
+	.accommodations .acc-form-div form .acc-btns {   font-size: 14px;}
+	.acc-head{font-size:14px;}
+	.accommodations .acc-form-div form ul li .acc-side a.sidebtn{font-size:12px;}
+	.accommodation-list .acc-list-div .location .acc-ldiv{ padding: 20px 15px 20px 15px;}
+	.accommodation-list .acc-list-div .location .acc-listimg{width:80%; margin: 35px 0 10px;}
+	/*.accommodations*/
+	/* wedding setup*/
+	.wedding-part-right .wedding-white .wedding-vector{font-size:28px;}
+	.fields-wedding li span.name{font-size:25px;}
+	.fields-wedding li .drop-name::before{ right:1px;}
+	.fields-wedding li{padding:0 15px;}
+	.setup-mid{height:570px !important;}
+	.wedding-part-left .setup-left .setuptext{ font-size: 30px; }
+	.wedding-part-left .setup-left .setup-mid img.weddinglogo { width:150px;}
+	.fields-wedding li label{margin-top:10px;}
+	.fields-wedding li .finish-but { font-size:16px; padding:8px 0;}
+	.wedding-part-right .wedding-white .wedding-vector { background-size:250px auto;}
+	.wedding-part-right .wedding-white .wedding-vector { font-size: 25px;}
+	.fields-wedding{margin-top:30px;}
+	.logout{font-size:12px;  padding:5px 9px; border:2px solid #e8817f;}
+	/* wedding setup*/
+	/*blog*/
+	.blog-banner { max-height: 290px;}
+	.invitation-block > img {width: 100%;}
+	.goodness-block:last-child{margin-right:0;}
+	.blog-bottom-main .invitation-heading{font-size:25px;}
+	.blog-middle-slider-section{height: 222px !important;width: 222px !important;}
+	.blog-upper-text p.blog-head-text {font-size: 22px; margin-bottom: 14px; margin-top: 18px;}
+	.trending{margin-top:10px;}
+	.trending .res-margin{margin-bottom:20px;}
+	.overlaytextblog{ font-size: 12.22px;padding: 11px;}
+	.get-started-block { margin-bottom: 26px;margin-top: 0;}
+	.get_started_btn {font-size: 25px;height: auto;width: 100%;}
+	.invitation-heading {font-size: 22px;margin-bottom: 10px;}
+	.invitation-text {float: left;font-size: 13px; margin-top: 10px; }
+	.read_more_blog {font-size: 13px;height: auto;margin-top: 5px;width: 45%;}
+	.goodness-heading { float: left;font-size: 21px;}
+	.goodness-text{ font-size: 17px;}
+	.trending .get-started-btn{font-size:20px;}
+	.blog-bottom-main .read_more_blog{font-size:15px;}
+	.trending .trendingimg{top: 20px;}
+	.blog-bottom-main{text-align:center;}
+	.blog-bottom-main .invitation-heading{text-align:left;}
+	.blog-bottom-main .invitation-heading { font-size: 18px;	}
+	.goodness-block { display: inline-block; float: none; margin: 0 1% 20px !important; width: 65% !important;}	
+	.blog-bottom-main .invitation-text{font-size: 15px; }
+	.blog-bottom-main .invitation-heading{font-size:16px;}
+	.trending .overlay-box{ font-size:14px;	}
+	.trending .get-started-btn { font-size: 16px;    padding: 6px 35px;}
+	.blog-bottom-main .invitation-text{text-align:justify;}
+	.blog-bottom-main .read_more_blog { font-size: 13px;  padding: 5px 10px;}
+	.blog-upper-text .blog-head-text { font-size: 15px;}
+	.blog-upper-text p.blog-sub-text {  font-size: 13px;}
+	/*blog*/
+	/*Add Wedpics To Your Website*/
+	.add-Wedpics .add-web-right p.add-ptag br{display:none;}
+	.add-Wedpics .add-web-left{width:90%;}
+	.add-Wedpics .add-web-right p.add-ptag{font-size:14px;}
+	.add-Wedpics .add-web-right a.click{font-size:14px;}
+	.add-Wedpics .add-web-right p.add-ptag{line-height:20px;}
+	/*Add Wedpics To Your Website*/
+	
+	/*edit-color-scheme*/
+	.edit-color-scheme a.edit-clr-btns{margin-top:30px; font-size:16px; width:100px;}
+	.edit-color-scheme a.reset{font-size:16px;}
+	/*edit-color-scheme*/
+	/*select-your-photo*/
+	.select-your-photo .dorp-main .btn-group { margin-bottom:10px;}
+	/*select-your-photo*/
+	/*pickquantity*/
+	.pickquantity p{ font-size: 14px;}
+	.pickquantity a.pick-prise {font-size:18px; width: 240px;}
+	.pickquantity a.pick-prise.pick-prisetop img.best{width:18%;}
+	/*pickquantity */
+	/*print your own main */
+	ul#slide-listprint{ width: 295px; margin: 10px;}
+	ul#slide-listprint li.slide-link-0 {width: 131px;}
+	ul#slide-listprint li.slide-link-1 { width: 131px;}
+	.print-your-own1 .colorslct { margin-top: -16px;width: 40%;}	
+	.print-your-own1 .colorslct3 {margin-top: -15px; width: 161%;}
+	.order-app-cards.print-your-own1 .colorslct{ margin-top: -15px;width: 41%;}
+	.colorslct4.colorslct2 { width: 82%;}
+	/*print your own main */
+	/*Photo Comment*/
+	
+	.photo_box {display: inline-block;float: none !important;height: 365px;margin: 10px auto;width: 420px;}
+	.comment_section {width: 370px;}
+	#custom-scrl{ height:62%!important;}
+	.admin_content_photos{ margin:50px 0 0; }
+	.photo-comment-main .Photobox_inner_part{ height:345px;}
+	.comment_part_photobox .comment_part {background:#ffffff;border: medium none;left: 0px;padding: 0;position: inherit;top: 324px;width: 100%;z-index: 999;}
+	.tag_icon {padding: 10px;width: 50px;}
+	.tag_icon img{ max-height:100%; max-width:100%;}
+	.comment_tab ul li a { padding: 15px 0;}
+	.comment_part_photobox .comment_part {background: none repeat scroll 0 0 #ffffff;border: medium none;left: 0;padding: 0;position: inherit;top: 324px;width: 86%;z-index: 9999;}
+	.comment_part .person_image {width: 28%;}
+	.Comment_detail_desc {left: 0; position: absolute;top: 0;width: 70% !important;}
+	.image-comment-photo {width: 86%;}
+	#admin-content .mCSB_container{ height:76%;}
+	.Comment_detail .video-camera {font-size: 21px;right: 73px;top: 285px;}
+	.photo-comment{ width:70px;}
+	.image-comment-photo {width: 350px;}
+	.comment_section {width: 350px;}
+	.Comment_detail .video-camera {font-size: 21px;right: 95px;top: 266px;}
+	.comment_part_photobox .comment_part{ top: 306px;width: 350px;}
+	.comment_part .person_image {width: 71px;}
+	.Comment_detail_desc{ width:78%!important;}
+	.comment_tab ul li a {padding: 11px 0;}
+	.comment_tab ul li a div {font-size: 28px;}
+	.leave_comment .comment_input textarea{ height:80px;}
+	.leave_comment {margin-top: 0px;}
+	.Social-media-icons {margin: 0 auto;text-align: center;width: 95%;}
+	.download_button_media button {margin-bottom: 20px;margin-top: 15px;}
+	.comment_tab ul li a div.Count {padding-top: 2px;}
+	.Comment_detail .video-camera {font-size: 21px;right: 88px;top: 256px;}
+	.photo_box{ height:auto!important;}
+	.grid-view-content {margin-left: auto;margin-right: auto;width: 100%;}
+	/*Photo Comment*/
+
+}
+@media screen and (max-width:420px){
+.images_container {width: 100%;}
+	.photo_box {height:270px;width: 270px;margin:5px 0;}
+	.comment_tab {width: 56px;}
+	.comment_section .title h2 {font-size: 19px;line-height: 18px;}
+	.comment_section {width: 242px;}
+	.leave_comment .comment_input textarea{ width:100%;}
+	.Photobox_inner_part .mCSB_scrollTools .mCSB_dragger .mCSB_dragger_bar {background: none repeat scroll 0 0 rgba(255, 255, 255, 0.4)!important;box-shadow:0 0 0!important;}
+	.leave_comment .Add_comment input[type="submit"] {background: none repeat scroll 0 0 #008085; border: medium none;border-radius: 30px;font-size: 9px;margin-top: 9px;padding: 11px 14px;}
+	.edit_button {margin: 0 auto;width: 90%;}
+	.Photo-edit .Album-slider {height: 96px;margin: 20px auto;width: 170px;}
+	.Photo-edit .caption .title_cap{ font-size:14px;}
+	.Photo-edit .caption .caption_input input{ font-size:11px; }
+	.Album_list .Album_box {border: 2px solid #8a8a8a;height: 72px;margin: 10px;width: 72px;}
+	.Photo-edit .Album-slider .carousel-control.left {background:  transparent;border-radius: 50%;color: #e8817f;display: block;height: 90px;left: -36px;
+	padding-left: 17px;padding-top: 28px;text-align: left;text-shadow: 0 0 0;  top: 0;width: 90px;z-index: 98;}
+	.Photo-edit .Album-slider .carousel-control.left:hover{ color:#ffffff!important; color:#E8817F!important; }
+	.Photo-edit .Album-slider .carousel-control.right {background:transparent; color:#E8817F;  border-radius: 50%;display: block;height: 90px; left: auto;right: -38px;padding-right: 17px;padding-top: 28px;text-align: right;top: 0px;width: 90px;z-index: 0; text-shadow:0 0 0;}
+	.Photo-edit .Album-slider .carousel-control.right:hover{ color:#ffffff!important; color:#E8817F!important; }
+	.Social-media-icons a {height: 55px;width: 55px;}
+	.second_photobox .comment_part{ width:95%;}
+	.download_button_media button { padding: 7px 12px;}
+	.leave_comment .comment_input textarea {border: 1px solid #e8817f;color: #e8817f;height: 49px;padding: 5px;resize: none;width: 100%;}
+	.Photobox_inner_part{ height:215px;}
+	.socil_media_part {margin-top: 0;}
+	.download_button_media button{ margin-top:3px;}
+	.leave_comment .Add_comment input[type="submit"] {background:  #008085;border: medium none; border-radius: 30px;  font-size: 9px;margin-top: 9px;padding: 7px 14px;}
+	.second_photobox .comment_tab{ width:30px;}
+	.Edit_control{ padding-bottom:3px;}
+	.comment_tab ul li a {padding: 10px 0;}
+	.comment_tab ul li a div {font-size: 21px;}
+	.comment_tab ul li a div.Count { font-size: 14px; padding-top:0px;}
+	.comment_part{ width:98%;}
+	.comment_section .title .line_title {border-bottom: 2px solid #e8817f;display: inline-block; margin-top: 13px; width: 56px;}
+	.caption h2 {color: #ffffff;font-family: amplify_personal_use_onlyRg;font-size: 30px;left: 11px;position: absolute;text-align: left;top: 0;width: 58%;z-index: 99;}
+	.image-comment-photo {width: 100%;}
+	.second_photobox .comment_part .Comment_detail {width: 74%;}
+	.second_photobox .comment_part .person_image {width: 25%;}
+	.comment_part_photobox .comment_part {background:#ffffff;border: medium none;left: 0px;padding: 0;position: inherit;top: 211px;width: 100%;z-index: 999;}
+	.commentPerson_name h3{ font-size:21px;}
+	.comment_time {font-size: 8px;padding: 3% 0;}
+	.comment_desc {color: #008085;font-family: open_sanslight;font-size: 11px;}
+	#custom-scrl{ height:75%!important;}
+	.photo-comment-main .Photobox_inner_part{ height:240px;}
+	.tag_icon {padding: 2px 5px;width: 22px;}
+	.tag_icon img{ max-height:100%; max-width:100%;}
+	.photo-comment{ background:transparent; width:100%; margin-top:6px; position:absolute; left:50%;}
+	.photo_box {background: #ffffff;height: 295px;margin-right: 0 !important;position: relative;width: 340px;}
+	.view-album{ margin-bottom:10px;}
+	.view-album a{ padding:0 5px;}
+	.image-comment-photo { height: 280px;left: 0;position: absolute;top: 0;width: 284px;z-index: 9980;}
+	.image-comment-photo img{ max-height:100%; max-width:100%; width:100%;}
+	.comment_part_photobox .comment_part {top: 228px; width: 89.5%; z-index: 9999;}
+	.comment_part .person_image {width: 57px;}
+	.Comment_detail_desc {left: 0;position: absolute;top: 0;}
+	.comment_part_photobox .comment_part {top: 248px;width: 284px;z-index: 9999;}
+	.grid-view-content .image-box {height: 55px;margin: 6px;overflow: hidden;width: 55px;}
+	.vertical-scroll-menu{ margin-left:10px;}
+	#admin-content .mCSB_container{ height:90%;}
+	.Comment_detail .video-camera {font-size: 21px;right: 60px;top: 163px;}
+	.comment_part {padding: 2% 1%;}
+	.leave_comment{ margin-top:0px;}
+	.Social-media-icons a{ font-size:29px;}
+	.download_button_media button{ font-size:14px;}
+	.Link-of-website h2{ font-size:15px;}
+	.Link-of-website .Site_url{ font-size:13px;}
+	.leave_comment .Add_comment input[type="submit"]{ margin-top:5px; margin-bottom:8px;}
+	.photo-comment-main{ padding:0;}
+	.vertical-scroll-menu{ margin-left:0;}
+	.comment_part_photobox .comment_part{ top:239px;}
+	.Comment_detail_desc{ width: 77% !important;}
+	.Comment_detail .video-camera {font-size: 21px;right: 68px;top: 199px;}
+	.comment_section {padding: 0 0px;width: 283px;}
+	.comment_tab ul li .back-button a {left: 3px;top: 40%; font-size: 35px;}
+
+	.leave_comment .Add_comment input[type="submit"] { margin-bottom: 13px;margin-top: 13px;}
+	.leave_comment .comment_input textarea {border: 1px solid #e8817f;color: #e8817f;height: 70px;padding: 5px;resize: none;width: 100%;}
+	.download_button_media button{ margin-top:15px; margin-bottom:15px;}
+	.download_button_media button{ font-size:16x;}
+	.commentPerson_name .comment_time{ padding:3% 2%; width:63%;}
+	.socil_media_part {margin-top: 0;width: 82% !important;}
+	.comment_time{ width:82%;}
+	.leave_comment .Add_comment input[type="submit"] { margin-bottom: 10px;margin-top: 11px;}
+	.view-album {margin-top: 17px;margin-bottom:0;}
+	#admin-content .mCSB_container {height: 100%;}
+	.tag_icon {padding: 4px 5px;width: 28px;}
+	.commentPerson_name h3 {font-size: 26px;}
+	.grid-view-content {background:  transparent;margin-left: auto;margin-right: auto;margin-top: 20px;width: 80%;}
+	.edit_button { margin: 0 auto;width: 70%;}
+	/*Photo Comment*/
+	#select-event .custom-pop-inner {  height: 304px;}}
+@media screen and (max-width:369px){
+	h1 { font-size:26px;}
+	h2 { font-size:16px;}
+	.video-main,
+	.video-main section { height:200px;}
+
+	#register form ul li {  width:100%;}
+	#register .custom-pop-inner { height:345px; }
+
+	/* invite guest */
+	.invite-guest-main .invite-guest .email-but { width:100%; margin-bottom:10px;}
+	.invite-guest-main .list-main { padding:0;}
+	#admin-content { padding:0 5px;}
+	/*thanx-signup*/
+	.thanx-signup .middle-thanx { padding: 60px 10px;  width: 300px;}
+	.thanx-signup .thanxtxt { margin-top:10px;}
+	.thanx-signup .thanxtxt p { font-size: 15px;}
+	.thanx-signup .thanxvector { font-size: 20px; margin: 10px 0;  padding: 8px 0;}
+	.thanx-signup p.help-weedoo { font-size: 16px;}
+	.thanx-signup .socialtx ul li img { height: 40px; width: 40px;}
+	.thanx-signup .btnthanx { margin-top:35px; margin-bottom:30px;}
+	.thanx-signup .btnthanx a { font-size: 16px;  padding: 9px 42px;}
+	/*thanx-signup*/
+
+	.create-event-list .event-list-div .location .acc-listimg { width:100%; padding:0; margin:0;}
+	
+	/*order-prints-main*/
+	.order-prints-main .print-produt-detail .product-detail { width:100%;}
+	.order-prints-main .print-produt-detail .detail-section { margin:0 25px 10px 15px;}
+	.select-your-photo .total-print-cont span { width:100%;}
+	.select-your-photo .total-print-cont .edit-but { margin:0 30px;}
+	/*blog*/
+	.invitation-block > img {width: 100%;}
+	.goodness-block:last-child{margin-right:0;}
+	.goodness-block{width:100% !important}
+	.trending .trendingimg{top: 20px;}
+	/*blog*/
+	/*payment-option-main */	
+	.payment-option-main ul.payment-imgs li img{width:70px;}
+	/*payment-option-main */
+	/*print your own main */
+	.print-your-own1 .colorslct {width: 26%;}
+	.wedoowhite {width: 100px;}
+	.ptrnbg2 h2{ font-size: 44px;}
+	.ptrnbg2 p{ font-size: 11px;}
+	.ptrnbg2 p span{font-size: 20px;}
+	.print-your-own1 .main-clrs.ptrns label.lbl-edit{width:60px;height:60px;}
+	.print-your-own1 .colorslct3 { margin-top: -21px;width: 180%;}
+	.colorslide{font-size: 23px; padding: 3px 7px;}
+	.order-app-cards.print-your-own1 .colorslct{ margin-top: -15px;width: 25%;}
+	.colorslct4.colorslct2 { width: 77%;}
+	/*print your own main */
+	/*Photo Comment*/
+	
+	.images_container {width: 100%;}
+	.photo_box {height:270px;width: 270px;margin:5px 0;}
+	.comment_tab {width: 56px;}
+	.comment_section .title h2 {font-size: 19px;line-height: 18px;}
+	.comment_section {width: 242px;}
+	.leave_comment .comment_input textarea{ width:100%;}
+	.Photobox_inner_part .mCSB_scrollTools .mCSB_dragger .mCSB_dragger_bar {background: none repeat scroll 0 0 rgba(255, 255, 255, 0.4)!important;box-shadow:0 0 0!important;}
+	.leave_comment .Add_comment input[type="submit"] {background: none repeat scroll 0 0 #008085; border: medium none;border-radius: 30px;font-size: 9px;margin-top: 9px;padding: 11px 14px;}
+	.edit_button {margin: 0 auto;width: 90%;}
+	.Photo-edit .Album-slider {height: 96px;margin: 20px auto;width: 170px;}
+	.Photo-edit .caption .title_cap{ font-size:14px;}
+	.Photo-edit .caption .caption_input input{ font-size:11px; }
+	.Album_list .Album_box {border: 2px solid #8a8a8a;height: 72px;margin: 10px;width: 72px;}
+	.Photo-edit .Album-slider .carousel-control.left {background:  transparent;border-radius: 50%;color: #e8817f;display: block;height: 90px;left: -36px;
+	padding-left: 17px;padding-top: 28px;text-align: left;text-shadow: 0 0 0;  top: 0;width: 90px;z-index: 98;}
+	.Photo-edit .Album-slider .carousel-control.left:hover{ color:#ffffff!important; color:#E8817F!important; }
+	.Photo-edit .Album-slider .carousel-control.right {background:transparent; color:#E8817F;  border-radius: 50%;display: block;height: 90px; left: auto;right: -38px;padding-right: 17px;padding-top: 28px;text-align: right;top: 0px;width: 90px;z-index: 0; text-shadow:0 0 0;}
+	.Photo-edit .Album-slider .carousel-control.right:hover{ color:#ffffff!important; color:#E8817F!important; }
+	.Social-media-icons a {height: 55px;width: 55px;}
+	.second_photobox .comment_part{ width:95%;}
+	.download_button_media button { padding: 7px 12px;}
+	.leave_comment .comment_input textarea {border: 1px solid #e8817f;color: #e8817f;height: 49px;padding: 5px;resize: none;width: 100%;}
+	.Photobox_inner_part{ height:215px;}
+	.socil_media_part {margin-top: 0;}
+	.download_button_media button{ margin-top:3px;}
+	.leave_comment .Add_comment input[type="submit"] {background:  #008085;border: medium none; border-radius: 30px;  font-size: 9px;margin-top: 9px;padding: 7px 14px;}
+	.second_photobox .comment_tab{ width:30px;}
+	.Edit_control{ padding-bottom:3px;}
+	.comment_tab ul li a {padding: 10px 0;}
+	.comment_tab ul li a div {font-size: 21px;}
+	.comment_tab ul li a div.Count { font-size: 14px; padding-top:0px;}
+	.comment_part{ width:98%;}
+	.comment_section .title .line_title {border-bottom: 2px solid #e8817f;display: inline-block; margin-top: 13px; width: 56px;}
+	.caption h2 {color: #ffffff;font-family: amplify_personal_use_onlyRg;font-size: 30px;left: 11px;position: absolute;text-align: left;top: 0;width: 58%;z-index: 99;}
+	.image-comment-photo {width: 100%;}
+	.second_photobox .comment_part .Comment_detail {width: 74%;}
+	.second_photobox .comment_part .person_image {width: 25%;}
+	.comment_part_photobox .comment_part {background:#ffffff;border: medium none;left: 0px;padding: 0;position: inherit;top: 211px;width: 100%;z-index: 999;}
+	.commentPerson_name h3{ font-size:21px;}
+	.comment_time {font-size: 8px;padding: 3% 0;}
+	.comment_desc {color: #008085;font-family: open_sanslight;font-size: 11px;}
+	#custom-scrl{ height:75%!important;}
+	.photo-comment-main .Photobox_inner_part{ height:240px;}
+	.tag_icon {padding: 2px 5px;width: 22px;}
+	.tag_icon img{ max-height:100%; max-width:100%;}
+	.photo-comment{ background:transparent; width:100%; margin-top:6px; position:absolute; left:50%;}
+	.photo_box {background: #ffffff;height: 295px;margin-right: 0 !important;position: relative;width: 340px;}
+	.view-album{ margin-bottom:10px;}
+	.view-album a{ padding:0 5px;}
+	.image-comment-photo { height: 280px;left: 0;position: absolute;top: 0;width: 284px;z-index: 9980;}
+	.image-comment-photo img{ max-height:100%; max-width:100%; width:100%;}
+	.comment_part_photobox .comment_part {top: 228px; width: 89.5%; z-index: 9999;}
+	.comment_part .person_image {width: 57px;}
+	.Comment_detail_desc {left: 0;position: absolute;top: 0;}
+	.comment_part_photobox .comment_part {top: 248px;width: 284px;z-index: 9999;}
+	.grid-view-content .image-box {height: 55px;margin: 6px;overflow: hidden;width: 55px;}
+	.vertical-scroll-menu{ margin-left:10px;}
+	#admin-content .mCSB_container{ height:90%;}
+	.Comment_detail .video-camera {font-size: 21px;right: 60px;top: 163px;}
+	.comment_part {padding: 2% 1%;}
+	.leave_comment{ margin-top:0px;}
+	.Social-media-icons a{ font-size:29px;}
+	.download_button_media button{ font-size:14px;}
+	.Link-of-website h2{ font-size:15px;}
+	.Link-of-website .Site_url{ font-size:13px;}
+	.leave_comment .Add_comment input[type="submit"]{ margin-top:5px; margin-bottom:8px;}
+	.photo-comment-main{ padding:0;}
+	.vertical-scroll-menu{ margin-left:0;}
+	.comment_part_photobox .comment_part{ top:239px;}
+	.Comment_detail_desc{ width: 77% !important;}
+	.Comment_detail .video-camera {font-size: 21px;right: 68px;top: 199px;}
+	.comment_section {padding: 0 0px;width: 283px;}
+	.comment_tab ul li .back-button a {left: 3px;top: 40%; font-size: 35px;}
+
+	.leave_comment .Add_comment input[type="submit"] { margin-bottom: 13px;margin-top: 13px;}
+	.leave_comment .comment_input textarea {border: 1px solid #e8817f;color: #e8817f;height: 70px;padding: 5px;resize: none;width: 100%;}
+	.download_button_media button{ margin-top:15px; margin-bottom:15px;}
+	.download_button_media button{ font-size:16x;}
+	.commentPerson_name .comment_time{ padding:3% 2%; width:63%;}
+	.socil_media_part {margin-top: 0;width: 82% !important;}
+	.comment_time{ width:82%;}
+	.leave_comment .Add_comment input[type="submit"] { margin-bottom: 10px;margin-top: 11px;}
+	.view-album {margin-top: 17px;margin-bottom:0;}
+	#admin-content .mCSB_container {height: 100%;}
+	.tag_icon {padding: 4px 5px;width: 28px;}
+	.commentPerson_name h3 {font-size: 26px;}
+	.grid-view-content {background:  transparent;margin-left: auto;margin-right: auto;margin-top: 20px;width: 80%;}
+	.edit_button { margin: 0 auto;width: 70%;}
+	/*Photo Comment*/
+	#select-event .custom-pop-inner {  height: 304px;}
+	.send-comment-feed { width: 82%;}
+	.ptrnbox .patrnbox1 { margin-right:0;}
+}
+
+@media screen and (max-width:320px){
+
+	.feed{width:100%;}
+	.live-feed-main{width:96%;float:left}
+	.feed-info {float: left;width: 100%;}
+	.live-feed-main .sub-inner-feed{width:100%;}
+	.feed-list{width:100%;}
+	.live-feed-main .middle-feed-header h1 {font-size: 30px;height: 37px;text-align: center;}
+	.live5feed{width:100%;}
+	.comment-feed-box{width:100%;}
+	.feed-user-name{font-size:13px;}
+	.feed-desc {font-size: 11px;width: 100%;word-wrap: break-word;}
+	.feed-btns{float:left;width:100%;}
+	.inner-image-feed{margin-left:0px;}
+	.inner-image-feed .first-inner-div {margin-right: 0;}
+	.large-feed-img >img ,.small-feed-img > img{float: left; width: 91%;}
+	.comment-user-pic > img {height: auto;width: 25px;}
+	.btn.btn-default.dropdown-toggle.planebtn > img {width: 18px;}
+	.btn.send-feed {font-size: 10px;}
+	.addvideophoto img {width: 29px;}
+	.addvideophoto{float:left;}
+	/*blog*/
+	.invitation-block > img {width: 100%;}
+	.goodness-block{width:100% !important}
+	.goodness-block:last-child{margin-right:0;}
+	.trending .trendingimg{top: 20px;}
+	/*blog*/
+	/*everythingwedpic*/	
+	.erytng-wedpic-main .wedfooter{height:240px;}
+	/*everythingwedpic*/
+	/*print your own main */
+	.print-your-own1 .colorslct {width: 22%;}
+	.patternheading{margin-left: 19px;}
+	.ptrnbox{padding:10px;}
+	.wedoowhite {width: 100px;}
+	.ptrnbg2 h2{ font-size: 44px;}
+	.ptrnbg2 p{ font-size: 11px;}
+	.ptrnbg2 p span{font-size: 20px;}
+	.print-your-own1 .main-clrs.ptrns label.lbl-edit{width:60px;height:60px;}
+	.patrnbox2 .apple{padding:10px;}
+	.patrnbox2 .android{padding:10px;}
+	.patrnbox2 .ptrn2txt{ margin-top: 12px;}
+	.downloadbuttons a.first{ margin-top: 0;}
+	.downloadbuttons a{ font-size: 14px;}
+	.colorslct4.colorslct2 { width: 75%;}
+	.print-your-own1 .colorslct3 {margin-top: -21px;width: 180%;}
+	.order-app-cards.print-your-own1 .colorslct{ margin-top: -15px;width: 17%;}
+	ul.slidelist {margin: 10px;width: 295px !important;}
+	ul.slidelist li.slide-link-0 {width: 90px !important;}
+	ul.slidelist li.slide-link-1 {width: 90px !important;}
+	ul.slidelist li.slide-link-2 {width: 81px !important;}
+	.colorslide{font-size: 23px; padding: 3px 7px;}
+	/*print your own main */
+	/*Photo Comment*/
+	
+	.images_container {width: 100%;}
+	.photo_box {height:270px;width: 270px;margin:5px 0;}
+	.comment_tab {width: 48px;}
+	.comment_section .title h2 {font-size: 19px;line-height: 18px;}
+	.comment_section {width: 242px;}
+	.leave_comment .comment_input textarea{ width:100%;}
+	.Photobox_inner_part .mCSB_scrollTools .mCSB_dragger .mCSB_dragger_bar {background: none repeat scroll 0 0 rgba(255, 255, 255, 0.4)!important;box-shadow:0 0 0!important;}
+	.leave_comment .Add_comment input[type="submit"] {background: none repeat scroll 0 0 #008085; border: medium none;border-radius: 30px;font-size: 9px;margin-top: 9px;padding: 11px 14px;}
+	.edit_button {margin: 0 auto;width: 90%;}
+	.Photo-edit .Album-slider {height: 96px;margin: 20px auto;width: 170px;}
+	.Photo-edit .caption .title_cap{ font-size:14px;}
+	.Photo-edit .caption .caption_input input{ font-size:11px; }
+	.Album_list .Album_box {border: 2px solid #8a8a8a;height: 72px;margin: 10px;width: 72px;}
+	.Photo-edit .Album-slider .carousel-control.left {background:  transparent;border-radius: 50%;color: #e8817f;display: block;height: 90px;left: -36px;
+	padding-left: 17px;padding-top: 28px;text-align: left;text-shadow: 0 0 0;  top: 0;width: 90px;z-index: 98;}
+	.Photo-edit .Album-slider .carousel-control.left:hover{ color:#ffffff!important; color:#E8817F!important; }
+	.Photo-edit .Album-slider .carousel-control.right {background:transparent; color:#E8817F;  border-radius: 50%;display: block;height: 90px; left: auto;right: -38px;padding-right: 17px;padding-top: 28px;text-align: right;top: 0px;width: 90px;z-index: 0; text-shadow:0 0 0;}
+	.Photo-edit .Album-slider .carousel-control.right:hover{ color:#ffffff!important; color:#E8817F!important; }
+	.Social-media-icons a {height: 55px;width: 55px;}
+	.second_photobox .comment_part{ width:95%;}
+	.download_button_media button { padding: 7px 12px;}
+	.leave_comment .comment_input textarea {border: 1px solid #e8817f;color: #e8817f;height: 49px;padding: 5px;resize: none;width: 100%;}
+	.Photobox_inner_part{ height:215px;}
+	.socil_media_part {margin-top: 0;}
+	.download_button_media button{ margin-top:3px;}
+	.leave_comment .Add_comment input[type="submit"] {background:  #008085;border: medium none; border-radius: 30px;  font-size: 9px;margin-top: 9px;padding: 7px 14px;}
+	.second_photobox .comment_tab{ width:30px;}
+	.Edit_control{ padding-bottom:3px;}
+	.comment_tab ul li a {padding: 7px 0;}
+	.comment_tab ul li a div {font-size: 20px;}
+	.comment_tab ul li a div.Count { font-size: 12px; padding-top:0px;}
+	.comment_part{ width:98%;}
+	.comment_section .title .line_title {border-bottom: 2px solid #e8817f;display: inline-block; margin-top: 13px; width: 56px;}
+	.caption h2 {color: #ffffff;font-family: amplify_personal_use_onlyRg;font-size: 30px;left: 11px;position: absolute;text-align: left;top: 0;width: 58%;z-index: 99;}
+	.image-comment-photo {width: 100%;}
+	.second_photobox .comment_part .Comment_detail {width: 74%;}
+	.second_photobox .comment_part .person_image {width: 25%;}
+	.comment_part_photobox .comment_part {background:#ffffff;border: medium none;left: 0px;padding: 0;position: inherit;top: 211px;width: 100%;z-index: 999;}
+	.commentPerson_name h3{ font-size:21px;}
+	.comment_time {font-size: 8px;padding: 3% 0;}
+	.comment_desc {color: #008085;font-family: open_sanslight;font-size: 11px;}
+	#custom-scrl{ height:75%!important;}
+	.photo-comment-main .Photobox_inner_part{ height:240px;}
+	.tag_icon {padding: 2px 5px;width: 22px;}
+	.tag_icon img{ max-height:100%; max-width:100%;}
+	.photo-comment{ background:transparent; width:100%; margin-top:6px; position:absolute; left:50%;}
+	.photo_box {background: none repeat scroll 0 0 #ffffff;height: 252px;margin-right: 76px;position: relative;width: 290px;}
+	.view-album{ margin-bottom:10px;}
+	.view-album a{ padding:0 5px;}
+	.image-comment-photo { height: 205px;left: 0;position: absolute;top: 0;width: 243px;z-index: 9980;}
+	.image-comment-photo img{ max-height:100%; max-width:100%; width:100%;}
+	.comment_part_photobox .comment_part {top: 228px; width: 89.5%; z-index: 9999;}
+	.comment_part .person_image {width: 45px;}
+	.Comment_detail_desc {left: 0;position: absolute;top: 0;width: 72% !important;}
+	.comment_part_photobox .comment_part {top: 205px;width: 235px; z-index: 9999;}
+	.grid-view-content .image-box {height: 55px;margin:  8px;overflow: hidden;width: 55px;}
+	.vertical-scroll-menu{ margin-left:10px;}
+	#admin-content .mCSB_container{ height:90%;}
+	.Comment_detail .video-camera {font-size: 21px;right: 60px;top: 163px;}
+	.comment_part {padding: 2% 1%;}
+	.leave_comment{ margin-top:0px;}
+	.Social-media-icons a{ font-size:29px;}
+	.download_button_media button{ font-size:14px;}
+	.Link-of-website h2{ font-size:15px;}
+	.Link-of-website .Site_url{ font-size:13px;}
+	.leave_comment .Add_comment input[type="submit"]{ margin-top:5px; margin-bottom:8px;}
+	.grid-view-content {margin-top: 0;margin-left:auto;margin-right:auto;width: 95% !important;}
+	.socil_media_part {margin-top: 0;width: 95% !important;}
+	.comment_tab ul li .back-button a{ font-size:30px;}
+	.comment_tab ul li .back-button a:hover{ font-size:30px;}
+	.Link-of-website .Site_url { font-style: italic;margin-top: 15px;}
+	/*Photo Comment*/
+	
+	#upload-pic .custom-pop-inner .inner-part h3 { margin: 6px 0;  font-size:10px;}
+	#upload-pic .custom-pop-inner .note p { font-size: 12px; line-height: normal; padding: 5px;}
+	#upload-pic .custom-pop-inner { height: 358px;}
+
+}
+
+
+@media only screen and (max-width: 1000px) and (orientation: landscape) {
+} 
+
+@media only screen and (max-width: 1000px) and (orientation: landscape) {
+}
+
+@media only screen and (max-width: 640px) and (orientation: landscape) {
+	
+/*manage-albums*/	
+#upload-pic .custom-pop-inner .inner-part { height: 180px;}	
+#slideshow .custom-pop-inner .inner-part { height: 238px;}	
+#push-to-fb .custom-pop-inner .inner-part { height: 238px;}	
+/*manage-albums*/	
+}
+@media only screen and (max-width: 480px) and (orientation: landscape) {
+	
+/*manage-albums*/
+#upload-pic .custom-pop-inner {height: 265px;}
+#upload-pic .custom-pop-inner .uplodpic-box .mbox { height: 110px;  padding: 10px 5px;}
+#upload-pic .custom-pop-inner .uplodpic-box span { font-size: 11px;}
+#upload-pic .custom-pop-inner .inner-part h3 { margin:6px 0;}
+#upload-pic .custom-pop-inner .inner-part { height: 120px;}
+#upload-pic .custom-pop-inner .note p { font-size: 12px; padding: 7px;}
+#upload-pic .custom-pop-inner .uplodpic-box .mbox { height:85px; width:100px; margin:0 10px 10px;}
+#upload-pic .custom-pop-inner .uplodpic-box .mbox img.mng-h,
+#upload-pic .custom-pop-inner .uplodpic-box .mbox img.mngimg { width:40px;}
+
+#slideshow .custom-pop-inner .uplodpic-box .mbox { height: 110px;  padding: 10px 5px;}
+#slideshow .custom-pop-inner .uplodpic-box span { font-size: 11px;}
+#slideshow .custom-pop-inner .inner-part { height: 200px;}
+#slideshow .custom-pop-inner .note p { font-size: 12px; padding: 7px;}
+
+#push-to-fb .custom-pop-inner .uplodpic-box .mbox { height: 110px;  padding: 10px 5px;}
+#push-to-fb .custom-pop-inner .uplodpic-box span { font-size: 11px;}
+#push-to-fb .custom-pop-inner .inner-part { height: 200px;}
+#push-to-fb .custom-pop-inner .note p { font-size: 12px; padding: 7px;}
+/*manage-albums*/
+}
+
+@media only screen and (max-width: 480px) and (orientation: landscape) and (-webkit-min-device-pixel-ratio:0){
+	#upload-pic .custom-pop-inner { height: 180px;}
+	#upload-pic .custom-pop-inner .admin-white-head { padding:5px 0;}	
+	#upload-pic .custom-pop-inner .admin-white-head h1 { font-size: 20px;}
+	#upload-pic .custom-pop-inner .inner-part h3 { margin: 3px 0; font-size:12px;}
+	#upload-pic .custom-pop-inner .uplodpic-box .mbox { height: 65px; margin: 0 10px 5px;  width: 100px; padding:5px;}
+	#upload-pic .custom-pop-inner .uplodpic-box .mbox img.mng-h,
+	#upload-pic .custom-pop-inner .uplodpic-box .mbox img.mngimg {  width: 30px;}
+	#upload-pic .custom-pop-inner .inner-part { height: 95px;}
+	#upload-pic .custom-pop-inner .note p { font-size: 10px; padding: 4px; line-height:11px;}
+	#upload-pic .custom-pop-inner .admin-white-head h1 { line-height:20px;}
+	#upload-pic .custom-pop-inner .admin-white-head h1 i { font-size:20px;  height: 20px; line-height: 20px;}
+	#upload-pic .custom-pop-inner .choose-file { font-size:10px; padding:4px 0;}
+	
+}
+@media only screen and (min-width: 760px) and (max-width: 770px) and (-webkit-min-device-pixel-ratio:0) {
+	.live-feed-main { width:94%;}  
+	.addvideophoto { margin-left:4px;}
+}

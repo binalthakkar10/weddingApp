@@ -1,0 +1,75 @@
+.logout {border: 3px solid #e8817f;border-radius: 5px;color: #e8817f;font-family: open_sanssemibold;font-size: 18px;margin-right: 34px;margin-top: 32px;padding: 15px 29px;position: fixed;right: 0;top: 0;}
+.wedding-part-left .setup-left .setup-mid img.weddinglogo {display: inline-block; float: none;}
+
+
+
+
+@media screen and (max-width:1370px){
+.logout { margin-right: 5px;margin-top: 5px;  font-size: 15px; padding: 9px 15px; z-index:999; }
+.wedding-part-right .wedding-white .wedding-vector{font-size:30px; background-size:350px;}
+.fields-wedding li span.name{font-size: 30px;line-height: 30px;}
+.fields-wedding li .btn-group .btn{ font-size: 15px;  padding: 10px 10px 10px 53px;}
+.fields-wedding li{margin-bottom:10px;}
+.fields-wedding li .drop-name{font-size:15px;}
+.fields-wedding li .finish-but{font-size:20px; padding: 8px 0;}
+.wedding-part-right .wedding-white{padding-bottom:0;}
+.wedding-part-left .setup-left .setuptext{  font-size: 40px; margin:20px 0;}
+.wedding-part-left .setup-left .setup-mid img.weddinglogo {width: 250px;}
+}
+
+@media screen and (max-width:1280px){
+}
+
+@media screen and (max-width:1024px){
+}
+
+@media screen and (max-width:980px){
+.wedding-part-left .setup-left .setup-mid img.weddinglogo { float: none; margin: 0 auto; width: 250px;}
+.wedding-part-left .setup-left .setup-mid{height:auto !important; margin-bottom:20px;}
+.wedding-part-left .setup-left{margin-bottom:40px;}
+.wedding-part-left .setup-left .setuptext{font-size: 35px;}
+.fields-wedding li .finish-but{font-size:18px; padding: 8px 0;}
+}
+
+@media screen and (max-width:800px){
+}
+
+@media screen and (max-width:640px){ 
+
+.setup-left .weddinglogo{width:100%;}
+.wedding-part-right .wedding-white .wedding-vector { background-size:300px auto;}
+.fields-wedding li .weding-tx-bx{font-size:17px;}
+.wedding-part-left .setup-left .setup-mid img.weddinglogo { width:150px;}
+}
+
+@media screen and (max-width:580px){ 
+
+.fields-wedding li .drop-name { right:0; top:0;display:inline-block; position:relative; margin-bottom:10px;}
+.fields-wedding li label.drowp-name{ max-width: 355px; width:100%;}
+.fields-wedding li label{margin-top:10px;}
+.fields-wedding li .weding-tx-bx{font-size:15px;}
+.wedding-part-left .setup-left .setuptext{font-size:25px;}
+.wedding-part-left .setup-left .setuptext br{display:none;}
+}
+
+@media screen and (max-width:480px){
+
+.wedding-part-right .wedding-white .wedding-vector{font-size:28px;}
+.fields-wedding li span.name{font-size:25px;}
+.fields-wedding li .drop-name::before{ right:1px;}
+.fields-wedding li{padding:0 15px;}
+.setup-mid{height:570px !important;}
+.wedding-part-left .setup-left .setuptext{ font-size: 30px; }
+.wedding-part-left .setup-left .setup-mid img.weddinglogo { width:150px;}
+.fields-wedding li label{margin-top:10px;}
+.fields-wedding li .finish-but { font-size:16px; padding:8px 0;}
+.wedding-part-right .wedding-white .wedding-vector { background-size:250px auto;}
+.wedding-part-right .wedding-white .wedding-vector { font-size: 25px;}
+.fields-wedding{margin-top:30px;}
+.logout{font-size:12px; margin-right:0; padding:5px 9px; border:2px solid #e8817f;}
+
+}
+
+@media screen and (max-width:369px){ 	
+
+}
